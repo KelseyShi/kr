@@ -1,0 +1,47 @@
+name: douban
+on: 
+  workflow_dispatch:
+  watch:
+    types: [started]
+  schedule:
+    - cron: '0 0 */7 * *'
+jobs:
+  douban:
+    name: Douban mark data sync
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+
+    - name: movie-mark
+      uses: lizheming/doumark-action@master
+      with:
+        id: ${{ secrets.DOUBAN_USER_ID }}
+        type: movie
+        format: csv
+        dir: ./douban/mark
+        status: mark
+        
+    - name: book-doing
+      uses: lizheming/doumark-action@master
+      with:
+        id:  ${{ secrets.DOUBAN_USER_ID }}
+        type: book
+        format: csv
+        dir: ./douban/doing
+        status: doing
+        
+    - name: book-mark
+      uses: lizheming/doumark-action@master
+      with:
+        id:  ${{ secrets.DOUBAN_USER_ID }}
+        type: book
+        format: csv
+        dir: ./douban/mark
+        status: mark
+        
+    - name: Commit
+      uses: EndBug/add-and-commit@v9
+      with:
+        message: 'chore: update douban data'
+        add: './douban'
