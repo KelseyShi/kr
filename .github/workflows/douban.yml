@@ -18,7 +18,7 @@ jobs:
       with:
         id: ${{ secrets.DOUBAN_USER_ID }}
         type: movie
-        format: csv
+        format: json
         dir: ./douban/mark
         status: mark
 
@@ -27,7 +27,7 @@ jobs:
       with:
         id: ${{ secrets.DOUBAN_USER_ID }}
         type: movie
-        format: csv
+        format: json
         dir: ./douban/done
         status: done
         
@@ -36,7 +36,7 @@ jobs:
       with:
         id:  ${{ secrets.DOUBAN_USER_ID }}
         type: book
-        format: csv
+        format: json
         dir: ./douban/doing
         status: doing
         
@@ -45,7 +45,7 @@ jobs:
       with:
         id:  ${{ secrets.DOUBAN_USER_ID }}
         type: book
-        format: csv
+        format: json
         dir: ./douban/mark
         status: mark
 
@@ -54,7 +54,7 @@ jobs:
       with:
         id:  ${{ secrets.DOUBAN_USER_ID }}
         type: book
-        format: csv
+        format: json
         dir: ./douban/done
         status: done
         
