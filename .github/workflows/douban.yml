@@ -21,6 +21,15 @@ jobs:
         format: csv
         dir: ./douban/mark
         status: mark
+
+    - name: movie-done
+      uses: lizheming/doumark-action@master
+      with:
+        id: ${{ secrets.DOUBAN_USER_ID }}
+        type: movie
+        format: csv
+        dir: ./douban/done
+        status: done
         
     - name: book-doing
       uses: lizheming/doumark-action@master
@@ -39,6 +48,15 @@ jobs:
         format: csv
         dir: ./douban/mark
         status: mark
+
+    - name: book-done
+      uses: lizheming/doumark-action@master
+      with:
+        id:  ${{ secrets.DOUBAN_USER_ID }}
+        type: book
+        format: csv
+        dir: ./douban/done
+        status: done
         
     - name: Commit
       uses: EndBug/add-and-commit@v9
