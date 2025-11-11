@@ -15,7 +15,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2019,
+				"count": 2025,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -58,7 +58,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/37269363.jpg",
-			"min_sale_price": "¥28.82",
+			"min_sale_price": "¥26.9",
 			"press": [
 				"中信出版社"
 			],
