@@ -188,7 +188,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 43621,
+				"count": 43631,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -205,7 +205,7 @@
 				{
 					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
-					"rank": 115,
+					"rank": 113,
 					"title": "豆瓣图书Top250"
 				}
 			],
@@ -365,7 +365,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2403,
+				"count": 2416,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -532,7 +532,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3346,
+				"count": 3349,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -698,7 +698,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 9278,
+				"count": 9281,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -782,7 +782,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 165089,
+				"count": 165253,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -799,7 +799,7 @@
 				{
 					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
-					"rank": 25,
+					"rank": 26,
 					"title": "豆瓣图书Top250"
 				}
 			],
@@ -876,10 +876,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1038,
+				"count": 1043,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 8.6
+				"value": 8.5
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -919,7 +919,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/37244516.jpg",
-			"min_sale_price": "¥29.9",
+			"min_sale_price": null,
 			"press": [
 				"湖南文艺出版社"
 			],
@@ -932,7 +932,7 @@
 			"uri": "douban://douban.com/book/37244516",
 			"subtype": "book",
 			"intro": "内容简介\n小红书超人气漫画家Daisy的首部爱情漫画，“猫未未”重磅新作！\nDaisy首次完整绘制自己与瑞典老公老D相遇、相识、结缘、相知、结婚、生子的全过程。从迪拜初见，到马耳他旅居，从瑞典生产，到中国定居，Daisy借生动有趣的漫画，把时间定格，捕捉自己爱情生活的点滴细节，浪漫温馨且富有哲思，让每一个朴实无华的日子，都拥有了特别值得被记录的瞬间。\n编辑推荐\n1.人气IP“猫未未”重磅新作！火爆小红书、公众号、抖音等社交媒体，全网阅读量超2亿，点赞量超千万的爱情故事！真实的爱情比偶像剧还要更戳人！\n2.呼吁最高的爱情主题，收录点击率最高的《我的天才爱人》全集，新增网上未发布四篇作品以及大幅场景图！\n3.已获第21届中国动漫金龙奖·IP综合奖潜力奖。\n4.全彩印刷，流畅跨页插图。\n5.随书附赠作者亲绘大场景海报！",
-			"buy_more_uri": "douban://douban.com/book/37244516/vendors_douban",
+			"buy_more_uri": "",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -960,7 +960,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 32062,
+				"count": 32083,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -1051,7 +1051,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3471,
+				"count": 3473,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -1146,7 +1146,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 26171,
+				"count": 26178,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -1230,7 +1230,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 94962,
+				"count": 94988,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -1247,7 +1247,7 @@
 				{
 					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
-					"rank": 176,
+					"rank": 173,
 					"title": "豆瓣图书Top250"
 				}
 			],
@@ -1323,7 +1323,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 64611,
+				"count": 64620,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -1491,7 +1491,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 8916,
+				"count": 8917,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.6
@@ -1577,7 +1577,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 546731,
+				"count": 546802,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -1594,7 +1594,7 @@
 				{
 					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
-					"rank": 67,
+					"rank": 66,
 					"title": "豆瓣图书Top250"
 				}
 			],
@@ -1668,7 +1668,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6022,
+				"count": 6025,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -1850,10 +1850,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 14798,
+				"count": 14804,
 				"max": 10,
 				"star_count": 4,
-				"value": 8
+				"value": 8.1
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -1943,7 +1943,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 12667,
+				"count": 12668,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -2029,7 +2029,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 20939,
+				"count": 20940,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -2110,7 +2110,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 518697,
+				"count": 518844,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -2201,7 +2201,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 59001,
+				"count": 59017,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -2251,7 +2251,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/6953273.jpg",
-			"min_sale_price": null,
+			"min_sale_price": "",
 			"press": [
 				"上海文化出版社"
 			],
@@ -2459,7 +2459,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 9618,
+				"count": 9638,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2553,7 +2553,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3707,
+				"count": 3718,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -2644,7 +2644,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2525,
+				"count": 2527,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2820,7 +2820,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1738,
+				"count": 1741,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -2994,7 +2994,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1505,
+				"count": 1508,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -3078,7 +3078,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 139303,
+				"count": 139441,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -3095,7 +3095,7 @@
 				{
 					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
-					"rank": 87,
+					"rank": 88,
 					"title": "豆瓣图书Top250"
 				}
 			],
@@ -3429,7 +3429,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 53052,
+				"count": 53067,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -3522,7 +3522,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3639,
+				"count": 3646,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -3609,7 +3609,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 819973,
+				"count": 820051,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -3626,7 +3626,7 @@
 				{
 					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
-					"rank": 58,
+					"rank": 56,
 					"title": "豆瓣图书Top250"
 				}
 			],
@@ -3703,10 +3703,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 221790,
+				"count": 221818,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 8.9
+				"value": 9
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -3796,7 +3796,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 211831,
+				"count": 211874,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -3813,7 +3813,7 @@
 				{
 					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
-					"rank": 35,
+					"rank": 34,
 					"title": "豆瓣图书Top250"
 				}
 			],
@@ -3890,7 +3890,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 126355,
+				"count": 126416,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -3907,7 +3907,7 @@
 				{
 					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
-					"rank": 29,
+					"rank": 28,
 					"title": "豆瓣图书Top250"
 				}
 			],
@@ -3983,7 +3983,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 176414,
+				"count": 176466,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -4076,7 +4076,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 210286,
+				"count": 210376,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -4169,7 +4169,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 306060,
+				"count": 306127,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -4262,7 +4262,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 210286,
+				"count": 210376,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -4355,7 +4355,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 306060,
+				"count": 306127,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -4448,7 +4448,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 217555,
+				"count": 217635,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -4465,7 +4465,7 @@
 				{
 					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
-					"rank": 154,
+					"rank": 151,
 					"title": "豆瓣图书Top250"
 				}
 			],
@@ -4541,7 +4541,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3404,
+				"count": 3405,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -4627,7 +4627,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3149,
+				"count": 3151,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -4808,7 +4808,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 33478,
+				"count": 33490,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -4825,7 +4825,7 @@
 				{
 					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
-					"rank": 209,
+					"rank": 211,
 					"title": "豆瓣图书Top250"
 				}
 			],
@@ -4902,7 +4902,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4828,
+				"count": 4831,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -5035,7 +5035,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/26703731.jpg",
-			"min_sale_price": "¥14.5",
+			"min_sale_price": "¥13.8",
 			"press": [
 				"机械工业出版社"
 			],
@@ -5162,7 +5162,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 13214,
+				"count": 13219,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -5215,7 +5215,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/27114418.jpg",
-			"min_sale_price": "¥19.0",
+			"min_sale_price": "¥18.0",
 			"press": [
 				"江西人民出版社"
 			],
@@ -5342,7 +5342,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 15025,
+				"count": 15034,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
