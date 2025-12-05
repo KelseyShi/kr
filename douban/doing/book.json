@@ -15,7 +15,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3333,
+				"count": 3336,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -104,7 +104,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2152,
+				"count": 2159,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -121,7 +121,7 @@
 			"other_versions_count": 0,
 			"is_show": false,
 			"vendor_icons": [],
-			"card_subtitle": "朱锐 / 2025 / 中信出版社",
+			"card_subtitle": "朱锐 / 2025 / 中信出版集团",
 			"book_subtitle": "",
 			"id": "37269363",
 			"author": [
@@ -149,7 +149,7 @@
 			"cover_url": "https://dou.img.lithub.cc/book/37269363.jpg",
 			"min_sale_price": "¥26.9",
 			"press": [
-				"中信出版社"
+				"中信出版集团"
 			],
 			"pages": [
 				"200"
