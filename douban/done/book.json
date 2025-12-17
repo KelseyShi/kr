@@ -188,7 +188,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 43702,
+				"count": 43721,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -205,7 +205,7 @@
 				{
 					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
-					"rank": 112,
+					"rank": 116,
 					"title": "豆瓣图书Top250"
 				}
 			],
@@ -365,10 +365,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2507,
+				"count": 2529,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.1
+				"value": 8.2
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -532,7 +532,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3369,
+				"count": 3374,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -698,7 +698,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 9301,
+				"count": 9306,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -782,7 +782,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 166203,
+				"count": 166356,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -876,7 +876,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1059,
+				"count": 1061,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -960,7 +960,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 32162,
+				"count": 32173,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -1051,7 +1051,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3480,
+				"count": 3481,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -1146,7 +1146,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 26208,
+				"count": 26213,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -1230,7 +1230,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 95106,
+				"count": 95130,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -1247,7 +1247,7 @@
 				{
 					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
-					"rank": 166,
+					"rank": 163,
 					"title": "豆瓣图书Top250"
 				}
 			],
@@ -1323,7 +1323,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 64638,
+				"count": 64639,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -1577,7 +1577,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 547230,
+				"count": 547327,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -1594,7 +1594,7 @@
 				{
 					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
-					"rank": 64,
+					"rank": 63,
 					"title": "豆瓣图书Top250"
 				}
 			],
@@ -1668,7 +1668,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6032,
+				"count": 6033,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -1850,7 +1850,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 14832,
+				"count": 14834,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -2110,7 +2110,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 519717,
+				"count": 519869,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -2201,7 +2201,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 59125,
+				"count": 59148,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -2418,7 +2418,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/37119755.jpg",
-			"min_sale_price": "¥48.9",
+			"min_sale_price": "¥49.8",
 			"press": [
 				"人民邮电出版社"
 			],
@@ -2459,10 +2459,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 9780,
+				"count": 9811,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 8.9
+				"value": 8.8
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -2553,7 +2553,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3801,
+				"count": 3810,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -2644,7 +2644,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2532,
+				"count": 2536,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2820,7 +2820,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1753,
+				"count": 1757,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -2994,7 +2994,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1518,
+				"count": 1522,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -3078,7 +3078,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 140271,
+				"count": 140419,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -3095,7 +3095,7 @@
 				{
 					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
-					"rank": 84,
+					"rank": 82,
 					"title": "豆瓣图书Top250"
 				}
 			],
@@ -3131,7 +3131,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/35031587.jpg",
-			"min_sale_price": "¥20.9",
+			"min_sale_price": "¥26.1",
 			"press": [
 				"北京联合出版公司"
 			],
@@ -3338,7 +3338,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3729,
+				"count": 3730,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -3429,7 +3429,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 53124,
+				"count": 53134,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -3522,7 +3522,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3701,
+				"count": 3711,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -3609,7 +3609,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 820519,
+				"count": 820587,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -3662,7 +3662,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/1770782.jpg",
-			"min_sale_price": "¥14.5",
+			"min_sale_price": "¥15.2",
 			"press": [
 				"上海人民出版社"
 			],
@@ -3703,7 +3703,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 222040,
+				"count": 222077,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -3720,7 +3720,7 @@
 				{
 					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
-					"rank": 52,
+					"rank": 51,
 					"title": "豆瓣图书Top250"
 				}
 			],
@@ -3796,7 +3796,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 212094,
+				"count": 212139,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -3890,7 +3890,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 126728,
+				"count": 126787,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -3983,7 +3983,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 176784,
+				"count": 176842,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -4000,7 +4000,7 @@
 				{
 					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
-					"rank": 8,
+					"rank": 9,
 					"title": "豆瓣图书Top250"
 				}
 			],
@@ -4076,7 +4076,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 210793,
+				"count": 210861,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -4169,7 +4169,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 306534,
+				"count": 306593,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -4262,7 +4262,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 210793,
+				"count": 210861,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -4355,7 +4355,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 306534,
+				"count": 306593,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -4448,7 +4448,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 218146,
+				"count": 218241,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -4465,7 +4465,7 @@
 				{
 					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
-					"rank": 146,
+					"rank": 148,
 					"title": "豆瓣图书Top250"
 				}
 			],
@@ -4500,7 +4500,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/33440205.jpg",
-			"min_sale_price": "¥23.4",
+			"min_sale_price": "¥34.8",
 			"press": [
 				"南海出版公司"
 			],
@@ -4541,7 +4541,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3432,
+				"count": 3439,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -4627,10 +4627,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3169,
+				"count": 3175,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 8.7
+				"value": 8.8
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -4808,7 +4808,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 33574,
+				"count": 33592,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -4825,7 +4825,7 @@
 				{
 					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
-					"rank": 211,
+					"rank": 212,
 					"title": "豆瓣图书Top250"
 				}
 			],
@@ -5009,11 +5009,11 @@
 				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
 				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
-			"card_subtitle": "[加]斯科特·扬（Scott H.Young） / 2016 / 机械工业出版社",
+			"card_subtitle": "[加] 斯科特·扬 / 2016 / 机械工业出版社",
 			"book_subtitle": "99个史上更全面的时间管理技巧",
 			"id": "26703731",
 			"author": [
-				"[加]斯科特·扬（Scott H.Young）"
+				"[加] 斯科特·扬"
 			],
 			"is_released": true,
 			"vendor_original_price": "",
@@ -5044,7 +5044,7 @@
 			],
 			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/26703731",
 			"url": "https://book.douban.com/subject/26703731/",
-			"title": "超效率手册",
+			"title": "超效率手册：99个史上更全面的时间管理技巧",
 			"uri": "douban://douban.com/book/26703731",
 			"subtype": "book",
 			"intro": "斯科特·扬，拥有惊人学习天赋的超级学霸，仅用1年时间就学完4年制MIT计算机科学课程，经营着世界访问量巨大的学习类博客，并登上TEDx演讲台向世界宣讲自己的超效率经验。\n在《如何高效学习》出版之后，众多网友向他留言讨教时间管理的秘诀，于是他两年磨一剑，创作了本书。他根据自己的学习和工作经验，总结了99个提高生产率的方法，这些方法简单、易懂、更重要的是适合每一个人操作，且效果明显。\n希望这本书能成为读者学习和生活的好助手。只要你想提高工作效率、提升生活质量，那就来读这本书吧，它一定能让你的工作和生活焕然一新。\n本书共有7章，包含99个史上更全面的时间管理方法。既有操作简便的小窍门，也有思路清晰的理论法则，还有培养习惯的日常行为。\n● 列出周/日目标\n● 用活页夹来记阅读笔记\n● 15分钟法则\n● 设定软时限\n● 信息节食\n这些都来源于斯科特·扬的亲身验证，他尽可能地为每一个方法都提供了理论依据和使用效果，让读者读后清晰明了，更易操作。",
@@ -5162,7 +5162,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 13239,
+				"count": 13245,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -5256,7 +5256,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4157,
+				"count": 4159,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -5342,7 +5342,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 15071,
+				"count": 15075,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -5388,7 +5388,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/34326931.jpg",
-			"min_sale_price": "¥29.0",
+			"min_sale_price": "¥25.1",
 			"press": [
 				"北京联合出版公司"
 			],
