@@ -15,7 +15,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3347,
+				"count": 3351,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -104,7 +104,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2339,
+				"count": 2395,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -117,7 +117,14 @@
 				"large": "https://img9.doubanio.com/view/subject/l/public/s35124195.jpg",
 				"normal": "https://img9.doubanio.com/view/subject/m/public/s35124195.jpg"
 			},
-			"honor_infos": [],
+			"honor_infos": [
+				{
+					"kind": "book",
+					"uri": "douban://douban.com/subject_collection/ECZZABULI?type=rank&category=book&rank_type=year",
+					"rank": 4,
+					"title": "豆瓣2025年度图书"
+				}
+			],
 			"other_versions_count": 0,
 			"is_show": false,
 			"vendor_icons": [],
