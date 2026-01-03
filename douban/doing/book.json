@@ -2,6 +2,92 @@
 	{
 		"comment": "",
 		"rating": null,
+		"sharing_text": "https://www.douban.com/doubanapp/dispatch/book/36295222 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36295222/interest/4733360106",
+		"tags": [],
+		"charts": [],
+		"is_editable": false,
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2026-01-02 19:35:41",
+		"status": "doing",
+		"id": 4733360106,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 3527,
+				"max": 10,
+				"star_count": 4,
+				"value": 8.1
+			},
+			"controversy_reason": "",
+			"pubdate": [
+				"2023-2"
+			],
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/l/public/s34457574.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/m/public/s34457574.jpg"
+			},
+			"honor_infos": [
+				{
+					"kind": "book",
+					"uri": "douban://douban.com/subject_collection/ECPA6JOTI?type=rank&category=book&rank_type=year",
+					"rank": 7,
+					"title": "豆瓣2023年度商业·经管图书"
+				}
+			],
+			"other_versions_count": 0,
+			"is_show": false,
+			"vendor_icons": [],
+			"card_subtitle": "孟岩 / 2023 / 新星出版社",
+			"book_subtitle": "",
+			"id": "36295222",
+			"author": [
+				"孟岩"
+			],
+			"is_released": true,
+			"vendor_original_price": "",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "a53f3e",
+				"_base_color": [
+					0.0012165450121654486,
+					0.6227272727272728,
+					0.8627450980392157
+				],
+				"secondary_color": "f9f4f4",
+				"_avg_color": [
+					0.0023310023310023262,
+					0.6620370370370371,
+					0.8470588235294118
+				],
+				"primary_color_dark": "7f3030"
+			},
+			"type": "book",
+			"cover_url": "https://dou.img.lithub.cc/book/36295222.jpg",
+			"min_sale_price": null,
+			"press": [
+				"新星出版社"
+			],
+			"pages": [
+				"240"
+			],
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/36295222",
+			"url": "https://book.douban.com/subject/36295222/",
+			"title": "投资第1课",
+			"uri": "douban://douban.com/book/36295222",
+			"subtype": "book",
+			"intro": "《投资第1课》是一本为普通投资者写就的入门读物。现代社会是一个分工高度专业化和精细化的社会，任何一个人都不可能、也没必要去学习所有的知识——生病了，找医生；有纠纷，找律师。投资是不是也应该如此？\n相比其他行业，投资行业有个很大的不同：作为用户，在绝大多数时间里，都无法评价产品，以及相应服务的好坏。\n“短期涨得好，不代表长期能赚钱。我们看到的投资收益，有可能是牛市带来的，有可能是短期市场风格带来的。如果不具备基本的金融素养（Financial Literacy），我们就无法辨别这个结果是能力还是运气，更无法在将来获得这个收益。\n更重要的是，即使我们选择了好的投资产品，如果不具备基本的投资知识，也可能会经历’贪婪和恐惧‘，在关键时刻无法拿住”，作者如是说。\n本杰明·格雷厄姆曾说：\n“投资艺术有一个特点不为大众所知。门外汉只需些许努力与能力，便可以取得令人尊敬（即使并不可观）的结果。但是如果人们想在这个容易获取的标准上更进一步，则需要更多的实践和智慧。”\n这本书希望做到的，就是正确地找到这“些许努力”：\n1.学习投资的大道以及基本的知识；\n2.树立正确的财富观；\n3.理解投资为什么可以赚钱、赚的是什么钱；\n4.这些钱本质上又是从哪儿来的；\n5.如何赚到这些钱。\n本书以有知有行 App 专栏《投资第一课》为蓝本，凝聚了孟岩多年实盘投资经验，以及服务用户的体会与心得。经与合伙人张潇雨、有知有行团队不断优化、迭代，本书已成为一本适时、及时的个人资产管理指南。",
+			"buy_more_uri": "",
+			"null_rating_reason": "",
+			"article_intros": [],
+			"vendor_sale_price": "",
+			"has_ebook": false
+		}
+	},
+	{
+		"comment": "",
+		"rating": null,
 		"sharing_text": "https://www.douban.com/doubanapp/dispatch/book/36247880 来自@豆瓣App",
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36247880/interest/4693892902",
 		"tags": [],
