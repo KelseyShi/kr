@@ -15,7 +15,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2351,
+				"count": 2357,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -65,7 +65,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/37154938.jpg",
-			"min_sale_price": null,
+			"min_sale_price": "¥28.08",
 			"press": [
 				"人民文学出版社"
 			],
@@ -78,86 +78,7 @@
 			"uri": "douban://douban.com/book/37154938",
 			"subtype": "book",
 			"intro": "《结婚十年》一书讲述苏青自己从结婚怀孕生子、到对婚姻关系失望终于选择离婚就业的故事，这部当年轰动上海的小说处处可见苏青对人情世故的非凡见解，文字坚韧豪爽，再现上海女性的传奇形象。苏青与张爱玲同为0年代上海最负盛名的女作家，王安忆曾在《寻找苏青》一文中写道：“倘若看清苏青 ，大约便可认识上海的女性市民。人们只看见上海市女子的摩登却不知道她们的泼辣。张爱玲的小说里写了这泼辣，要看苏青的文章，这泼辣才是可信的。”",
-			"buy_more_uri": "",
-			"null_rating_reason": "",
-			"article_intros": [],
-			"vendor_sale_price": "",
-			"has_ebook": false
-		}
-	},
-	{
-		"comment": "",
-		"rating": null,
-		"sharing_text": "https://www.douban.com/doubanapp/dispatch/book/35295592 来自@豆瓣App",
-		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/35295592/interest/4729198938",
-		"tags": [],
-		"charts": [],
-		"is_editable": false,
-		"platforms": [],
-		"vote_count": 0,
-		"create_time": "2025-12-29 10:18:47",
-		"status": "mark",
-		"id": 4729198938,
-		"is_private": false,
-		"subject": {
-			"rating": {
-				"count": 29402,
-				"max": 10,
-				"star_count": 4.5,
-				"value": 9.2
-			},
-			"controversy_reason": "",
-			"pubdate": [
-				"2021-2"
-			],
-			"pic": {
-				"large": "https://img1.doubanio.com/view/subject/l/public/s33789389.jpg",
-				"normal": "https://img1.doubanio.com/view/subject/m/public/s33789389.jpg"
-			},
-			"honor_infos": [],
-			"other_versions_count": 8,
-			"is_show": false,
-			"vendor_icons": [],
-			"card_subtitle": "[德] 博多·舍费尔 / 2021 / 中信出版集团",
-			"book_subtitle": "",
-			"id": "35295592",
-			"author": [
-				"[德] 博多·舍费尔"
-			],
-			"is_released": true,
-			"vendor_original_price": "",
-			"color_scheme": {
-				"is_dark": false,
-				"primary_color_light": "f2ead8",
-				"_base_color": [
-					0.11538461538461538,
-					0.1074380165289256,
-					0.9490196078431372
-				],
-				"secondary_color": "f9f8f4",
-				"_avg_color": [
-					0.003968253968253972,
-					0.5478260869565218,
-					0.9019607843137255
-				],
-				"primary_color_dark": "f2ead8"
-			},
-			"type": "book",
-			"cover_url": "https://dou.img.lithub.cc/book/35295592.jpg",
-			"min_sale_price": "¥19.9",
-			"press": [
-				"中信出版集团"
-			],
-			"pages": [
-				"240"
-			],
-			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/35295592",
-			"url": "https://book.douban.com/subject/35295592/",
-			"title": "小狗钱钱",
-			"uri": "douban://douban.com/book/35295592",
-			"subtype": "book",
-			"intro": "吉娅是一个普通的12岁女孩，一次偶然的机会，她救助了一只受伤的小狗，并给它取名叫“钱钱”。没想到，钱钱居然是一位深藏不露的理财高手，它改变了吉娅一家人的财富命运……\n“欧洲理财大师”博多·舍费尔用生动的理财童话，教会你如何从小学会支配金钱，而不是受金钱的支配；如何像富人那样思考，正确地认识和使用金钱；如何进行理财投资，找到积累资产的方法，早日实现财务自由！",
-			"buy_more_uri": "douban://douban.com/book/35295592/vendors_douban",
+			"buy_more_uri": "douban://douban.com/book/37154938/vendors_douban",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -261,7 +182,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 24659,
+				"count": 24675,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -349,7 +270,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2740,
+				"count": 2788,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -435,7 +356,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 145,
+				"count": 146,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -515,7 +436,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 27499,
+				"count": 27510,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -568,7 +489,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/35875393.jpg",
-			"min_sale_price": "¥38.7",
+			"min_sale_price": "¥39.9",
 			"press": [
 				"人民文学出版社"
 			],
@@ -683,7 +604,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2673,
+				"count": 2675,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -924,7 +845,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 456,
+				"count": 457,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -1006,7 +927,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1359,
+				"count": 1360,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.7
@@ -1085,10 +1006,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1413,
+				"count": 1415,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.8
+				"value": 7.9
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -1166,7 +1087,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 739,
+				"count": 738,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -1327,7 +1248,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3760,
+				"count": 3785,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -1380,7 +1301,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/37481942.jpg",
-			"min_sale_price": "¥41.2",
+			"min_sale_price": "¥39.9",
 			"press": [
 				"江苏凤凰文艺出版社"
 			],
@@ -1577,7 +1498,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3492,
+				"count": 3499,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -1665,7 +1586,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2239,
+				"count": 2240,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -1747,7 +1668,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3258,
+				"count": 3266,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -2151,7 +2072,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 7843,
+				"count": 7923,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -2240,7 +2161,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 9862,
+				"count": 9864,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -2398,7 +2319,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 324,
+				"count": 325,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.2
@@ -2559,7 +2480,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 597,
+				"count": 599,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -2638,7 +2559,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 39813,
+				"count": 39822,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -2726,7 +2647,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 24848,
+				"count": 24852,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -2812,7 +2733,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 197,
+				"count": 198,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -2855,7 +2776,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/26889429.jpg",
-			"min_sale_price": "¥11.2",
+			"min_sale_price": "¥8.4",
 			"press": [
 				"重庆出版社"
 			],
@@ -2891,7 +2812,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 5554,
+				"count": 5557,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2973,7 +2894,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 36026,
+				"count": 36065,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -3062,7 +2983,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 22362,
+				"count": 22368,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -3229,7 +3150,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 155387,
+				"count": 155406,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -3318,7 +3239,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3780,
+				"count": 3782,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -3400,7 +3321,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4660,
+				"count": 4678,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -3729,7 +3650,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 10129,
+				"count": 10163,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -3811,7 +3732,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3685,
+				"count": 3689,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -3891,10 +3812,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 244,
+				"count": 248,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.8
+				"value": 7.6
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -4130,7 +4051,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 287,
+				"count": 289,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -4207,7 +4128,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 19344,
+				"count": 19366,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -4288,7 +4209,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 18171,
+				"count": 18204,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -4334,7 +4255,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/35512887.jpg",
-			"min_sale_price": "¥39.2",
+			"min_sale_price": null,
 			"press": [
 				"北京日报出版社"
 			],
@@ -4347,7 +4268,7 @@
 			"uri": "douban://douban.com/book/35512887",
 			"subtype": "book",
 			"intro": "【内容简介】\n“尽管我要再受多大的痛苦与折磨，我还是要述说爱是不灭的。”\n《鳄鱼手记》是台湾作家邱妙津长篇小说处女作，也是她最重要的长篇小说，华语世界一部女性主义文学经典。小说以主人公“我”的大学生活为背景，通过一段段感情的萌发、深陷乃至最终仳离，直面内心深处极致的爱与无人理解的悲哀，逼视年轻人敏感自伤的内心世界。小说是台湾二十世纪末一代青年迷惘困顿心路历程的真实写照，更是一段艰难跋涉的性别认同与自我认同的贴身记录。作者以刀锋般锋利闪光的笔触，探入心灵的隐秘岩层，那些极度坦诚的自我剖析与情爱想象的翻转辩证，那些人性与人性深深交会的时刻、强劲与庄严的生之体验，深刻展示了人类永恒的主题，即如何通过极致纯粹的情感更深入地认识自我与世界，从一己抵达普遍人类心灵的深度，一种辉煌心智激情。\n在这些故事中，还穿插着一只拟人化鳄鱼的独白，构成独立于主要情节之外的诗性寓言。身着人装的鳄鱼最终乘坐着火的浴盆飘向深海，影射“鳄鱼/边缘人”在人类社会孤独与被排挤的命运，构成复调双声的奇异艺术效果。\n【编辑推荐】\n★\t二十世纪末华文世界绚烂传奇的女性作家邱妙津长篇处女作，震惊中文世界的爱情物语，开启一个时代的文学经典。蒋勋、骆以军、陈雪、郭玉洁诚挚推荐。——邱妙津是震动台湾的一代传奇，用生命创作的天才，她以凌厉激烈的才华横空出世，又决绝惨烈地毅然与人世告别。她的作品被大家传颂、引用、讨论、研究，她的生平、事迹甚至她阅读欣赏的小说、作家、电影导演，所有一切都成为一代文艺青年效仿参照的对象。《鳄鱼手记》将隐秘的女性情感勇敢地变成天才的书写，一段艰难跋涉的性别认同之旅，极致炽烈悲恸的爱情物语，标记着一个时代的刻度和阴影，书中的诸多名词和意象已成为一代代人自我指认的身份象征。\n★\t“尽管我要再受多大的痛苦与折磨，我还是要述说爱是不灭的。”华语世界一部女性主义文学经典，女性私密情感的深度书写，人性与人性深深交会的时刻，强劲与庄严的生之体验。——用寓言与密码写就的长篇情书，瑰丽华美又痛彻心肺、暴烈而温柔的女性情爱体验，浓烈丰沛的情绪，严肃与真诚的生命品质，展示爱的高贵与纯粹、爱的永在与不在。小说充满哲学思辨的灵敏机锋，从一己抵达普遍人类心灵的深度，展示人类灵魂繁复多变又千疮百孔的内在景观，一种浓郁丰盛的美感，高贵迷人的生命力，生发出惊心动魄的摄人力量。情爱踟蹰，生命坏毁，唯有极度真实勇敢地对待自我与生命，才能对抗命运的狂暴与社会的媚俗。\n★\t一只鳄鱼的真挚告白，生命边缘地带的哀歌，献给每一个假装自己是正常人的人类。——《鳄鱼手记》用童话寓言般灵异笔触描绘社会边缘人的处境，展现出对转型世代思潮暗涌的敏锐捕捉能力，传达出对性别、性向的一种全新可能性的难以抑制的兴奋。每个人内心都住着一只鳄鱼，有时必须要隐藏自己，披上人装，在黑暗中重新去认识定义自我，去探索世界。从1994年至今，这本书仍一直在对异类或自以为异类的人发出关切的讯号：“嗨，亲爱的鳄鱼，你好吗？”\n★\t精装纪念典藏版，荣获时报文学奖推荐奖，《开卷八分钟》推荐，被翻译为多国语言出版，备受赞誉。——《鳄鱼手记》已被翻译为英语、法语、德语、土耳其语、西班牙语和意大利语等多种语言。2017年，《鳄鱼手记》列入《纽约书评》“经典重现”（ NYRB Classics）出版，邱妙津是该书系继张爱玲之后第二位华语作者。作家骆以军和赖香吟分别以小说《遣悲怀》《其后》缅怀与致敬邱妙津。",
-			"buy_more_uri": "douban://douban.com/book/35512887/vendors_douban",
+			"buy_more_uri": "",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -4370,7 +4291,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4637,
+				"count": 4646,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -4452,7 +4373,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 987,
+				"count": 989,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -4848,7 +4769,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 821,
+				"count": 822,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -5334,7 +5255,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4439,
+				"count": 4442,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -5416,7 +5337,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1652,
+				"count": 1745,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -5495,7 +5416,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 331,
+				"count": 332,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -5577,7 +5498,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 833,
+				"count": 835,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.7
@@ -5656,7 +5577,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2951,
+				"count": 2963,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -5738,7 +5659,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1898,
+				"count": 1926,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -6068,7 +5989,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2709,
+				"count": 2710,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -6085,8 +6006,7 @@
 			"other_versions_count": 0,
 			"is_show": false,
 			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
-				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png"
 			],
 			"card_subtitle": "李笑来 / 2020 / 江苏凤凰文艺出版社",
 			"book_subtitle": "定投改变命运",
@@ -6150,10 +6070,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 796,
+				"count": 797,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.7
+				"value": 7.8
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -6387,7 +6307,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2913,
+				"count": 2916,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -6469,7 +6389,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 5626,
+				"count": 5635,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -6550,10 +6470,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 338,
+				"count": 340,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.9
+				"value": 7.8
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -6716,7 +6636,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1226,
+				"count": 1230,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -6798,7 +6718,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3438,
+				"count": 3442,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -6879,10 +6799,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 237,
+				"count": 238,
 				"max": 10,
-				"star_count": 5,
-				"value": 9.5
+				"star_count": 4.5,
+				"value": 9.4
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -6969,7 +6889,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 19025,
+				"count": 19050,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -7051,7 +6971,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 9876,
+				"count": 9884,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -7132,7 +7052,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2012,
+				"count": 2016,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -7216,7 +7136,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 21308,
+				"count": 21318,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -7377,7 +7297,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 5998,
+				"count": 5999,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -7458,7 +7378,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 7078,
+				"count": 7086,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -7511,7 +7431,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/26916012.jpg",
-			"min_sale_price": "¥18.0",
+			"min_sale_price": "¥24.95",
 			"press": [
 				"北京联合出版公司"
 			],
@@ -7626,7 +7546,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 5939,
+				"count": 5942,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -7705,7 +7625,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3315,
+				"count": 3330,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -7787,7 +7707,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2079,
+				"count": 2090,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -7866,7 +7786,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 9952,
+				"count": 9961,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -7954,7 +7874,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 39314,
+				"count": 39325,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -8042,7 +7962,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 128770,
+				"count": 128792,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -8128,7 +8048,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 25666,
+				"count": 25675,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -8181,7 +8101,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/26803714.jpg",
-			"min_sale_price": "¥30.7",
+			"min_sale_price": "¥21.4",
 			"press": [
 				"江西人民出版社"
 			],
@@ -8217,7 +8137,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 49061,
+				"count": 49121,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.6
@@ -8386,7 +8306,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 26243,
+				"count": 26252,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -8475,7 +8395,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2982,
+				"count": 2990,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.2
@@ -8637,7 +8557,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 21097,
+				"count": 21108,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -8725,7 +8645,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 39632,
+				"count": 39671,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -8811,7 +8731,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 79287,
+				"count": 79332,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -8899,7 +8819,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 101093,
+				"count": 101161,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -8952,7 +8872,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/35546622.jpg",
-			"min_sale_price": "¥32.1",
+			"min_sale_price": "¥32.5",
 			"press": [
 				"上海人民出版社"
 			],
@@ -8988,7 +8908,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 151100,
+				"count": 151131,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -9076,7 +8996,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 266449,
+				"count": 266558,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -9165,7 +9085,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 160345,
+				"count": 160388,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -9253,7 +9173,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 108915,
+				"count": 108963,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -9342,7 +9262,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 97820,
+				"count": 97869,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -9395,7 +9315,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/30172069.jpg",
-			"min_sale_price": "¥22.8",
+			"min_sale_price": "¥31.0",
 			"press": [
 				"人民文学出版社"
 			],
@@ -9431,7 +9351,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 416268,
+				"count": 416379,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -9572,7 +9492,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/3057556.jpg",
-			"min_sale_price": null,
+			"min_sale_price": "¥15.0",
 			"press": [
 				"广西师范大学出版社"
 			],
@@ -9585,7 +9505,7 @@
 			"uri": "douban://douban.com/book/3057556",
 			"subtype": "book",
 			"intro": "这本书主要探讨群众运动的一些共有特征，重点是陷入狂热的乌合之众的人格。长期与下层民众打交道的生活经历使作者发现，积极投身群众运动的往往是一些失意者。他们认为自己的生活已无可救药地失败，渴望逃离自我寻求重生，将生命托付给某项神圣伟业让他们感觉不错，整齐划一的集体生活令个人的责任、恐惧、无能得以掩埋。运动的领导者则刻意培养参与者的罪恶感，号召自我牺牲以获救赎。\n自1951年出版后，《狂热分子》即被视为社会科学领域的经典之作，短期内行销50万册以上，被译成10余种语言，是多所大学政治系的必读书。书中俯拾皆是充满智慧的思想火花与一针见血的比喻，风格酷似法国思想家蒙田与帕斯卡尔的随笔。至今，其佳言警句仍不断被引用、辑录。",
-			"buy_more_uri": "",
+			"buy_more_uri": "douban://douban.com/book/3057556/vendors_douban",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -9608,7 +9528,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2321,
+				"count": 2335,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -9697,7 +9617,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3062,
+				"count": 3066,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -9780,7 +9700,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 9744,
+				"count": 9748,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -9869,7 +9789,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6830,
+				"count": 6845,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -10198,10 +10118,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 295,
+				"count": 297,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.9
+				"value": 7.8
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -10278,7 +10198,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 740,
+				"count": 741,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -10600,7 +10520,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 564,
+				"count": 565,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -10764,7 +10684,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3521,
+				"count": 3523,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -11089,10 +11009,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 31,
+				"count": 32,
 				"max": 10,
 				"star_count": 3.5,
-				"value": 7
+				"value": 7.4
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -11170,7 +11090,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 27507,
+				"count": 27518,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -11258,7 +11178,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 25117,
+				"count": 25171,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -11339,7 +11259,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 135360,
+				"count": 135420,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -11392,7 +11312,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/26878124.jpg",
-			"min_sale_price": "¥18.6",
+			"min_sale_price": "¥19.5",
 			"press": [
 				"人民文学出版社"
 			],
@@ -11428,7 +11348,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 41606,
+				"count": 41643,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -11516,7 +11436,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 9773,
+				"count": 9781,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -11595,7 +11515,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1426,
+				"count": 1429,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -11755,7 +11675,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 10713,
+				"count": 10721,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -11837,7 +11757,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 23597,
+				"count": 23610,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -12317,7 +12237,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6147,
+				"count": 6149,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -12556,7 +12476,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3860,
+				"count": 3873,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -12638,7 +12558,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6756,
+				"count": 6757,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -12720,7 +12640,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 19500,
+				"count": 19541,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -12808,7 +12728,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 26264,
+				"count": 26399,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -12890,7 +12810,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 264809,
+				"count": 264924,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -12979,7 +12899,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2073,
+				"count": 2078,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -13060,7 +12980,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2166,
+				"count": 2169,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -13141,7 +13061,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2415,
+				"count": 2421,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -13186,7 +13106,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/35627242.jpg",
-			"min_sale_price": "¥20.8",
+			"min_sale_price": "¥24.0",
 			"press": [
 				"湖南人民出版社"
 			],
@@ -13222,7 +13142,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2441,
+				"count": 2444,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.9
@@ -13304,7 +13224,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2254,
+				"count": 2256,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -13386,7 +13306,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 5584,
+				"count": 5586,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -13640,7 +13560,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 8871,
+				"count": 8878,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -13690,7 +13610,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/26304954.jpg",
-			"min_sale_price": "¥60.4",
+			"min_sale_price": "¥64.4",
 			"press": [
 				"商务印书馆"
 			],
@@ -13885,7 +13805,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 498,
+				"count": 499,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -13971,7 +13891,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 132083,
+				"count": 132154,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -14060,7 +13980,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2387,
+				"count": 2396,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -14142,7 +14062,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 5093,
+				"count": 5094,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -14300,7 +14220,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 963,
+				"count": 964,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -14456,10 +14376,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 614,
+				"count": 615,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 9.1
+				"value": 9.2
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -14535,10 +14455,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 289,
+				"count": 290,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 8.8
+				"value": 8.7
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -14614,7 +14534,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 60334,
+				"count": 60379,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -14783,7 +14703,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4078,
+				"count": 4079,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -15097,7 +15017,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6071,
+				"count": 6073,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9

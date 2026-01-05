@@ -4,6 +4,97 @@
 		"rating": {
 			"count": 1,
 			"max": 5,
+			"star_count": 4,
+			"value": 4
+		},
+		"sharing_text": "我的评分：★★★★ https://www.douban.com/doubanapp/dispatch/book/36295222 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36295222/interest/4733360106",
+		"tags": [],
+		"charts": [],
+		"is_editable": false,
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2026-01-04 16:29:29",
+		"status": "done",
+		"id": 4733360106,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 3539,
+				"max": 10,
+				"star_count": 4,
+				"value": 8.2
+			},
+			"controversy_reason": "",
+			"pubdate": [
+				"2023-2"
+			],
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/l/public/s34457574.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/m/public/s34457574.jpg"
+			},
+			"honor_infos": [
+				{
+					"kind": "book",
+					"uri": "douban://douban.com/subject_collection/ECPA6JOTI?type=rank&category=book&rank_type=year",
+					"rank": 7,
+					"title": "豆瓣2023年度商业·经管图书"
+				}
+			],
+			"other_versions_count": 0,
+			"is_show": false,
+			"vendor_icons": [],
+			"card_subtitle": "孟岩 / 2023 / 新星出版社",
+			"book_subtitle": "",
+			"id": "36295222",
+			"author": [
+				"孟岩"
+			],
+			"is_released": true,
+			"vendor_original_price": "",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "a53f3e",
+				"_base_color": [
+					0.0012165450121654486,
+					0.6227272727272728,
+					0.8627450980392157
+				],
+				"secondary_color": "f9f4f4",
+				"_avg_color": [
+					0.0023310023310023262,
+					0.6620370370370371,
+					0.8470588235294118
+				],
+				"primary_color_dark": "7f3030"
+			},
+			"type": "book",
+			"cover_url": "https://dou.img.lithub.cc/book/36295222.jpg",
+			"min_sale_price": null,
+			"press": [
+				"新星出版社"
+			],
+			"pages": [
+				"240"
+			],
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/36295222",
+			"url": "https://book.douban.com/subject/36295222/",
+			"title": "投资第1课",
+			"uri": "douban://douban.com/book/36295222",
+			"subtype": "book",
+			"intro": "《投资第1课》是一本为普通投资者写就的入门读物。现代社会是一个分工高度专业化和精细化的社会，任何一个人都不可能、也没必要去学习所有的知识——生病了，找医生；有纠纷，找律师。投资是不是也应该如此？\n相比其他行业，投资行业有个很大的不同：作为用户，在绝大多数时间里，都无法评价产品，以及相应服务的好坏。\n“短期涨得好，不代表长期能赚钱。我们看到的投资收益，有可能是牛市带来的，有可能是短期市场风格带来的。如果不具备基本的金融素养（Financial Literacy），我们就无法辨别这个结果是能力还是运气，更无法在将来获得这个收益。\n更重要的是，即使我们选择了好的投资产品，如果不具备基本的投资知识，也可能会经历’贪婪和恐惧‘，在关键时刻无法拿住”，作者如是说。\n本杰明·格雷厄姆曾说：\n“投资艺术有一个特点不为大众所知。门外汉只需些许努力与能力，便可以取得令人尊敬（即使并不可观）的结果。但是如果人们想在这个容易获取的标准上更进一步，则需要更多的实践和智慧。”\n这本书希望做到的，就是正确地找到这“些许努力”：\n1.学习投资的大道以及基本的知识；\n2.树立正确的财富观；\n3.理解投资为什么可以赚钱、赚的是什么钱；\n4.这些钱本质上又是从哪儿来的；\n5.如何赚到这些钱。\n本书以有知有行 App 专栏《投资第一课》为蓝本，凝聚了孟岩多年实盘投资经验，以及服务用户的体会与心得。经与合伙人张潇雨、有知有行团队不断优化、迭代，本书已成为一本适时、及时的个人资产管理指南。",
+			"buy_more_uri": "",
+			"null_rating_reason": "",
+			"article_intros": [],
+			"vendor_sale_price": "",
+			"has_ebook": false
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
 			"star_count": 3,
 			"value": 3
 		},
@@ -188,7 +279,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 43846,
+				"count": 43857,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -365,7 +456,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2795,
+				"count": 2831,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -459,7 +550,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 196,
+				"count": 197,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -539,7 +630,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3392,
+				"count": 3397,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -705,7 +796,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 9330,
+				"count": 9332,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -789,7 +880,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 168057,
+				"count": 168270,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -883,7 +974,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1147,
+				"count": 1149,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -967,7 +1058,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 32293,
+				"count": 32312,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -1058,7 +1149,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3492,
+				"count": 3493,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -1153,7 +1244,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 26254,
+				"count": 26259,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -1237,7 +1328,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 95322,
+				"count": 95337,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -1330,7 +1421,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 64662,
+				"count": 64665,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -1584,7 +1675,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 547970,
+				"count": 548040,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -1675,7 +1766,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6044,
+				"count": 6045,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -1857,7 +1948,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 14873,
+				"count": 14880,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -2117,7 +2208,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 521245,
+				"count": 521410,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -2208,7 +2299,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 59283,
+				"count": 59297,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -2425,7 +2516,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/37119755.jpg",
-			"min_sale_price": "¥49.8",
+			"min_sale_price": "¥48.9",
 			"press": [
 				"人民邮电出版社"
 			],
@@ -2466,7 +2557,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 10136,
+				"count": 10174,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2560,10 +2651,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3962,
+				"count": 3977,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.2
+				"value": 8.3
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -2651,7 +2742,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2549,
+				"count": 2550,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2745,7 +2836,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1584,
+				"count": 1585,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -2827,7 +2918,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1768,
+				"count": 1771,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -3001,7 +3092,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1539,
+				"count": 1540,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -3085,7 +3176,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 141722,
+				"count": 141875,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -3436,7 +3527,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 53193,
+				"count": 53205,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -3488,7 +3579,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/2297697.jpg",
-			"min_sale_price": null,
+			"min_sale_price": "¥9.6",
 			"press": [
 				"当代世界出版社"
 			],
@@ -3501,7 +3592,7 @@
 			"uri": "douban://douban.com/book/2297697",
 			"subtype": "book",
 			"intro": "每天早上都有一张我女朋友尸体的照片放到我的收件箱里，照片显示着女朋友的尸体正在一天天地生蛆、腐化。她是在我们去过动物园之后失踪的。所有人都认为她只是失踪了，只有我知道她被杀了。我辞了职，拿着她生前的照片四处寻找凶手的线索，一副心力憔悴的模样。然而苦心寻找的背后隐藏的却是我不愿面对的真相，是我亲手杀了她……",
-			"buy_more_uri": "",
+			"buy_more_uri": "douban://douban.com/book/2297697/vendors_douban",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -3529,7 +3620,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3803,
+				"count": 3812,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -3616,7 +3707,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 821260,
+				"count": 821337,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -3710,7 +3801,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 222425,
+				"count": 222483,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -3803,7 +3894,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 212518,
+				"count": 212555,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -3897,7 +3988,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 127327,
+				"count": 127389,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -3990,7 +4081,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 177368,
+				"count": 177434,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -4083,7 +4174,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 211515,
+				"count": 211600,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -4164,84 +4255,84 @@
 			"value": 5
 		},
 		"sharing_text": "我的评分：★★★★★  来自@豆瓣App",
-		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/4820710/interest/4420034958",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/2035179/interest/4420035178",
 		"tags": [],
 		"charts": [],
 		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
-		"create_time": "2025-01-21 17:41:50",
+		"create_time": "2025-01-21 17:42:09",
 		"status": "done",
-		"id": 4420034958,
+		"id": 4420035178,
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 307253,
+				"count": 177434,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 9.4
+				"value": 9.3
 			},
 			"controversy_reason": "",
 			"pubdate": [
-				"2010-4-1"
+				"2007-3"
 			],
 			"pic": {
-				"large": "https://img1.doubanio.com/view/subject/l/public/s4371408.jpg",
-				"normal": "https://img1.doubanio.com/view/subject/m/public/s4371408.jpg"
+				"large": "https://img1.doubanio.com/view/subject/l/public/s2347590.jpg",
+				"normal": "https://img1.doubanio.com/view/subject/m/public/s2347590.jpg"
 			},
 			"honor_infos": [
 				{
 					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
-					"rank": 4,
+					"rank": 8,
 					"title": "豆瓣图书Top250"
 				}
 			],
-			"other_versions_count": 220,
+			"other_versions_count": 167,
 			"is_show": false,
 			"vendor_icons": [
 				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
-			"card_subtitle": "[英] 乔治·奥威尔 / 2010 / 北京十月文艺出版社",
+			"card_subtitle": "[英] 乔治·奥威尔 / 2007 / 上海译文出版社",
 			"book_subtitle": "",
-			"id": "4820710",
+			"id": "2035179",
 			"author": [
 				"[英] 乔治·奥威尔"
 			],
 			"is_released": true,
 			"vendor_original_price": "",
 			"color_scheme": {
-				"is_dark": true,
-				"primary_color_light": "7d95a5",
+				"is_dark": false,
+				"primary_color_light": "c1ecf2",
 				"_base_color": [
-					0.5679012345679012,
-					0.24324324324324326,
-					0.43529411764705883
+					0.5197132616487455,
+					0.38750000000000007,
+					0.9411764705882353
 				],
-				"secondary_color": "f4f7f9",
+				"secondary_color": "f4f9f9",
 				"_avg_color": [
-					0.5,
-					0.019138755980861177,
-					0.8196078431372549
+					0.517094017094017,
+					0.3236514522821577,
+					0.9450980392156862
 				],
-				"primary_color_dark": "60727f"
+				"primary_color_dark": "c1ecf2"
 			},
 			"type": "book",
-			"cover_url": "https://dou.img.lithub.cc/book/4820710.jpg",
-			"min_sale_price": "¥19.6",
+			"cover_url": "https://dou.img.lithub.cc/book/2035179.jpg",
+			"min_sale_price": "¥7.0",
 			"press": [
-				"北京十月文艺出版社"
+				"上海译文出版社"
 			],
 			"pages": [
-				"304"
+				"119"
 			],
 			"sharing_url": "",
-			"url": "https://book.douban.com/subject/4820710/",
-			"title": "1984",
-			"uri": "douban://douban.com/book/4820710",
+			"url": "https://book.douban.com/subject/2035179/",
+			"title": "动物农场",
+			"uri": "douban://douban.com/book/2035179",
 			"subtype": "book",
-			"intro": "★村上春树以《1Q84》向本书致敬\n★著名学者刘绍铭经典译本内地首次出版\n★62种文字风靡110个国家，全球销量超过5000万册\n★《时代周刊》“最好的100本英语小说”\n★兰登书屋“100本20世纪最佳英语小说”\n★入选英美中学生必读书书目\n1936年以来，我所写的每 一部严肃作品，都是直接或间接地反对极权主义，支持我所理解的民主社会主义。 ——乔治•奥威尔（《我为何写作》）\n《1984》是一部杰出的政治寓言小说，也是一部幻想小说。作品刻画了人类在极权主义社会的生存状态，有若一个永不褪色的警示标签，警醒世人提防这种预想中的黑暗成为现实。历经几十年，其生命力益显强大，被誉为20世纪影响最为深远的文学经典之一。",
-			"buy_more_uri": "douban://douban.com/book/4820710/vendors_douban",
+			"intro": "《动物农场》是奥威尔最优秀的作品之一，是一则入木三分的反乌托的政治讽喻寓言。\n农场的一群动物成功地进行了一场“革命”，将压榨他们的人类东家赶出农场，建立起一个平等的动物社会。然而，动物领袖，那些聪明的猪们最终却篡夺了革命的果实，成为比人类东家更加独裁和极权的统治者。",
+			"buy_more_uri": "douban://douban.com/book/2035179/vendors_douban",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -4269,7 +4360,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 211515,
+				"count": 211600,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -4362,7 +4453,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 307253,
+				"count": 307330,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -4455,7 +4546,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 219122,
+				"count": 219224,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -4507,7 +4598,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/33440205.jpg",
-			"min_sale_price": "¥34.8",
+			"min_sale_price": "¥25.5",
 			"press": [
 				"南海出版公司"
 			],
@@ -4548,7 +4639,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3471,
+				"count": 3475,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -4634,7 +4725,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3210,
+				"count": 3212,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -4815,7 +4906,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 33744,
+				"count": 33760,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -4909,7 +5000,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4868,
+				"count": 4870,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -5169,7 +5260,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 13267,
+				"count": 13270,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -5349,7 +5440,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 15113,
+				"count": 15121,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -5395,7 +5486,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/34326931.jpg",
-			"min_sale_price": "¥29.0",
+			"min_sale_price": "¥25.1",
 			"press": [
 				"北京联合出版公司"
 			],

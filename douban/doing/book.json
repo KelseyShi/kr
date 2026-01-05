@@ -2,83 +2,76 @@
 	{
 		"comment": "",
 		"rating": null,
-		"sharing_text": "https://www.douban.com/doubanapp/dispatch/book/36295222 来自@豆瓣App",
-		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36295222/interest/4733360106",
+		"sharing_text": "https://www.douban.com/doubanapp/dispatch/book/35295592 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/35295592/interest/4729198938",
 		"tags": [],
 		"charts": [],
 		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
-		"create_time": "2026-01-02 19:35:41",
+		"create_time": "2026-01-04 16:29:53",
 		"status": "doing",
-		"id": 4733360106,
+		"id": 4729198938,
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3527,
+				"count": 29448,
 				"max": 10,
-				"star_count": 4,
-				"value": 8.1
+				"star_count": 4.5,
+				"value": 9.2
 			},
 			"controversy_reason": "",
 			"pubdate": [
-				"2023-2"
+				"2021-2"
 			],
 			"pic": {
-				"large": "https://img9.doubanio.com/view/subject/l/public/s34457574.jpg",
-				"normal": "https://img9.doubanio.com/view/subject/m/public/s34457574.jpg"
+				"large": "https://img1.doubanio.com/view/subject/l/public/s33789389.jpg",
+				"normal": "https://img1.doubanio.com/view/subject/m/public/s33789389.jpg"
 			},
-			"honor_infos": [
-				{
-					"kind": "book",
-					"uri": "douban://douban.com/subject_collection/ECPA6JOTI?type=rank&category=book&rank_type=year",
-					"rank": 7,
-					"title": "豆瓣2023年度商业·经管图书"
-				}
-			],
-			"other_versions_count": 0,
+			"honor_infos": [],
+			"other_versions_count": 8,
 			"is_show": false,
 			"vendor_icons": [],
-			"card_subtitle": "孟岩 / 2023 / 新星出版社",
+			"card_subtitle": "[德] 博多·舍费尔 / 2021 / 中信出版集团",
 			"book_subtitle": "",
-			"id": "36295222",
+			"id": "35295592",
 			"author": [
-				"孟岩"
+				"[德] 博多·舍费尔"
 			],
 			"is_released": true,
 			"vendor_original_price": "",
 			"color_scheme": {
-				"is_dark": true,
-				"primary_color_light": "a53f3e",
+				"is_dark": false,
+				"primary_color_light": "f2ead8",
 				"_base_color": [
-					0.0012165450121654486,
-					0.6227272727272728,
-					0.8627450980392157
+					0.11538461538461538,
+					0.1074380165289256,
+					0.9490196078431372
 				],
-				"secondary_color": "f9f4f4",
+				"secondary_color": "f9f8f4",
 				"_avg_color": [
-					0.0023310023310023262,
-					0.6620370370370371,
-					0.8470588235294118
+					0.003968253968253972,
+					0.5478260869565218,
+					0.9019607843137255
 				],
-				"primary_color_dark": "7f3030"
+				"primary_color_dark": "f2ead8"
 			},
 			"type": "book",
-			"cover_url": "https://dou.img.lithub.cc/book/36295222.jpg",
-			"min_sale_price": null,
+			"cover_url": "https://dou.img.lithub.cc/book/35295592.jpg",
+			"min_sale_price": "¥19.9",
 			"press": [
-				"新星出版社"
+				"中信出版集团"
 			],
 			"pages": [
 				"240"
 			],
-			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/36295222",
-			"url": "https://book.douban.com/subject/36295222/",
-			"title": "投资第1课",
-			"uri": "douban://douban.com/book/36295222",
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/35295592",
+			"url": "https://book.douban.com/subject/35295592/",
+			"title": "小狗钱钱",
+			"uri": "douban://douban.com/book/35295592",
 			"subtype": "book",
-			"intro": "《投资第1课》是一本为普通投资者写就的入门读物。现代社会是一个分工高度专业化和精细化的社会，任何一个人都不可能、也没必要去学习所有的知识——生病了，找医生；有纠纷，找律师。投资是不是也应该如此？\n相比其他行业，投资行业有个很大的不同：作为用户，在绝大多数时间里，都无法评价产品，以及相应服务的好坏。\n“短期涨得好，不代表长期能赚钱。我们看到的投资收益，有可能是牛市带来的，有可能是短期市场风格带来的。如果不具备基本的金融素养（Financial Literacy），我们就无法辨别这个结果是能力还是运气，更无法在将来获得这个收益。\n更重要的是，即使我们选择了好的投资产品，如果不具备基本的投资知识，也可能会经历’贪婪和恐惧‘，在关键时刻无法拿住”，作者如是说。\n本杰明·格雷厄姆曾说：\n“投资艺术有一个特点不为大众所知。门外汉只需些许努力与能力，便可以取得令人尊敬（即使并不可观）的结果。但是如果人们想在这个容易获取的标准上更进一步，则需要更多的实践和智慧。”\n这本书希望做到的，就是正确地找到这“些许努力”：\n1.学习投资的大道以及基本的知识；\n2.树立正确的财富观；\n3.理解投资为什么可以赚钱、赚的是什么钱；\n4.这些钱本质上又是从哪儿来的；\n5.如何赚到这些钱。\n本书以有知有行 App 专栏《投资第一课》为蓝本，凝聚了孟岩多年实盘投资经验，以及服务用户的体会与心得。经与合伙人张潇雨、有知有行团队不断优化、迭代，本书已成为一本适时、及时的个人资产管理指南。",
-			"buy_more_uri": "",
+			"intro": "吉娅是一个普通的12岁女孩，一次偶然的机会，她救助了一只受伤的小狗，并给它取名叫“钱钱”。没想到，钱钱居然是一位深藏不露的理财高手，它改变了吉娅一家人的财富命运……\n“欧洲理财大师”博多·舍费尔用生动的理财童话，教会你如何从小学会支配金钱，而不是受金钱的支配；如何像富人那样思考，正确地认识和使用金钱；如何进行理财投资，找到积累资产的方法，早日实现财务自由！",
+			"buy_more_uri": "douban://douban.com/book/35295592/vendors_douban",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
