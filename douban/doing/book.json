@@ -2,76 +2,84 @@
 	{
 		"comment": "",
 		"rating": null,
-		"sharing_text": "https://www.douban.com/doubanapp/dispatch/book/35295592 来自@豆瓣App",
-		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/35295592/interest/4729198938",
+		"sharing_text": "https://www.douban.com/doubanapp/dispatch/book/1033778 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/1033778/interest/4736013159",
 		"tags": [],
 		"charts": [],
 		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
-		"create_time": "2026-01-04 16:29:53",
+		"create_time": "2026-01-06 13:37:40",
 		"status": "doing",
-		"id": 4729198938,
+		"id": 4736013159,
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 29448,
+				"count": 81621,
 				"max": 10,
-				"star_count": 4.5,
-				"value": 9.2
+				"star_count": 4,
+				"value": 8.2
 			},
 			"controversy_reason": "",
 			"pubdate": [
-				"2021-2"
+				"2000-09"
 			],
 			"pic": {
-				"large": "https://img1.doubanio.com/view/subject/l/public/s33789389.jpg",
-				"normal": "https://img1.doubanio.com/view/subject/m/public/s33789389.jpg"
+				"large": "https://img1.doubanio.com/view/subject/l/public/s11229869.jpg",
+				"normal": "https://img1.doubanio.com/view/subject/m/public/s11229869.jpg"
 			},
-			"honor_infos": [],
-			"other_versions_count": 8,
+			"honor_infos": [
+				{
+					"kind": "book",
+					"uri": "douban://douban.com/subject_collection/ECMM437BA?type=rank&category=book&rank_type=topn_book",
+					"rank": 1,
+					"title": "豆瓣热门理财图书TOP10"
+				}
+			],
+			"other_versions_count": 18,
 			"is_show": false,
 			"vendor_icons": [],
-			"card_subtitle": "[德] 博多·舍费尔 / 2021 / 中信出版集团",
+			"card_subtitle": "（美）罗伯特·T·清崎 莎伦·L·莱希特 / 2000 / 世界图书出版公司",
 			"book_subtitle": "",
-			"id": "35295592",
+			"id": "1033778",
 			"author": [
-				"[德] 博多·舍费尔"
+				"（美）罗伯特·T·清崎",
+				"莎伦·L·莱希特"
 			],
 			"is_released": true,
 			"vendor_original_price": "",
 			"color_scheme": {
-				"is_dark": false,
-				"primary_color_light": "f2ead8",
+				"is_dark": true,
+				"primary_color_light": "726561",
 				"_base_color": [
-					0.11538461538461538,
-					0.1074380165289256,
-					0.9490196078431372
+					0.04166666666666672,
+					0.15,
+					0.3137254901960784
 				],
-				"secondary_color": "f9f8f4",
+				"secondary_color": "f9f6f4",
 				"_avg_color": [
-					0.003968253968253972,
-					0.5478260869565218,
-					0.9019607843137255
+					0.007575757575757551,
+					0.19298245614035092,
+					0.4470588235294118
 				],
-				"primary_color_dark": "f2ead8"
+				"primary_color_dark": "4c4341"
 			},
 			"type": "book",
-			"cover_url": "https://dou.img.lithub.cc/book/35295592.jpg",
-			"min_sale_price": "¥19.9",
+			"cover_url": "https://dou.img.lithub.cc/book/1033778.jpg",
+			"min_sale_price": null,
 			"press": [
-				"中信出版集团"
+				"世界图书出版公司"
 			],
 			"pages": [
-				"240"
+				"205"
 			],
-			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/35295592",
-			"url": "https://book.douban.com/subject/35295592/",
-			"title": "小狗钱钱",
-			"uri": "douban://douban.com/book/35295592",
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/1033778",
+			"url": "https://book.douban.com/subject/1033778/",
+			"title": "富爸爸，穷爸爸",
+			"uri": "douban://douban.com/book/1033778",
 			"subtype": "book",
-			"intro": "吉娅是一个普通的12岁女孩，一次偶然的机会，她救助了一只受伤的小狗，并给它取名叫“钱钱”。没想到，钱钱居然是一位深藏不露的理财高手，它改变了吉娅一家人的财富命运……\n“欧洲理财大师”博多·舍费尔用生动的理财童话，教会你如何从小学会支配金钱，而不是受金钱的支配；如何像富人那样思考，正确地认识和使用金钱；如何进行理财投资，找到积累资产的方法，早日实现财务自由！",
-			"buy_more_uri": "douban://douban.com/book/35295592/vendors_douban",
+			"intro": "《富爸爸，穷爸爸》是一个真实的故事，作者罗伯特・清崎的亲生父亲和朋友的父亲对金钱的看法截然不同，这使他对认识金钱产生了兴趣，最终他接受了朋友的父亲的建议，也就是书中所说的。“富爸爸”的观念，即不要做金钱的奴隶，要让金钱为我们工作，并由此成为一名极富传奇色彩的成功的投资家。",
+			"buy_more_uri": "",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -94,7 +102,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3369,
+				"count": 3372,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6

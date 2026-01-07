@@ -4,6 +4,90 @@
 		"rating": {
 			"count": 1,
 			"max": 5,
+			"star_count": 5,
+			"value": 5
+		},
+		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/35295592 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/35295592/interest/4729198938",
+		"tags": [],
+		"charts": [],
+		"is_editable": false,
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2026-01-06 13:37:26",
+		"status": "done",
+		"id": 4729198938,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 29494,
+				"max": 10,
+				"star_count": 4.5,
+				"value": 9.2
+			},
+			"controversy_reason": "",
+			"pubdate": [
+				"2021-2"
+			],
+			"pic": {
+				"large": "https://img1.doubanio.com/view/subject/l/public/s33789389.jpg",
+				"normal": "https://img1.doubanio.com/view/subject/m/public/s33789389.jpg"
+			},
+			"honor_infos": [],
+			"other_versions_count": 8,
+			"is_show": false,
+			"vendor_icons": [],
+			"card_subtitle": "[德] 博多·舍费尔 / 2021 / 中信出版集团",
+			"book_subtitle": "",
+			"id": "35295592",
+			"author": [
+				"[德] 博多·舍费尔"
+			],
+			"is_released": true,
+			"vendor_original_price": "",
+			"color_scheme": {
+				"is_dark": false,
+				"primary_color_light": "f2ead8",
+				"_base_color": [
+					0.11538461538461538,
+					0.1074380165289256,
+					0.9490196078431372
+				],
+				"secondary_color": "f9f8f4",
+				"_avg_color": [
+					0.003968253968253972,
+					0.5478260869565218,
+					0.9019607843137255
+				],
+				"primary_color_dark": "f2ead8"
+			},
+			"type": "book",
+			"cover_url": "https://dou.img.lithub.cc/book/35295592.jpg",
+			"min_sale_price": "¥19.9",
+			"press": [
+				"中信出版集团"
+			],
+			"pages": [
+				"240"
+			],
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/35295592",
+			"url": "https://book.douban.com/subject/35295592/",
+			"title": "小狗钱钱",
+			"uri": "douban://douban.com/book/35295592",
+			"subtype": "book",
+			"intro": "吉娅是一个普通的12岁女孩，一次偶然的机会，她救助了一只受伤的小狗，并给它取名叫“钱钱”。没想到，钱钱居然是一位深藏不露的理财高手，它改变了吉娅一家人的财富命运……\n“欧洲理财大师”博多·舍费尔用生动的理财童话，教会你如何从小学会支配金钱，而不是受金钱的支配；如何像富人那样思考，正确地认识和使用金钱；如何进行理财投资，找到积累资产的方法，早日实现财务自由！",
+			"buy_more_uri": "douban://douban.com/book/35295592/vendors_douban",
+			"null_rating_reason": "",
+			"article_intros": [],
+			"vendor_sale_price": "",
+			"has_ebook": false
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
 			"star_count": 4,
 			"value": 4
 		},
@@ -20,7 +104,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3539,
+				"count": 3545,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -279,7 +363,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 43857,
+				"count": 43872,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -296,7 +380,7 @@
 				{
 					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
-					"rank": 113,
+					"rank": 118,
 					"title": "豆瓣图书Top250"
 				}
 			],
@@ -372,10 +456,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1260,
+				"count": 1261,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 9.1
+				"value": 9
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -456,7 +540,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2831,
+				"count": 2864,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -630,7 +714,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3397,
+				"count": 3399,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -796,7 +880,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 9332,
+				"count": 9335,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -880,7 +964,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 168270,
+				"count": 168481,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -897,7 +981,7 @@
 				{
 					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
-					"rank": 26,
+					"rank": 27,
 					"title": "豆瓣图书Top250"
 				}
 			],
@@ -974,7 +1058,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1149,
+				"count": 1152,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -1058,7 +1142,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 32312,
+				"count": 32325,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -1152,7 +1236,7 @@
 				"count": 3493,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.1
+				"value": 8.2
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -1244,7 +1328,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 26259,
+				"count": 26265,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -1328,7 +1412,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 95337,
+				"count": 95356,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -1345,7 +1429,7 @@
 				{
 					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
-					"rank": 171,
+					"rank": 176,
 					"title": "豆瓣图书Top250"
 				}
 			],
@@ -1380,7 +1464,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/1192090.jpg",
-			"min_sale_price": "¥13.86",
+			"min_sale_price": "",
 			"press": [
 				"四川科学技术出版社"
 			],
@@ -1393,7 +1477,7 @@
 			"uri": "douban://douban.com/book/1192090",
 			"subtype": "book",
 			"intro": "在某个离奇的雨夜，一颗球状闪电闯进了少年的视野。它的啸叫低沉中透着尖利，像是一个鬼魂在太古的荒原上吹着埙。当鬼魂奏完乐曲，球状闪电在一瞬间将少年的父母化为灰烬，而他们身下板凳却是奇迹般的冰凉。\n这一夜，少年的命运被彻底改变了，他将毕其一生去解开那个将他变成孤儿的自然之谜。但是他未曾想到，多年以后，单纯的自然科学研究被纳入进“新概念武器”开发计划，他所追寻的球状闪电变成了下一场战争中决定祖国生存或是灭亡的终极武器！\n当被禁锢在终极武器中的大自然的伟力被释放时，一轮冰冷的“蓝太阳”升起在大西部的戈壁滩上，整个戈壁淹没在它的蓝光中，这个世界变得陌生而怪异。一个从未有人想像过的未来，在宇宙观测者的注视下，降临在人类面前……",
-			"buy_more_uri": "douban://douban.com/book/1192090/vendors_douban",
+			"buy_more_uri": "",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -1421,7 +1505,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 64665,
+				"count": 64669,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -1589,7 +1673,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 8918,
+				"count": 8919,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.6
@@ -1675,7 +1759,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 548040,
+				"count": 548104,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -1692,7 +1776,7 @@
 				{
 					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
-					"rank": 65,
+					"rank": 66,
 					"title": "豆瓣图书Top250"
 				}
 			],
@@ -1766,7 +1850,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6045,
+				"count": 6047,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -1857,7 +1941,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6349,
+				"count": 6351,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -1948,7 +2032,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 14880,
+				"count": 14886,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -2041,7 +2125,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 12685,
+				"count": 12686,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -2208,7 +2292,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 521410,
+				"count": 521553,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -2258,7 +2342,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/10554308.jpg",
-			"min_sale_price": "¥27.65",
+			"min_sale_price": "",
 			"press": [
 				"南海出版公司"
 			],
@@ -2271,7 +2355,7 @@
 			"uri": "douban://douban.com/book/10554308",
 			"subtype": "book",
 			"intro": "东野圭吾万千书迷心中的无冕之王\n周刊文春推理小说年度BEST10第1名\n本格推理小说年度BEST10第2名\n《白夜行》是东野圭吾迄今口碑最好的长篇杰作，具备经典名著的一切要素：\n一宗离奇命案牵出跨度近20年步步惊心的故事：悲凉的爱情、吊诡的命运、令人发指的犯罪、复杂人性的对决与救赎……\n-------------------------------------------------------------------\n1973年，大阪的一栋废弃建筑中发现一名遭利器刺死的男子。案件扑朔迷离，悬而未决。\n此后20年间，案件滋生出的恶逐渐萌芽生长，绽放出恶之花。案件相关者的人生逐渐被越来越重的阴影笼罩……\n“我的天空里没有太阳，总是黑夜，但并不暗，因为有东西代替了太阳。虽然没有太阳那么明亮，但对我来说已经足够。\n凭借着这份光，我便能把黑夜当成白天。\n我从来就没有太阳，所以不怕失去。”\n“只希望能手牵手在太阳下散步”，这句象征本书故事内核的绝望念想，有如一个美丽的幌子，随着无数凌乱、压抑、悲凉的事件片段如纪录片一样一一还原，最后一丝温情也被完全抛弃，万千读者在一曲救赎罪恶的爱情之中悲切动容。",
-			"buy_more_uri": "douban://douban.com/book/10554308/vendors_douban",
+			"buy_more_uri": "",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -2299,7 +2383,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 59297,
+				"count": 59316,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -2557,10 +2641,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 10174,
+				"count": 10202,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 8.9
+				"value": 8.8
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -2610,7 +2694,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/36672955.jpg",
-			"min_sale_price": "¥51.85",
+			"min_sale_price": "¥59.5",
 			"press": [
 				"中信出版集团"
 			],
@@ -2651,7 +2735,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3977,
+				"count": 3989,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -2879,7 +2963,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/35922704.jpg",
-			"min_sale_price": "¥33.6",
+			"min_sale_price": "",
 			"press": [
 				"尖端出版社"
 			],
@@ -2890,7 +2974,7 @@
 			"uri": "douban://douban.com/book/35922704",
 			"subtype": "book",
 			"intro": "「到底要付出什麼，才能瞭解這世上的一切——？」\n15世紀前期的Ｐ王國，拉斐爾是百年難的一見的神童，預計在大學主修神學。\n因緣際會下，遇見了因從事「禁止研究」而被折磨拷問的異*徒赫伯特。\n他的工作與宗教正式認可的「地心說」背道而馳，\n因此，赫伯特被認為是應該懺悔的異端者。\n拉斐爾起初否定了赫伯特的理論，\n但他理性的性格以及對天文學的好奇，\n逐漸被「日心說」的理性之美所吸引……",
-			"buy_more_uri": "douban://douban.com/book/35922704/vendors_douban",
+			"buy_more_uri": "",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -2918,7 +3002,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1771,
+				"count": 1772,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -2964,7 +3048,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/35590973.jpg",
-			"min_sale_price": "¥39.7",
+			"min_sale_price": "¥60.4",
 			"press": [
 				"北京联合出版公司"
 			],
@@ -3005,10 +3089,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 159,
+				"count": 160,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.3
+				"value": 8.4
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -3092,7 +3176,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1540,
+				"count": 1543,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -3176,7 +3260,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 141875,
+				"count": 142036,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -3229,7 +3313,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/35031587.jpg",
-			"min_sale_price": "¥26.1",
+			"min_sale_price": "¥31.7",
 			"press": [
 				"北京联合出版公司"
 			],
@@ -3527,7 +3611,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 53205,
+				"count": 53213,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -3620,7 +3704,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3812,
+				"count": 3820,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -3707,7 +3791,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 821337,
+				"count": 821410,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -3760,7 +3844,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/1770782.jpg",
-			"min_sale_price": "¥20.59",
+			"min_sale_price": "¥21.7",
 			"press": [
 				"上海人民出版社"
 			],
@@ -3801,7 +3885,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 222483,
+				"count": 222529,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -3818,7 +3902,7 @@
 				{
 					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
-					"rank": 53,
+					"rank": 54,
 					"title": "豆瓣图书Top250"
 				}
 			],
@@ -3853,7 +3937,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/1858513.jpg",
-			"min_sale_price": "¥8.64",
+			"min_sale_price": "",
 			"press": [
 				"上海译文出版社"
 			],
@@ -3866,7 +3950,7 @@
 			"uri": "douban://douban.com/book/1858513",
 			"subtype": "book",
 			"intro": "一个英国证券交易所的经纪人，本已有牢靠的职业和地位、美满的家庭，但却迷恋上绘画，像“被魔鬼附了体”，突然弃家出走，到巴黎去追求绘画的理想。他的行径没有人能够理解。他在异国不仅肉体受着贫穷和饥饿煎熬，而且为了寻找表现手法，精神亦在忍受痛苦折磨。经过一番离奇的遭遇后，主人公最后离开文明世界，远遁到与世隔绝的塔希提岛上。他终于找到灵魂的宁静和适合自己艺术气质的氛围。他同一个土著女子同居，创作出一幅又一幅使后世震惊的杰作。在他染上麻风病双目失明之前，曾在自己住房四壁画了一幅表现伊甸园的伟大作品。但在逝世之前，他却命令土著女子在他死后把这幅画作付之一炬。通过这样一个一心追求艺术、不通人性世故的怪才，毛姆探索了艺术的产生与本质、个性与天才的关系、艺术家与社会的矛盾等等引人深思的问题。同时这本书也引发了人们对摆脱世俗束缚逃离世俗社会寻找心灵家园这一话题的思考，而关于南太平洋小岛的自然民风的描写也引人向往。\n《月亮和六便士》说问世后，以情节入胜、文字深刻在文坛轰动一时，人们争相传看。在小说中，毛姆用第一人称的叙述手法，借“我”之口，叙述整个故事，有人认为这篇小说的原型是法国印象派画家高更，这更增加了它的传奇色彩，受到了全世界读者的关注。",
-			"buy_more_uri": "douban://douban.com/book/1858513/vendors_douban",
+			"buy_more_uri": "",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -3894,7 +3978,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 212555,
+				"count": 212587,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -3911,7 +3995,7 @@
 				{
 					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
-					"rank": 35,
+					"rank": 36,
 					"title": "豆瓣图书Top250"
 				}
 			],
@@ -3947,7 +4031,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/25985021.jpg",
-			"min_sale_price": "¥51.0",
+			"min_sale_price": "",
 			"press": [
 				"中信出版社"
 			],
@@ -3960,7 +4044,7 @@
 			"uri": "douban://douban.com/book/25985021",
 			"subtype": "book",
 			"intro": "十万年前，地球上至少有六种不同的人\n但今日，世界舞台为什么只剩下了我们自己？\n从只能啃食虎狼吃剩的残骨的猿人，到跃居食物链顶端的智人，\n从雪维洞穴壁上的原始人手印，到阿姆斯壮踩上月球的脚印，\n从认知革命、农业革命，到科学革命、生物科技革命，\n我们如何登上世界舞台成为万物之灵的？\n从公元前1776年的《汉摩拉比法典》，到1776年的美国独立宣言，\n从帝国主义、资本主义，到自由主义、消费主义，\n从兽欲，到物欲，从兽性、人性，到神性，\n我们了解自己吗？我们过得更快乐吗？\n我们究竟希望自己得到什么、变成什么？\n------------------------------------------------------------------------------------------------\n【编辑推荐】\n1、由书改变而成的人类简史课程风靡全球，成为希伯来大学最受欢迎课程 Coursera最受欢迎课程 ，mooc最受欢迎课程。学界和大众都一致认可，戴蒙德推荐。\n2、一大开创性：打通文字发明前后历史的界限。\n文字发明之前的年代，是生物学家、考古学家的专长；文字发明之后的年代，是历史学家、政治学家和经济学家的专长；\n许多著名史家的作品，欠缺遗传学或生态学的视野，如何让这两大段历史之间没有断层，能够有一以贯之的宏观解读？\n本书不同于《枪炮、病菌与钢铁》从生物与环境的角度看人类社会的发展，也不同于麦克尼尔的《世界史》以文明为单位绘制的人类文明交织的世界。 他笔下的历史，在科学中有深沉的人文关怀。\n3、填补传统人类史的三大鸿沟：\n历史观与哲学观之间的鸿沟（提供有史实根据的深刻哲学思考）；人类和生态系统之间的鸿沟（作者多从生态来思考，而不是只讲人类的利益）；集体和个人之间的鸿沟（检视历史事件如何影响到当时一般人的生活）。\n4、四大部分描述人类大历史：\n7万年前的大脑认知革命（有能力谈八卦，想象不存在的事物，让陌生人开始合作、建立组织）\n1.2万年前的农业革命（让我们渴求更多、生产更多，分工分职愈趋细腻）、\n500年前的科学革命（带来快速进步，让我们拥有上帝的力量，也带来毁灭）\n全球大一统、人类大融合的关键因素——金钱、帝国、宗教\n5、一部个人幸福探索之书。\n用通俗的语言和新鲜的视角，将个体的幸福放在人类发展的过程中审视，不再错过历史中最关键、最有意思的部分。涵盖了生物学，人类学，哲学，心理学，艺术，文学，伦理学等众多领域。涉及幸福，生命的意义等众多话题，有人说这是一部个人幸福探索之书。\n6、一部“瘦身版”人类简史。\n如果说给我一本书，不到五百页，没有一堆令人晕头转向的年份、人名、地名、称号，就能涵盖了人类如何崛起、影响现代生活甚巨的资本主义、一神教、自由人文主义、基因工程如何兴盛的人类历史重大脉络……这是仅有的一部！\n7、一部引发多国版权大战的神秘大书。\n获得波兰斯基人文学科创造力与独创性奖。 100周蝉联以色列畅销书排行榜第一，在英国，9家出版商疯狂竞价。 23个国家竞相购买版权。台湾上市一周，金石堂、诚品历史类畅销书榜第一 ，诚品总榜第八，西班牙上市两周总榜第一。\n------------------------------------------------------------------------------------------------\n【内容简介】\n《人类简史：从动物到上帝》是以色列新锐历史学家的一部重磅作品。从十万年前有生命迹象开始到21世纪资本、科技交织的人类发展史。十万年前，地球上至少有六个人种，为何今天却只剩下了我们自己？我们曾经只是非洲角落一个毫不起眼的族群，对地球上生态的影响力和萤火虫、猩猩或者水母相差无几。为何我们能登上生物链的顶端，最终成为地球的主宰？\n从认知革命、农业革命到科学革命，我们真的了解自己吗？我们过得更加快乐吗？我们知道金钱和宗教从何而来，为何产生吗？人类创建的帝国为何一个个衰亡又兴起？为什么地球上几乎每一个社会都有男尊女卑的观念？为何一神教成为最为广泛接受的宗教？科学和资本主义如何成为现代社会最重要的信条？理清影响人类发展的重大脉络，挖掘人类文化、宗教、法律、国家、信贷等产生的根源。这是一部宏大的人类简史，更见微知著、以小写大，让人类重新审视自己。\n------------------------------------------------------------------------------------------------\n【各界评论】\n《人类简史：从动物到上帝》为什么能够在国际畅销书榜上爆冲？原因很简单，它处理的是历史的大问题、现代世界的大问题，而且，它的写作风格是刻骨铭心的生动。你会爱上它！\n——普利策奖得主  《枪炮、病菌与钢铁》作者戴蒙德\n这是此类大历史中最好的一本：规模宏大但绝非泛泛而谈；具有时代性又不花哨，观念惊世骇俗但绝不是个简单的反对者。每个人都能在书里找到一部分和另外的人开始讨论，但是弄清楚是哪部分、为什么，对我们都有好处。\n——牛津大学历史学院院长 斯蒂文·刚尼\n我拿起这本《人类简史》立刻“着道”了——拿起了就放不下，几乎一口气读完。吸引力主要来自作者才思的旷达敏捷，还有译者文笔的生动晓畅，而书中屡屡提及中国的相关史实，也能让人感到一种说不出的亲切，好像自己也被融入其中，读来欲罢不能。\n——北京大学历史系教授 高毅\n《人类简史》的目的不是传授人类考古学的所有研究成果，而是提供一种看历史的视角，一种全局的观点。当你不再执着于科学、政治或宗教等某一个领域的发展过程，而是关注人类社会的整体演变，观察这些领域之间的相互作用，你会感到你脑海中零碎的历史知识忽然像拼图一样各就各位，构成一幅宏大的图景，这样的视角非常新鲜。\n——果壳网 姬十三\n读完这本书，有一种跟着人类一同走过十万年的感觉！\n——读者\n这本书如果要用“宏伟史诗”来形容一点也不过分，其中包含了很多学科的内容，例如考古学、生物学、物理学、经济学、宗教、社会学甚至计算机科学等等。书里里面的大部分观点都是从不同的角度进行介绍，其中很多都是经无数人严格验证过的，讲师很多时候仅仅是通过自己的表达希望尽量客观地介绍一些内容，至于每个人怎么理解并没有统一的标准了。\n——读者\n超级好的课程，付费都坚持下来了，观点独特，从来没想到能从这个角度理解我们人类自己。\n——读者",
-			"buy_more_uri": "douban://douban.com/book/25985021/vendors_douban",
+			"buy_more_uri": "",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -3988,7 +4072,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 127389,
+				"count": 127450,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -4081,7 +4165,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 177434,
+				"count": 177494,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -4133,7 +4217,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/2035179.jpg",
-			"min_sale_price": "¥7.0",
+			"min_sale_price": "",
 			"press": [
 				"上海译文出版社"
 			],
@@ -4146,7 +4230,7 @@
 			"uri": "douban://douban.com/book/2035179",
 			"subtype": "book",
 			"intro": "《动物农场》是奥威尔最优秀的作品之一，是一则入木三分的反乌托的政治讽喻寓言。\n农场的一群动物成功地进行了一场“革命”，将压榨他们的人类东家赶出农场，建立起一个平等的动物社会。然而，动物领袖，那些聪明的猪们最终却篡夺了革命的果实，成为比人类东家更加独裁和极权的统治者。",
-			"buy_more_uri": "douban://douban.com/book/2035179/vendors_douban",
+			"buy_more_uri": "",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -4161,85 +4245,85 @@
 			"star_count": 5,
 			"value": 5
 		},
-		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/6518605 来自@豆瓣App",
-		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/6518605/interest/4420035032",
+		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/1209899 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/1209899/interest/4420035376",
 		"tags": [],
 		"charts": [],
 		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
-		"create_time": "2025-01-21 17:41:56",
+		"create_time": "2025-01-21 17:42:27",
 		"status": "done",
-		"id": 4420035032,
+		"id": 4420035376,
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 211600,
+				"count": 127450,
 				"max": 10,
-				"star_count": 5,
-				"value": 9.5
+				"star_count": 4.5,
+				"value": 9.2
 			},
 			"controversy_reason": "",
 			"pubdate": [
-				"2012-1"
+				"2002-5"
 			],
 			"pic": {
-				"large": "https://img9.doubanio.com/view/subject/l/public/s28357056.jpg",
-				"normal": "https://img9.doubanio.com/view/subject/m/public/s28357056.jpg"
+				"large": "https://img1.doubanio.com/view/subject/l/public/s1151479.jpg",
+				"normal": "https://img1.doubanio.com/view/subject/m/public/s1151479.jpg"
 			},
 			"honor_infos": [
 				{
 					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
-					"rank": 5,
+					"rank": 29,
 					"title": "豆瓣图书Top250"
 				}
 			],
-			"other_versions_count": 58,
+			"other_versions_count": 14,
 			"is_show": false,
 			"vendor_icons": [
 				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
-			"card_subtitle": "刘慈欣 / 2012 / 重庆出版社",
-			"book_subtitle": "地球往事三部曲",
-			"id": "6518605",
+			"card_subtitle": "史铁生 / 2002 / 春风文艺出版社",
+			"book_subtitle": "史铁生代表作",
+			"id": "1209899",
 			"author": [
-				"刘慈欣"
+				"史铁生"
 			],
 			"is_released": true,
 			"vendor_original_price": "",
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "6a6872",
+				"primary_color_light": "a5a48b",
 				"_base_color": [
-					0.6999999999999998,
-					0.09259259259259253,
-					0.21176470588235294
+					0.1616161616161615,
+					0.15566037735849067,
+					0.8313725490196079
 				],
-				"secondary_color": "f5f4f9",
+				"secondary_color": "f9f9f4",
 				"_avg_color": [
-					0.8749999999999999,
-					0.07407407407407407,
-					0.21176470588235294
+					0.15625000000000003,
+					0.15920398009950248,
+					0.788235294117647
 				],
-				"primary_color_dark": "46454c"
+				"primary_color_dark": "7f7e6b"
 			},
 			"type": "book",
-			"cover_url": "https://dou.img.lithub.cc/book/6518605.jpg",
-			"min_sale_price": "¥97.44",
+			"cover_url": "https://dou.img.lithub.cc/book/1209899.jpg",
+			"min_sale_price": "",
 			"press": [
-				"重庆出版社"
+				"春风文艺出版社"
 			],
 			"pages": [
-				"1285"
+				"399"
 			],
-			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/6518605",
-			"url": "https://book.douban.com/subject/6518605/",
-			"title": "三体全集",
-			"uri": "douban://douban.com/book/6518605",
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/1209899",
+			"url": "https://book.douban.com/subject/1209899/",
+			"title": "我与地坛",
+			"uri": "douban://douban.com/book/1209899",
 			"subtype": "book",
-			"intro": "《地球往事·三体》\n文化大革命如火如荼进行的同时，军方探寻外星文明的绝秘计划“红岸工程”取得了突破性进展。但在按下发射键的那一刻，历经劫难的叶文洁没有意识到，她彻底改变了人类的命运。\n地球文明向宇宙发出的第一声啼鸣，以太阳为中心，以光速向宇宙深处飞驰……\n四光年外，“三体文明”正苦苦挣扎——三颗无规则运行的太阳主导下的百余次毁灭与重生逼迫他们逃离母星。而恰在此时，他们接收到了地球发来的信息。\n在运用超技术锁死地球人的基础科学之后，三体人庞大的宇宙舰队开始向地球进发……人类的末日悄然来临。\n《地球往事·黑暗森林》\n三体人在利用魔法般的科技锁死了地球人的科学之后，庞大的宇宙舰队杀气腾腾地直扑太阳系，意欲清除地球文明。\n面对前所未有的危局，经历过无数磨难的地球人组建起同样庞大的太空舰队，同时，利用三体人思维透明的致命缺陷，制订了神秘莫测的“面壁计划”，精选出四位“面壁者”。秘密展开对三体人的反击。\n三体人自身虽然无法识破人类的诡谲计谋，却依靠由地球人中的背叛者挑选出的“破壁人”，与“面壁者”展开智慧博弈……\n“面壁计划”究竟能否成功？地球人究竟能否在这场你死我活的文明生存竞争中战而胜之？神秘的“黑暗森林”究竟意味着什么？\n《地球往事·死神永生》\n与三体文明的战争使人类第一次看到了宇宙黑暗的真相，地球文明像一个恐惧的孩子，熄灭了寻友的篝火，在暗夜中发抖。自以为历经沧桑，其实刚刚蹒跚学步；自以为悟出了生存竞争的秘密，其实还远没有竞争的资格。使两个文明命悬一线的黑暗森林打击，不过是宇宙战场上的一个微不足道的插曲，一个在战场上乱跑的无知孩童被堑壕中的狙击手射杀，仅此而已。真正的星际战争没人见过，也不可能见到。因为战争的方式和武器已经远超出人类的想象，目睹战场之日，就是灭亡之时。人类没有想到，面对这巨大的存在，从社会学的结论，却可以推导出宇宙学的结果。宇宙的田园时代已经远去，那时，万物的终极之美曾昙花一现，现在已经变成任何大脑和智慧体都无法做出的梦，变成游吟诗人飘渺的残歌；宇宙的物竞天择已到了最惨烈的时刻，在亿万光年暗无天日的战场上，深渊最底层的毁灭力量被唤醒，太空变成了死神广阔的披风。太阳系中的人们永远不会知道这一切，最后面对真相的，只有两双眼睛。",
-			"buy_more_uri": "douban://douban.com/book/6518605/vendors_douban",
+			"intro": "收有“午餐半小时”、“我的遥远的清平湾”、“命若琴弦”、“第一人称”、“两个故事”等15篇史铁生的代表作。",
+			"buy_more_uri": "",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -4267,7 +4351,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 177434,
+				"count": 177494,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -4319,7 +4403,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/2035179.jpg",
-			"min_sale_price": "¥7.0",
+			"min_sale_price": "",
 			"press": [
 				"上海译文出版社"
 			],
@@ -4332,7 +4416,7 @@
 			"uri": "douban://douban.com/book/2035179",
 			"subtype": "book",
 			"intro": "《动物农场》是奥威尔最优秀的作品之一，是一则入木三分的反乌托的政治讽喻寓言。\n农场的一群动物成功地进行了一场“革命”，将压榨他们的人类东家赶出农场，建立起一个平等的动物社会。然而，动物领袖，那些聪明的猪们最终却篡夺了革命的果实，成为比人类东家更加独裁和极权的统治者。",
-			"buy_more_uri": "douban://douban.com/book/2035179/vendors_douban",
+			"buy_more_uri": "",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -4360,7 +4444,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 211600,
+				"count": 211680,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -4412,7 +4496,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/6518605.jpg",
-			"min_sale_price": "¥97.44",
+			"min_sale_price": "",
 			"press": [
 				"重庆出版社"
 			],
@@ -4425,7 +4509,7 @@
 			"uri": "douban://douban.com/book/6518605",
 			"subtype": "book",
 			"intro": "《地球往事·三体》\n文化大革命如火如荼进行的同时，军方探寻外星文明的绝秘计划“红岸工程”取得了突破性进展。但在按下发射键的那一刻，历经劫难的叶文洁没有意识到，她彻底改变了人类的命运。\n地球文明向宇宙发出的第一声啼鸣，以太阳为中心，以光速向宇宙深处飞驰……\n四光年外，“三体文明”正苦苦挣扎——三颗无规则运行的太阳主导下的百余次毁灭与重生逼迫他们逃离母星。而恰在此时，他们接收到了地球发来的信息。\n在运用超技术锁死地球人的基础科学之后，三体人庞大的宇宙舰队开始向地球进发……人类的末日悄然来临。\n《地球往事·黑暗森林》\n三体人在利用魔法般的科技锁死了地球人的科学之后，庞大的宇宙舰队杀气腾腾地直扑太阳系，意欲清除地球文明。\n面对前所未有的危局，经历过无数磨难的地球人组建起同样庞大的太空舰队，同时，利用三体人思维透明的致命缺陷，制订了神秘莫测的“面壁计划”，精选出四位“面壁者”。秘密展开对三体人的反击。\n三体人自身虽然无法识破人类的诡谲计谋，却依靠由地球人中的背叛者挑选出的“破壁人”，与“面壁者”展开智慧博弈……\n“面壁计划”究竟能否成功？地球人究竟能否在这场你死我活的文明生存竞争中战而胜之？神秘的“黑暗森林”究竟意味着什么？\n《地球往事·死神永生》\n与三体文明的战争使人类第一次看到了宇宙黑暗的真相，地球文明像一个恐惧的孩子，熄灭了寻友的篝火，在暗夜中发抖。自以为历经沧桑，其实刚刚蹒跚学步；自以为悟出了生存竞争的秘密，其实还远没有竞争的资格。使两个文明命悬一线的黑暗森林打击，不过是宇宙战场上的一个微不足道的插曲，一个在战场上乱跑的无知孩童被堑壕中的狙击手射杀，仅此而已。真正的星际战争没人见过，也不可能见到。因为战争的方式和武器已经远超出人类的想象，目睹战场之日，就是灭亡之时。人类没有想到，面对这巨大的存在，从社会学的结论，却可以推导出宇宙学的结果。宇宙的田园时代已经远去，那时，万物的终极之美曾昙花一现，现在已经变成任何大脑和智慧体都无法做出的梦，变成游吟诗人飘渺的残歌；宇宙的物竞天择已到了最惨烈的时刻，在亿万光年暗无天日的战场上，深渊最底层的毁灭力量被唤醒，太空变成了死神广阔的披风。太阳系中的人们永远不会知道这一切，最后面对真相的，只有两双眼睛。",
-			"buy_more_uri": "douban://douban.com/book/6518605/vendors_douban",
+			"buy_more_uri": "",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -4453,7 +4537,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 307330,
+				"count": 307397,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -4505,7 +4589,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/4820710.jpg",
-			"min_sale_price": "¥19.6",
+			"min_sale_price": "",
 			"press": [
 				"北京十月文艺出版社"
 			],
@@ -4518,7 +4602,7 @@
 			"uri": "douban://douban.com/book/4820710",
 			"subtype": "book",
 			"intro": "★村上春树以《1Q84》向本书致敬\n★著名学者刘绍铭经典译本内地首次出版\n★62种文字风靡110个国家，全球销量超过5000万册\n★《时代周刊》“最好的100本英语小说”\n★兰登书屋“100本20世纪最佳英语小说”\n★入选英美中学生必读书书目\n1936年以来，我所写的每 一部严肃作品，都是直接或间接地反对极权主义，支持我所理解的民主社会主义。 ——乔治•奥威尔（《我为何写作》）\n《1984》是一部杰出的政治寓言小说，也是一部幻想小说。作品刻画了人类在极权主义社会的生存状态，有若一个永不褪色的警示标签，警醒世人提防这种预想中的黑暗成为现实。历经几十年，其生命力益显强大，被誉为20世纪影响最为深远的文学经典之一。",
-			"buy_more_uri": "douban://douban.com/book/4820710/vendors_douban",
+			"buy_more_uri": "",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -4546,7 +4630,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 219224,
+				"count": 219333,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -4563,7 +4647,7 @@
 				{
 					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
-					"rank": 155,
+					"rank": 156,
 					"title": "豆瓣图书Top250"
 				}
 			],
@@ -4639,7 +4723,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3475,
+				"count": 3482,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -4684,7 +4768,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/36289703.jpg",
-			"min_sale_price": "¥24.88",
+			"min_sale_price": "¥28.0",
 			"press": [
 				"中信出版社"
 			],
@@ -4725,7 +4809,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3212,
+				"count": 3215,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -4818,10 +4902,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2178,
+				"count": 2180,
 				"max": 10,
-				"star_count": 4.5,
-				"value": 8.5
+				"star_count": 4,
+				"value": 8.4
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -4906,7 +4990,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 33760,
+				"count": 33771,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -4923,7 +5007,7 @@
 				{
 					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
-					"rank": 209,
+					"rank": 208,
 					"title": "豆瓣图书Top250"
 				}
 			],
@@ -4959,7 +5043,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/26896859.jpg",
-			"min_sale_price": "¥32.16",
+			"min_sale_price": "",
 			"press": [
 				"浙江文艺出版社"
 			],
@@ -4972,7 +5056,7 @@
 			"uri": "douban://douban.com/book/26896859",
 			"subtype": "book",
 			"intro": "全世界只有万分之零点一二的人会在36岁前患上肺癌，保罗·卡拉尼什（Paul Kalanithi）是其中之一。当你读到这本书时，他已经不在人世。保罗曾获得过美国斯坦福大学英语文学及人体生物学双料学位，并于英国剑桥大学获得科学史与哲学研究硕士学位，以优异成绩获得美国耶鲁大学医学博士学位，即将获得斯坦福医学院外科教授职位并主持自己的研究室。2013年，即将抵达人生巅峰的保罗，忽然被诊断出患有第四期肺癌。自此，他开始以医生和患者的双重身份，记录自己的余生，反思医疗与人性。他的文章刊登在《纽约时报》《华盛顿邮报》等媒体，获得了全球读者关注。本书文笔优美，诚挚感人，书里有着对人性、生死、医疗的深沉思索，让全球无数读者为之动容。",
-			"buy_more_uri": "douban://douban.com/book/26896859/vendors_douban",
+			"buy_more_uri": "",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -5000,7 +5084,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4870,
+				"count": 4872,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -5087,7 +5171,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 976,
+				"count": 977,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7
@@ -5174,7 +5258,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 9099,
+				"count": 9100,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -5219,7 +5303,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/20473505.jpg",
-			"min_sale_price": "¥19.6",
+			"min_sale_price": "",
 			"press": [
 				"中华书局"
 			],
@@ -5232,7 +5316,7 @@
 			"uri": "douban://douban.com/book/20473505",
 			"subtype": "book",
 			"intro": "这是日本天才作家中岛敦的第一本中文简体版精选集，收录中岛敦《山月记》《弟子》《李陵》《光•风•梦》等九篇代表作。中岛敦的小说多取材于中国古典故事，独出心裁，文字优美，探究人性的幽暗与自我的存在，充满现代特质，深获读者喜爱。\n【本书特色】\n1，日本天才作家中岛敦作品中文简体版首次面世，重塑中国古典，让你认识自我，读懂人性的挣扎！\n2，《山月记》是日本高中语文教材常选篇目，日文版《李陵•山月记》高踞日本“五大杰出小说”榜首，排名超越芥川龙之介《罗生门》和夏目漱石《哥儿》！\n\n【评论推荐】\n中岛敦作为对人性的知性的理解者，在他的身上有一种穿越性，这种穿越性可以和夏目漱石以及晚年的幸田露伴媲美。\n——日本作家 伊藤整\n中岛敦的中国题材历史小说显示了一种成熟和练达，表现了纯文学所具有的高雅与纯正的艺术品位。\n——北京师范大学文学院教授 王向远\n中岛敦学贯中西，不仅深谙中国古典，还精通西方文学和哲学。他的作品不仅有简洁、高迈的汉文格调，还充满了深刻的哲理，蕴含着他对人的存在及命运的深刻洞见。\n——宁波大学外语学院副教授 郭勇",
-			"buy_more_uri": "douban://douban.com/book/20473505/vendors_douban",
+			"buy_more_uri": "",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -5260,7 +5344,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 13270,
+				"count": 13271,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -5313,7 +5397,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/27114418.jpg",
-			"min_sale_price": "¥18.0",
+			"min_sale_price": "",
 			"press": [
 				"江西人民出版社"
 			],
@@ -5326,7 +5410,7 @@
 			"uri": "douban://douban.com/book/27114418",
 			"subtype": "book",
 			"intro": "新锐小说家马特·海格以文学手法剖白自身心理困境\n再现一段克服绝望、走出抑郁的生命之旅\n...................\n※编辑推荐※\n☆畅销全球33个国家，英国报业巨头《星期日泰晤士报》非虚构类畅销书排行榜No.1，连续46周稳居英国图书畅销榜前10名，英国最大连 锁书店水石书店年度选书，入选《娱乐周刊》2016年必读书目。\n☆ BBC、《纽约时报》《卫报》《星期日泰晤士报》《电讯报》《观察家报》《赫芬顿邮报》等五十余家知名媒体争相报道，珍妮特•温特森、尼尔•盖曼、S·J·沃森、乔安妮·哈里斯等知名作家击节赞赏。\n☆作者马特·海格曾站在悬崖边企图自杀，离死亡只有一步之遥。在这本书中，他以惊人的准确度再现了与抑郁相伴的种种亲身感受。但这本书非关死亡，而是关于如何在失去一切之后绝地逆转，度过人生的艰难时期；如何在走出困境之后成为更好的自己，更用力地去爱，去生活，去感知生命。\n...................\n※内容简介※\n24岁时，作者马特·海格不幸被命运选中，成为抑郁症患者。本书讲述了这个并不比任何人坚强的年轻人，一点一滴克服精神上的极度痛苦，从绝望中活下来的故事。\n在《活下去的理由》中，马特一面以文学手法精确再现那些不被理解、无法言说又撕心裂肺的精神痛苦，代抑郁症患者发出那些不曾被世界听到的呼喊；一面又用举重若轻的笔调，讲述他在爱的陪伴下一次次击退黑暗的经历，向读者分享了一场绝望与希望并存、黑暗和温暖交织的生命之旅。\n著名演员乔安娜·林莉称这本书“甚至能救活几条人命”，亚马逊读者称“想把这本书拿给所有人看，因为它说出了自己无法表达的心声”。\n...................\n※ 媒体推荐※\n《活下去的理由》不是那种普遍意义上的自助书，它反映了个体生命对危机的应对方式，具有强烈的个人色彩和创造性。这本书能够带给人们希望，帮助人们更好地认识自己。\n——《卫报》（The Guardian）\n看着这个年轻的生命被抑郁症消耗，本该是个令人心碎的故事，但这本书却带来了出人意料的温柔抚慰。\n——《星期日邮报》（Sunday Mail）\n一个关于作者是怎样从抑郁和自杀阴影中回归的温暖故事，在绝望的时候，它能给你带来安慰。\n——《新政治家周刊》（New Statesman）\n这本书不仅对抑郁者有用，还能帮助抑郁者的父母、伴侣、朋友了解所爱之人正在经历什么。它是希望的灯塔。\n——stylist杂志\n这里没有心理呓语，只有海格非常真实、接地气，充满智慧的叙述。书中很多句子都能引发联想，让你想把他们摘抄下来。\n——《女性健康》（Women’s Health）\n...................\n※ 名人推荐※\n这是一本绝妙的书，那些为抑郁症所苦的人，身边有人受抑郁症折磨的人（差不多每个人都有），都应该读一读。\n——S·J·沃森（S·J·Watson），畅销小说《别相信任何人》作者\n把难以启齿的敏感话题从黑暗中解放出来，并照以光亮。\n——麦克·帕林（Michael Palin），英国喜剧演员\n我无法用言语表达这本书中蕴藏着多么大的救赎力量。阅读这本书的感觉，就像作者给了我一个温暖的拥抱，他仿佛在对我说：“我保证，一切都会好起来的。”\n——亚马逊读者\n终于有一本关于抑郁症的书真的有用了！有过类似经历的读者一定会不停地点头，同意作者所说的一切。这里没有心理学家们隔岸观火般的治疗方案，只是在讲述马特·海格与恐怖的黑狗相伴同行的真实经历。它让我流泪，也让我欢笑，我为马特走出抑郁的那些瞬间而欢欣雀跃。\n——goodreads读者",
-			"buy_more_uri": "douban://douban.com/book/27114418/vendors_douban",
+			"buy_more_uri": "",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -5440,7 +5524,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 15121,
+				"count": 15129,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
