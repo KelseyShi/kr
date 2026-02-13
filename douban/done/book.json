@@ -20,7 +20,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 30433,
+				"count": 30481,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -104,7 +104,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3767,
+				"count": 3781,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -363,7 +363,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 44122,
+				"count": 44135,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -540,7 +540,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3341,
+				"count": 3366,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -714,7 +714,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3433,
+				"count": 3435,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -880,7 +880,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 9391,
+				"count": 9394,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -964,7 +964,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 171606,
+				"count": 171768,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -1058,10 +1058,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1199,
+				"count": 1203,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 8.5
+				"value": 8.6
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -1101,7 +1101,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/37244516.jpg",
-			"min_sale_price": null,
+			"min_sale_price": "¥29.9",
 			"press": [
 				"湖南文艺出版社"
 			],
@@ -1114,7 +1114,7 @@
 			"uri": "douban://douban.com/book/37244516",
 			"subtype": "book",
 			"intro": "内容简介\n小红书超人气漫画家Daisy的首部爱情漫画，“猫未未”重磅新作！\nDaisy首次完整绘制自己与瑞典老公老D相遇、相识、结缘、相知、结婚、生子的全过程。从迪拜初见，到马耳他旅居，从瑞典生产，到中国定居，Daisy借生动有趣的漫画，把时间定格，捕捉自己爱情生活的点滴细节，浪漫温馨且富有哲思，让每一个朴实无华的日子，都拥有了特别值得被记录的瞬间。\n编辑推荐\n1.人气IP“猫未未”重磅新作！火爆小红书、公众号、抖音等社交媒体，全网阅读量超2亿，点赞量超千万的爱情故事！真实的爱情比偶像剧还要更戳人！\n2.呼吁最高的爱情主题，收录点击率最高的《我的天才爱人》全集，新增网上未发布四篇作品以及大幅场景图！\n3.已获第21届中国动漫金龙奖·IP综合奖潜力奖。\n4.全彩印刷，流畅跨页插图。\n5.随书附赠作者亲绘大场景海报！",
-			"buy_more_uri": "",
+			"buy_more_uri": "douban://douban.com/book/37244516/vendors_douban",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -1142,7 +1142,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 32567,
+				"count": 32579,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -1233,7 +1233,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3511,
+				"count": 3514,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -1328,7 +1328,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 26351,
+				"count": 26359,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -1412,7 +1412,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 95675,
+				"count": 95687,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -1505,7 +1505,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 64708,
+				"count": 64712,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -1759,7 +1759,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 549316,
+				"count": 549399,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -1850,7 +1850,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6071,
+				"count": 6072,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -2032,7 +2032,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 14972,
+				"count": 14978,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -2211,7 +2211,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 20961,
+				"count": 20962,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -2292,7 +2292,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 524328,
+				"count": 524511,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -2383,7 +2383,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 59552,
+				"count": 59572,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -2641,7 +2641,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 10769,
+				"count": 10799,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2694,7 +2694,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/36672955.jpg",
-			"min_sale_price": "¥55.3",
+			"min_sale_price": "¥50.9",
 			"press": [
 				"中信出版集团"
 			],
@@ -2735,7 +2735,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4254,
+				"count": 4267,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -2826,7 +2826,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2575,
+				"count": 2576,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -3002,7 +3002,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1799,
+				"count": 1801,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -3176,7 +3176,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1576,
+				"count": 1577,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -3260,7 +3260,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 144407,
+				"count": 144526,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -3611,7 +3611,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 53381,
+				"count": 53392,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -3663,7 +3663,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/2297697.jpg",
-			"min_sale_price": "¥9.6",
+			"min_sale_price": null,
 			"press": [
 				"当代世界出版社"
 			],
@@ -3676,7 +3676,7 @@
 			"uri": "douban://douban.com/book/2297697",
 			"subtype": "book",
 			"intro": "每天早上都有一张我女朋友尸体的照片放到我的收件箱里，照片显示着女朋友的尸体正在一天天地生蛆、腐化。她是在我们去过动物园之后失踪的。所有人都认为她只是失踪了，只有我知道她被杀了。我辞了职，拿着她生前的照片四处寻找凶手的线索，一副心力憔悴的模样。然而苦心寻找的背后隐藏的却是我不愿面对的真相，是我亲手杀了她……",
-			"buy_more_uri": "douban://douban.com/book/2297697/vendors_douban",
+			"buy_more_uri": "",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -3704,7 +3704,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3942,
+				"count": 3953,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -3791,7 +3791,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 822745,
+				"count": 822860,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -3885,7 +3885,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 223147,
+				"count": 223204,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -3978,7 +3978,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 213242,
+				"count": 213281,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -4072,7 +4072,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 128467,
+				"count": 128533,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -4165,7 +4165,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 178548,
+				"count": 178622,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -4258,7 +4258,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 128467,
+				"count": 128533,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -4351,7 +4351,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 178548,
+				"count": 178622,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -4444,7 +4444,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 212834,
+				"count": 212925,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -4537,7 +4537,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 308530,
+				"count": 308613,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -4630,7 +4630,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 221003,
+				"count": 221101,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -4723,7 +4723,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3553,
+				"count": 3559,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -4768,7 +4768,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/36289703.jpg",
-			"min_sale_price": "¥29.1",
+			"min_sale_price": "¥31.8",
 			"press": [
 				"中信出版社"
 			],
@@ -4809,10 +4809,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3282,
+				"count": 3285,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 8.7
+				"value": 8.8
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -4990,7 +4990,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 34062,
+				"count": 34084,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -5084,7 +5084,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4891,
+				"count": 4895,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -5344,7 +5344,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 13315,
+				"count": 13320,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -5524,7 +5524,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 15208,
+				"count": 15213,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
