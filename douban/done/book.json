@@ -20,7 +20,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 30814,
+				"count": 30880,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -104,7 +104,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3881,
+				"count": 3904,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -363,7 +363,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 44230,
+				"count": 44249,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -540,7 +540,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3505,
+				"count": 3527,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -714,7 +714,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3448,
+				"count": 3450,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -880,7 +880,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 9411,
+				"count": 9414,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -964,7 +964,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 172866,
+				"count": 172998,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -1058,7 +1058,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1224,
+				"count": 1226,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -1142,7 +1142,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 32662,
+				"count": 32678,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -1233,7 +1233,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3515,
+				"count": 3517,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -1328,7 +1328,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 26390,
+				"count": 26402,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -1412,7 +1412,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 95801,
+				"count": 95817,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -1464,7 +1464,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/1192090.jpg",
-			"min_sale_price": "¥15.1",
+			"min_sale_price": "",
 			"press": [
 				"四川科学技术出版社"
 			],
@@ -1477,7 +1477,7 @@
 			"uri": "douban://douban.com/book/1192090",
 			"subtype": "book",
 			"intro": "在某个离奇的雨夜，一颗球状闪电闯进了少年的视野。它的啸叫低沉中透着尖利，像是一个鬼魂在太古的荒原上吹着埙。当鬼魂奏完乐曲，球状闪电在一瞬间将少年的父母化为灰烬，而他们身下板凳却是奇迹般的冰凉。\n这一夜，少年的命运被彻底改变了，他将毕其一生去解开那个将他变成孤儿的自然之谜。但是他未曾想到，多年以后，单纯的自然科学研究被纳入进“新概念武器”开发计划，他所追寻的球状闪电变成了下一场战争中决定祖国生存或是灭亡的终极武器！\n当被禁锢在终极武器中的大自然的伟力被释放时，一轮冰冷的“蓝太阳”升起在大西部的戈壁滩上，整个戈壁淹没在它的蓝光中，这个世界变得陌生而怪异。一个从未有人想像过的未来，在宇宙观测者的注视下，降临在人类面前……",
-			"buy_more_uri": "douban://douban.com/book/1192090/vendors_douban",
+			"buy_more_uri": "",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -1505,7 +1505,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 64732,
+				"count": 64734,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -1521,9 +1521,7 @@
 			"honor_infos": [],
 			"other_versions_count": 19,
 			"is_show": false,
-			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
-			],
+			"vendor_icons": [],
 			"card_subtitle": "刘慈欣 / 2008 / 长江文艺出版社",
 			"book_subtitle": "刘慈欣获奖作品",
 			"id": "3266609",
@@ -1567,7 +1565,7 @@
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
-			"has_ebook": true
+			"has_ebook": false
 		}
 	},
 	{
@@ -1760,7 +1758,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 549959,
+				"count": 550034,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -1851,7 +1849,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6079,
+				"count": 6081,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -2033,7 +2031,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 15019,
+				"count": 15026,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -2126,7 +2124,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 12712,
+				"count": 12713,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -2212,7 +2210,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 20970,
+				"count": 20971,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -2293,7 +2291,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 525689,
+				"count": 525845,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -2384,7 +2382,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 59674,
+				"count": 59691,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -2642,7 +2640,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 11011,
+				"count": 11034,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2695,7 +2693,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/36672955.jpg",
-			"min_sale_price": "¥50.9",
+			"min_sale_price": "¥51.0",
 			"press": [
 				"中信出版集团"
 			],
@@ -2736,7 +2734,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4338,
+				"count": 4350,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -3003,7 +3001,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1807,
+				"count": 1808,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -3261,7 +3259,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 145418,
+				"count": 145554,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -3612,7 +3610,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 53456,
+				"count": 53463,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -3705,7 +3703,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3991,
+				"count": 3997,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -3792,7 +3790,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 823425,
+				"count": 823510,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -3886,7 +3884,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 223485,
+				"count": 223517,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -3979,7 +3977,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 213530,
+				"count": 213562,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -4073,7 +4071,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 128954,
+				"count": 129008,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -4166,7 +4164,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 179021,
+				"count": 179070,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -4259,7 +4257,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 128954,
+				"count": 129008,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -4352,7 +4350,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 179021,
+				"count": 179070,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -4445,7 +4443,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 213440,
+				"count": 213513,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -4538,7 +4536,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 309120,
+				"count": 309196,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -4631,7 +4629,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 221710,
+				"count": 221802,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -4724,7 +4722,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3585,
+				"count": 3586,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -4810,7 +4808,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3301,
+				"count": 3302,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -4903,7 +4901,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2192,
+				"count": 2193,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -4991,7 +4989,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 34179,
+				"count": 34197,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -5085,7 +5083,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4899,
+				"count": 4902,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -5259,7 +5257,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 9105,
+				"count": 9106,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -5304,7 +5302,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/20473505.jpg",
-			"min_sale_price": "¥21.8",
+			"min_sale_price": "",
 			"press": [
 				"中华书局"
 			],
@@ -5317,7 +5315,7 @@
 			"uri": "douban://douban.com/book/20473505",
 			"subtype": "book",
 			"intro": "这是日本天才作家中岛敦的第一本中文简体版精选集，收录中岛敦《山月记》《弟子》《李陵》《光•风•梦》等九篇代表作。中岛敦的小说多取材于中国古典故事，独出心裁，文字优美，探究人性的幽暗与自我的存在，充满现代特质，深获读者喜爱。\n【本书特色】\n1，日本天才作家中岛敦作品中文简体版首次面世，重塑中国古典，让你认识自我，读懂人性的挣扎！\n2，《山月记》是日本高中语文教材常选篇目，日文版《李陵•山月记》高踞日本“五大杰出小说”榜首，排名超越芥川龙之介《罗生门》和夏目漱石《哥儿》！\n\n【评论推荐】\n中岛敦作为对人性的知性的理解者，在他的身上有一种穿越性，这种穿越性可以和夏目漱石以及晚年的幸田露伴媲美。\n——日本作家 伊藤整\n中岛敦的中国题材历史小说显示了一种成熟和练达，表现了纯文学所具有的高雅与纯正的艺术品位。\n——北京师范大学文学院教授 王向远\n中岛敦学贯中西，不仅深谙中国古典，还精通西方文学和哲学。他的作品不仅有简洁、高迈的汉文格调，还充满了深刻的哲理，蕴含着他对人的存在及命运的深刻洞见。\n——宁波大学外语学院副教授 郭勇",
-			"buy_more_uri": "douban://douban.com/book/20473505/vendors_douban",
+			"buy_more_uri": "",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -5345,7 +5343,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 13345,
+				"count": 13348,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -5439,10 +5437,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4186,
+				"count": 4188,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 9.1
+				"value": 9.2
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -5525,7 +5523,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 15245,
+				"count": 15252,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
