@@ -20,7 +20,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 30880,
+				"count": 30937,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -104,7 +104,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3904,
+				"count": 3913,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -363,7 +363,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 44249,
+				"count": 44262,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -380,7 +380,7 @@
 				{
 					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
-					"rank": 118,
+					"rank": 120,
 					"title": "豆瓣图书Top250"
 				}
 			],
@@ -540,7 +540,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3527,
+				"count": 3544,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -714,7 +714,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3450,
+				"count": 3452,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -798,7 +798,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 734,
+				"count": 735,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -880,7 +880,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 9414,
+				"count": 9418,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -923,7 +923,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/27191786.jpg",
-			"min_sale_price": "¥11.9",
+			"min_sale_price": "¥20.5",
 			"press": [
 				"江苏凤凰文艺出版社"
 			],
@@ -964,7 +964,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 172998,
+				"count": 173170,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -1058,7 +1058,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1226,
+				"count": 1231,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -1142,7 +1142,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 32678,
+				"count": 32689,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -1233,7 +1233,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3517,
+				"count": 3518,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -1328,7 +1328,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 26402,
+				"count": 26407,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -1412,7 +1412,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 95817,
+				"count": 95832,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -1429,7 +1429,7 @@
 				{
 					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
-					"rank": 181,
+					"rank": 178,
 					"title": "豆瓣图书Top250"
 				}
 			],
@@ -1464,7 +1464,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/1192090.jpg",
-			"min_sale_price": "",
+			"min_sale_price": "¥15.1",
 			"press": [
 				"四川科学技术出版社"
 			],
@@ -1477,7 +1477,7 @@
 			"uri": "douban://douban.com/book/1192090",
 			"subtype": "book",
 			"intro": "在某个离奇的雨夜，一颗球状闪电闯进了少年的视野。它的啸叫低沉中透着尖利，像是一个鬼魂在太古的荒原上吹着埙。当鬼魂奏完乐曲，球状闪电在一瞬间将少年的父母化为灰烬，而他们身下板凳却是奇迹般的冰凉。\n这一夜，少年的命运被彻底改变了，他将毕其一生去解开那个将他变成孤儿的自然之谜。但是他未曾想到，多年以后，单纯的自然科学研究被纳入进“新概念武器”开发计划，他所追寻的球状闪电变成了下一场战争中决定祖国生存或是灭亡的终极武器！\n当被禁锢在终极武器中的大自然的伟力被释放时，一轮冰冷的“蓝太阳”升起在大西部的戈壁滩上，整个戈壁淹没在它的蓝光中，这个世界变得陌生而怪异。一个从未有人想像过的未来，在宇宙观测者的注视下，降临在人类面前……",
-			"buy_more_uri": "",
+			"buy_more_uri": "douban://douban.com/book/1192090/vendors_douban",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -1505,7 +1505,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 64734,
+				"count": 64736,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -1672,7 +1672,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 8927,
+				"count": 8928,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.6
@@ -1758,7 +1758,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 550034,
+				"count": 550097,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -1849,7 +1849,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6081,
+				"count": 6082,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -2031,7 +2031,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 15026,
+				"count": 15028,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -2124,7 +2124,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 12713,
+				"count": 12715,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -2210,7 +2210,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 20971,
+				"count": 20973,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -2291,7 +2291,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 525845,
+				"count": 526008,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -2382,7 +2382,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 59691,
+				"count": 59705,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -2640,7 +2640,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 11034,
+				"count": 11064,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2734,7 +2734,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4350,
+				"count": 4364,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -3047,7 +3047,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/35590973.jpg",
-			"min_sale_price": "¥68.1",
+			"min_sale_price": "",
 			"press": [
 				"北京联合出版公司"
 			],
@@ -3060,7 +3060,7 @@
 			"uri": "douban://douban.com/book/35590973",
 			"subtype": "book",
 			"intro": "如果你现在还在寻找有什么方法能帮你走这段路，泰勒想告诉你：“这本书是为了我、你和过世的人写的。”\n这本书是插画家泰勒?费德尔写给母亲的回忆录。泰勒刚上大学时，她深爱的母亲便被诊断出癌症未期。一年后，母亲去世了。母亲走后，泰勒一直与悲伤共处，在人前强颜欢笑。直到了十年后，泰勒才决定敞开心房，用文字和画笔描绘出失去挚爱亲人、却难以向他人倾诉的感受。书中有着泰勒从小到大与母亲相处的温暖回忆、母亲从患癌到去世过程中令人心碎的琐碎小事，以及出失挚爱的母亲后却难以言喻的悲伤感受和对母亲浓浓的思念之情。这本回忆录情感真挚坦率，又有小小的幽默，任何失去过亲人的读者都会感受到治愈。",
-			"buy_more_uri": "douban://douban.com/book/35590973/vendors_douban",
+			"buy_more_uri": "",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -3175,7 +3175,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1591,
+				"count": 1597,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -3259,7 +3259,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 145554,
+				"count": 145687,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -3519,7 +3519,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3741,
+				"count": 3742,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -3610,7 +3610,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 53463,
+				"count": 53469,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -3703,7 +3703,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3997,
+				"count": 4008,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -3790,7 +3790,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 823510,
+				"count": 823615,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -3807,7 +3807,7 @@
 				{
 					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
-					"rank": 57,
+					"rank": 56,
 					"title": "豆瓣图书Top250"
 				}
 			],
@@ -3884,7 +3884,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 223517,
+				"count": 223557,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -3901,7 +3901,7 @@
 				{
 					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
-					"rank": 53,
+					"rank": 52,
 					"title": "豆瓣图书Top250"
 				}
 			],
@@ -3977,7 +3977,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 213562,
+				"count": 213600,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -3994,7 +3994,7 @@
 				{
 					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
-					"rank": 36,
+					"rank": 35,
 					"title": "豆瓣图书Top250"
 				}
 			],
@@ -4071,7 +4071,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 129008,
+				"count": 129073,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -4164,7 +4164,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 179070,
+				"count": 179127,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -4257,7 +4257,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 129008,
+				"count": 129073,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -4350,7 +4350,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 179070,
+				"count": 179127,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -4443,7 +4443,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 213513,
+				"count": 213611,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -4536,7 +4536,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 309196,
+				"count": 309279,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -4629,7 +4629,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 221802,
+				"count": 221897,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -4646,7 +4646,7 @@
 				{
 					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
-					"rank": 154,
+					"rank": 153,
 					"title": "豆瓣图书Top250"
 				}
 			],
@@ -4722,7 +4722,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3586,
+				"count": 3587,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -4767,7 +4767,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/36289703.jpg",
-			"min_sale_price": "¥27.8",
+			"min_sale_price": "¥31.8",
 			"press": [
 				"中信出版社"
 			],
@@ -4808,7 +4808,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3302,
+				"count": 3304,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -4901,7 +4901,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2193,
+				"count": 2194,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -4989,7 +4989,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 34197,
+				"count": 34217,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -5006,7 +5006,7 @@
 				{
 					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
-					"rank": 200,
+					"rank": 201,
 					"title": "豆瓣图书Top250"
 				}
 			],
@@ -5083,7 +5083,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4902,
+				"count": 4904,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -5216,7 +5216,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/26703731.jpg",
-			"min_sale_price": "¥13.75",
+			"min_sale_price": "¥13.8",
 			"press": [
 				"机械工业出版社"
 			],
@@ -5343,7 +5343,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 13348,
+				"count": 13353,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -5396,7 +5396,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/27114418.jpg",
-			"min_sale_price": "¥26.6",
+			"min_sale_price": "",
 			"press": [
 				"江西人民出版社"
 			],
@@ -5409,7 +5409,7 @@
 			"uri": "douban://douban.com/book/27114418",
 			"subtype": "book",
 			"intro": "新锐小说家马特·海格以文学手法剖白自身心理困境\n再现一段克服绝望、走出抑郁的生命之旅\n...................\n※编辑推荐※\n☆畅销全球33个国家，英国报业巨头《星期日泰晤士报》非虚构类畅销书排行榜No.1，连续46周稳居英国图书畅销榜前10名，英国最大连 锁书店水石书店年度选书，入选《娱乐周刊》2016年必读书目。\n☆ BBC、《纽约时报》《卫报》《星期日泰晤士报》《电讯报》《观察家报》《赫芬顿邮报》等五十余家知名媒体争相报道，珍妮特•温特森、尼尔•盖曼、S·J·沃森、乔安妮·哈里斯等知名作家击节赞赏。\n☆作者马特·海格曾站在悬崖边企图自杀，离死亡只有一步之遥。在这本书中，他以惊人的准确度再现了与抑郁相伴的种种亲身感受。但这本书非关死亡，而是关于如何在失去一切之后绝地逆转，度过人生的艰难时期；如何在走出困境之后成为更好的自己，更用力地去爱，去生活，去感知生命。\n...................\n※内容简介※\n24岁时，作者马特·海格不幸被命运选中，成为抑郁症患者。本书讲述了这个并不比任何人坚强的年轻人，一点一滴克服精神上的极度痛苦，从绝望中活下来的故事。\n在《活下去的理由》中，马特一面以文学手法精确再现那些不被理解、无法言说又撕心裂肺的精神痛苦，代抑郁症患者发出那些不曾被世界听到的呼喊；一面又用举重若轻的笔调，讲述他在爱的陪伴下一次次击退黑暗的经历，向读者分享了一场绝望与希望并存、黑暗和温暖交织的生命之旅。\n著名演员乔安娜·林莉称这本书“甚至能救活几条人命”，亚马逊读者称“想把这本书拿给所有人看，因为它说出了自己无法表达的心声”。\n...................\n※ 媒体推荐※\n《活下去的理由》不是那种普遍意义上的自助书，它反映了个体生命对危机的应对方式，具有强烈的个人色彩和创造性。这本书能够带给人们希望，帮助人们更好地认识自己。\n——《卫报》（The Guardian）\n看着这个年轻的生命被抑郁症消耗，本该是个令人心碎的故事，但这本书却带来了出人意料的温柔抚慰。\n——《星期日邮报》（Sunday Mail）\n一个关于作者是怎样从抑郁和自杀阴影中回归的温暖故事，在绝望的时候，它能给你带来安慰。\n——《新政治家周刊》（New Statesman）\n这本书不仅对抑郁者有用，还能帮助抑郁者的父母、伴侣、朋友了解所爱之人正在经历什么。它是希望的灯塔。\n——stylist杂志\n这里没有心理呓语，只有海格非常真实、接地气，充满智慧的叙述。书中很多句子都能引发联想，让你想把他们摘抄下来。\n——《女性健康》（Women’s Health）\n...................\n※ 名人推荐※\n这是一本绝妙的书，那些为抑郁症所苦的人，身边有人受抑郁症折磨的人（差不多每个人都有），都应该读一读。\n——S·J·沃森（S·J·Watson），畅销小说《别相信任何人》作者\n把难以启齿的敏感话题从黑暗中解放出来，并照以光亮。\n——麦克·帕林（Michael Palin），英国喜剧演员\n我无法用言语表达这本书中蕴藏着多么大的救赎力量。阅读这本书的感觉，就像作者给了我一个温暖的拥抱，他仿佛在对我说：“我保证，一切都会好起来的。”\n——亚马逊读者\n终于有一本关于抑郁症的书真的有用了！有过类似经历的读者一定会不停地点头，同意作者所说的一切。这里没有心理学家们隔岸观火般的治疗方案，只是在讲述马特·海格与恐怖的黑狗相伴同行的真实经历。它让我流泪，也让我欢笑，我为马特走出抑郁的那些瞬间而欢欣雀跃。\n——goodreads读者",
-			"buy_more_uri": "douban://douban.com/book/27114418/vendors_douban",
+			"buy_more_uri": "",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -5437,10 +5437,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4188,
+				"count": 4190,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 9.2
+				"value": 9.1
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -5523,7 +5523,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 15252,
+				"count": 15257,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
