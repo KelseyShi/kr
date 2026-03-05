@@ -15,7 +15,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1847,
+				"count": 1848,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -177,7 +177,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1999,
+				"count": 2004,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -224,7 +224,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/37021120.jpg",
-			"min_sale_price": "¥44.7",
+			"min_sale_price": "¥29.5",
 			"press": [
 				"北京科学技术出版社"
 			],
@@ -260,10 +260,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 323,
+				"count": 330,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.1
+				"value": 8.2
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -423,7 +423,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2469,
+				"count": 2472,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -504,7 +504,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1418,
+				"count": 1419,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -547,7 +547,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/30408662.jpg",
-			"min_sale_price": "¥43.2",
+			"min_sale_price": "¥34.3",
 			"press": [
 				"民主与建设出版社"
 			],
@@ -583,7 +583,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6829,
+				"count": 6831,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -669,7 +669,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 14893,
+				"count": 14930,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -758,10 +758,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2611,
+				"count": 2619,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.2
+				"value": 8.3
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -808,7 +808,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/37154938.jpg",
-			"min_sale_price": "¥29.1",
+			"min_sale_price": "¥27.1",
 			"press": [
 				"人民文学出版社"
 			],
@@ -889,7 +889,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/6743298.jpg",
-			"min_sale_price": "",
+			"min_sale_price": "¥30.4",
 			"press": [
 				"中信出版社"
 			],
@@ -902,7 +902,7 @@
 			"uri": "douban://douban.com/book/6743298",
 			"subtype": "book",
 			"intro": "如果你只有十几岁，阅读这本书会让你从童话般的寓言故事中获得经济学的启蒙教育！\n如果你是二十几岁，阅读这本书可以让你再度温习一遍你在大学经济学课堂里让你迷糊的经济学天书，不过，这一次保证你再也不会迷糊了！\n如果你是三十几岁到五十几岁，这本书可以纠正你思维中所滞留的的所有有偏差的经济学常识，经济学家已经把你的大脑固化了，现在该是你清醒的时候了！\n如果你已经退休了，没关系，这本书既可以让你衡量你以前的经济学人生是否完美，也可以让你在孙辈面前有了培养他们智慧人生的最佳读物。\n不信，你就试试看……\n如何对经济领域的各种细节和现象进行整体性分析，这是一项艰巨的任务——特别是在很多专家似乎不可能承担这项任务时，它便显得尤为艰巨。但是，当你开始切实接触到经济学的基本要素时，就会发现这项任务比你想象的容易得多。《经济为什么会崩溃》一书运用插图、幽默口吻以及讲故事的平实手法，将经济学从高不可攀的架子上取下来，放回到厨房的餐桌上，它本就该属于那个地方。\n这个关于鱼、渔网、存钱、借钱的故事揭露了全球经济对话中暗藏的众多漏洞。希夫兄弟以机智幽默的手法阐释了经济增长的根源、贸易、储蓄及风险三者的重要性，滞涨的根源、利率的影响及政府的刺激机制、消费信贷的破坏性本质等问题。两位作者还谈及其他许多经济原则问题，这些问题经常被讨论，却常常被误解。\n这究竟是一本什么样的书？竟然能激起这么多人的阅读狂潮？想弄明白，还是翻开读一读吧！",
-			"buy_more_uri": "",
+			"buy_more_uri": "douban://douban.com/book/6743298/vendors_douban",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -925,7 +925,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 25059,
+				"count": 25068,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -1057,7 +1057,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/36227281.jpg",
-			"min_sale_price": "¥45.0",
+			"min_sale_price": "¥34.9",
 			"press": [
 				"人民邮电出版社"
 			],
@@ -1093,7 +1093,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 27894,
+				"count": 27901,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -1146,7 +1146,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/35875393.jpg",
-			"min_sale_price": "¥41.6",
+			"min_sale_price": "¥39.9",
 			"press": [
 				"人民文学出版社"
 			],
@@ -1261,7 +1261,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2734,
+				"count": 2736,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -1308,7 +1308,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/35706967.jpg",
-			"min_sale_price": "¥52.0",
+			"min_sale_price": "¥44.8",
 			"press": [
 				"中信出版社"
 			],
@@ -1584,7 +1584,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1388,
+				"count": 1389,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.7
@@ -1663,7 +1663,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1500,
+				"count": 1503,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -1905,7 +1905,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4144,
+				"count": 4152,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -1958,7 +1958,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/37481942.jpg",
-			"min_sale_price": "¥41.2",
+			"min_sale_price": "¥39.9",
 			"press": [
 				"江苏凤凰文艺出版社"
 			],
@@ -1994,10 +1994,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 939,
+				"count": 940,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.7
+				"value": 7.8
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -2073,7 +2073,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 387,
+				"count": 388,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -2155,7 +2155,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3615,
+				"count": 3618,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -2243,7 +2243,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2305,
+				"count": 2307,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -2325,7 +2325,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3392,
+				"count": 3395,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -2407,7 +2407,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 320,
+				"count": 322,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -2453,7 +2453,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/36858470.jpg",
-			"min_sale_price": "¥57.9",
+			"min_sale_price": "¥52.0",
 			"press": [
 				"上海三联书店"
 			],
@@ -2568,10 +2568,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 353,
+				"count": 354,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.8
+				"value": 7.7
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -2729,10 +2729,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 9692,
+				"count": 9752,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.4
+				"value": 8.3
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -2818,7 +2818,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 10041,
+				"count": 10043,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -2940,7 +2940,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/4766921.jpg",
-			"min_sale_price": "",
+			"min_sale_price": "¥159.0",
 			"press": [
 				"浙江大学出版社"
 			],
@@ -2953,7 +2953,7 @@
 			"uri": "douban://douban.com/book/4766921",
 			"subtype": "book",
 			"intro": "本书是萧沆的代表作，以片段写作的方式，呈现了真实的人生经验，它会破坏你我所有的信念，从心灵到肉体、从宗教到哲学、从出生到终结，任何既定想法，都会在这本书的阅读过程中，全面解体。本书是萧沆的第一部法文作品，被认为“足令法文增辉”，并获法国里瓦罗尔（RIVAROL）奖。",
-			"buy_more_uri": "",
+			"buy_more_uri": "douban://douban.com/book/4766921/vendors_douban",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -3058,7 +3058,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 486,
+				"count": 487,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.6
@@ -3137,7 +3137,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 651,
+				"count": 652,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -3216,7 +3216,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 40291,
+				"count": 40305,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -3304,7 +3304,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 25078,
+				"count": 25083,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -3354,7 +3354,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/26628811.jpg",
-			"min_sale_price": "",
+			"min_sale_price": "¥17.5",
 			"press": [
 				"南海出版公司"
 			],
@@ -3367,7 +3367,7 @@
 			"uri": "douban://douban.com/book/26628811",
 			"subtype": "book",
 			"intro": "那个尴尬的傻子死了，人们这才发现他美得动人心魄。\n马尔克斯短篇小说集\n收录《巨翅老人》《世上最美的溺水者》《令人难以置信的悲惨故事》等名篇，入选高中语文教材\n欢迎来到马尔克斯的暗黑童话世界！在这里：\n死去的人会变回年轻时的模样，乘着洋流漂过全世界，带着所有经过的地方的鲜花和水草。\n大雨下得太久，你一觉醒来可能会看见天使掉在你家院子的烂泥里。\n触礁沉没的巨轮会变成幽灵船，一遍遍重复不祥的命运。但若碰上执拗聪明的小男孩，也能从阴间驶进阳世。\n魔法师会为死去的仇人造一座最坚固雄伟的陵墓，然后让他在棺材里一次又一次复活。\n残忍的祖母会押着孙女当妓女，陷入爱情的男孩能听到千里之外情人绝望的呼唤，渴望自由的女孩什么都可以抛弃。",
-			"buy_more_uri": "",
+			"buy_more_uri": "douban://douban.com/book/26628811/vendors_douban",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -3469,7 +3469,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 5703,
+				"count": 5707,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -3551,7 +3551,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 37173,
+				"count": 37201,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -3640,7 +3640,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 22448,
+				"count": 22451,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -3720,7 +3720,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3106,
+				"count": 3105,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -3771,7 +3771,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/30198534.jpg",
-			"min_sale_price": "",
+			"min_sale_price": "¥108.9",
 			"press": [
 				"北京时代华文书局"
 			],
@@ -3784,7 +3784,7 @@
 			"uri": "douban://douban.com/book/30198534",
 			"subtype": "book",
 			"intro": "※ H.P.洛夫克拉夫特小说全集震撼来袭，国内仅此一版！\n※ 独家收录履获国际大奖的恐怖奇幻插画艺术大师赖斯•爱德华兹多达50幅的高清插画，中文世界独*家引进！最早发表洛夫克拉夫特小说的杂志《诡丽幻谭》（Wired Tales）和《惊骇科幻小说》（Astounding Stories）中的经典插画也尽在书中！另外，还特别收入美国布朗大学馆藏珍品：洛夫克拉夫特本人的40幅手稿，近距离领略大师创作真迹！总插图超过100幅！\n※ 超级强大的译者阵容！包括国内克苏鲁神话小说知名译者竹子，活跃在国内外各大洛夫克拉夫特论坛十余年的大神Setarium，以及原《科幻世界》编辑敬雁飞等，多位专业、权威的恐怖和科幻译者倾情贡献！\n—————————————————————————\n当你打开这本《死灵之书》的时候，一个异世界扑面而来，旧日支配者、邪神、自焚、活死人、复活者、杂交人鱼、外星生物、灵魂互换、食尸鬼……近80篇作品包含了洛夫克拉夫特所有的奇思妙想！其中最令人叹服的是洛夫克拉夫特开创的“克苏鲁神话”体系，几十篇小说一脉相承，营造出了一个宏大、神秘、诡谲的架空世界。\n在那个世界里，精神脆弱的人都在做怪梦，梦里高达数英里的巨物拖着沉重的步伐在四处游荡；美国考古学会议上出现的一尊奇怪雕像，引起了一位考古学家经历恶魔崇拜的恐怖回忆；勒格拉斯探长在沼泽森林中抓获了一群进行渎神祭祀的巫毒教教徒……这些毫无关联的事件，被一只巨兽般的手牵引着，难以言明的恐怖与怪异伸向黑夜的海边，海底那古老神秘的强大力量蠢蠢欲动，妄想再度觉醒，支配一切。“在拉莱耶的宅邸中，死去的克苏鲁等待入梦”，远古的旧日支配者克苏鲁发出沉睡的怒吼，那模糊不清的碎片进入了每个人的梦境，呼唤着它的追随者……",
-			"buy_more_uri": "",
+			"buy_more_uri": "douban://douban.com/book/30198534/vendors_douban",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -3807,7 +3807,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 155766,
+				"count": 155777,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -3896,7 +3896,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3833,
+				"count": 3837,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -3978,7 +3978,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4986,
+				"count": 4995,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -4305,7 +4305,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 11225,
+				"count": 11258,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -4387,7 +4387,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3761,
+				"count": 3762,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -4431,7 +4431,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/35596032.jpg",
-			"min_sale_price": "¥57.9",
+			"min_sale_price": "¥39.0",
 			"press": [
 				"中信出版集团"
 			],
@@ -4467,10 +4467,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 331,
+				"count": 332,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.8
+				"value": 7.7
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -4546,7 +4546,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6019,
+				"count": 6021,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -4670,7 +4670,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/36946905.jpg",
-			"min_sale_price": "¥55.9",
+			"min_sale_price": "¥48.4",
 			"press": [
 				"中国轻工业出版社"
 			],
@@ -4783,7 +4783,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 19721,
+				"count": 19733,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -4864,7 +4864,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 18962,
+				"count": 18979,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -4910,7 +4910,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/35512887.jpg",
-			"min_sale_price": "¥29.1",
+			"min_sale_price": "¥32.48",
 			"press": [
 				"北京日报出版社"
 			],
@@ -4946,7 +4946,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4796,
+				"count": 4799,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -5108,7 +5108,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2712,
+				"count": 2713,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -5153,7 +5153,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/27043711.jpg",
-			"min_sale_price": "¥23.8",
+			"min_sale_price": "¥20.9",
 			"press": [
 				"湖南文艺出版社"
 			],
@@ -5470,7 +5470,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/35492898.jpg",
-			"min_sale_price": "¥72.3",
+			"min_sale_price": "¥58.4",
 			"press": [
 				"机械工业出版社"
 			],
@@ -5749,7 +5749,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 291,
+				"count": 292,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -5910,7 +5910,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4578,
+				"count": 4580,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -5992,7 +5992,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2825,
+				"count": 2863,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -6232,7 +6232,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3272,
+				"count": 3282,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -6278,7 +6278,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/36547277.jpg",
-			"min_sale_price": "¥60.8",
+			"min_sale_price": "¥59.8",
 			"press": [
 				"花城出版社"
 			],
@@ -6314,7 +6314,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2324,
+				"count": 2334,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -6367,7 +6367,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/37241704.jpg",
-			"min_sale_price": "¥50.9",
+			"min_sale_price": "¥37.2",
 			"press": [
 				"花城出版社"
 			],
@@ -6644,7 +6644,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2751,
+				"count": 2753,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -6726,7 +6726,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 839,
+				"count": 843,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -6805,7 +6805,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 13615,
+				"count": 13618,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -6884,7 +6884,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2674,
+				"count": 2676,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.2
@@ -6963,7 +6963,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2977,
+				"count": 2980,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -7045,7 +7045,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 5762,
+				"count": 5772,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -7126,7 +7126,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 344,
+				"count": 345,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -7292,7 +7292,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1323,
+				"count": 1324,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -7374,7 +7374,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3548,
+				"count": 3552,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -7456,7 +7456,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 240,
+				"count": 239,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -7546,7 +7546,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 19870,
+				"count": 19892,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -7592,7 +7592,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/30286914.jpg",
-			"min_sale_price": "¥49.0",
+			"min_sale_price": "¥58.0",
 			"press": [
 				"译林出版社"
 			],
@@ -7628,7 +7628,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 10124,
+				"count": 10132,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -7709,10 +7709,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2091,
+				"count": 2093,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 9.2
+				"value": 9.1
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -7757,7 +7757,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/35897952.jpg",
-			"min_sale_price": "¥112.9",
+			"min_sale_price": "¥99.0",
 			"press": [
 				"人民邮电出版社"
 			],
@@ -7793,7 +7793,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 21604,
+				"count": 21610,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -7999,7 +7999,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/10486418.jpg",
-			"min_sale_price": "¥28.0",
+			"min_sale_price": "¥20.79",
 			"press": [
 				"上海译文出版社"
 			],
@@ -8035,7 +8035,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 7263,
+				"count": 7269,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -8203,7 +8203,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6011,
+				"count": 6012,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -8282,7 +8282,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3709,
+				"count": 3721,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -8328,7 +8328,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/36897062.jpg",
-			"min_sale_price": "¥46.2",
+			"min_sale_price": "¥39.44",
 			"press": [
 				"云南人民出版社"
 			],
@@ -8364,10 +8364,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3398,
+				"count": 3412,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.9
+				"value": 8
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -8443,7 +8443,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 10189,
+				"count": 10193,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -8495,7 +8495,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/27140882.jpg",
-			"min_sale_price": "",
+			"min_sale_price": "¥35.8",
 			"press": [
 				"东方出版社"
 			],
@@ -8508,7 +8508,7 @@
 			"uri": "douban://douban.com/book/27140882",
 			"subtype": "book",
 			"intro": "本书是列夫·托尔斯泰的中短篇小说选，包括两个短篇《克罗采奏鸣曲》、《魔鬼》和一个中篇《伊凡·伊里奇之死》。这三个中短篇分别是关于婚姻、爱欲与死亡的主题，围绕着婚姻、家庭、伦理、情欲与死亡，具有有非凡的震慑人心的魅力。\n◐《伊凡·伊里奇之死》被认为是人类文学上描写死亡的巅峰的神作，是托尔斯泰晚年一部重要的代表作。作品一经发表就引起强烈反响，法国作家莫泊桑深深为之折服，曾经感叹说：“我看到，我的全部创作活动都算不上什么，我的整整十卷作品分文不值。”\n◐《克鲁采奏鸣曲》上流贵族情感忏悔录，托翁（据说是本人写照）扮演奥古斯都、卢梭，讲述了一个在漫长的婚姻生活互相怨恨的贵族夫妇，因丈夫认为自己对妻子拥有类似物主的所有权，因此并不尊重妻子，而频频与妻子发生争吵，后来在丈夫对妻子狂烈的性嫉妒中杀死妻子而后反省、忏悔这种肉欲结合的婚姻关系的故事。是托尔斯泰最奇特的作品，当年发表后，俄国审查官只允许发行普通人难以承受的高价版本，美国邮政禁止邮寄刊有《克莱采奏鸣曲》连载的报纸。\n◐《魔鬼》则探寻了人性中的情欲。它认为人是无法控制这种欲望的，无法摆脱，直到欲望对象的毁灭或自己的毁灭。小说对情欲的巨大力量以及其与理性道德的激烈冲突的描写是摄人心魄、无与伦比的。",
-			"buy_more_uri": "",
+			"buy_more_uri": "douban://douban.com/book/27140882/vendors_douban",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -8531,7 +8531,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 39644,
+				"count": 39653,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -8583,7 +8583,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/5350303.jpg",
-			"min_sale_price": "",
+			"min_sale_price": "¥16.86",
 			"press": [
 				"作家出版社"
 			],
@@ -8596,7 +8596,7 @@
 			"uri": "douban://douban.com/book/5350303",
 			"subtype": "book",
 			"intro": "《活着》简介：地主少爷福贵嗜赌成性，终于赌光了家业，一贫如洗。穷困之中的福贵因为母亲生病前去求医，没想到半路上被国民党部队抓了壮丁，后被解放军所俘虏，回到家乡他才知道母亲已经去世，妻子家珍含辛茹苦带大了一双儿女，但女儿不幸变成了聋哑人，儿子机灵活泼……然而，真正的悲剧从此才开始渐次上演。生命里难得的温情将被一次次死亡撕扯得粉碎，只剩得老了的福贵伴随着一头老牛在阳光下回忆。本书讲述了人如何去承受巨大的苦难，讲述了绝望的不存在，讲述了人是为了活着本身而活着，而不是为了活着之外的任何事物而活着。",
-			"buy_more_uri": "",
+			"buy_more_uri": "douban://douban.com/book/5350303/vendors_douban",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -8619,7 +8619,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 129508,
+				"count": 129535,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -8705,7 +8705,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 25973,
+				"count": 25979,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -8794,7 +8794,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 50613,
+				"count": 50662,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.6
@@ -8846,7 +8846,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/25887924.jpg",
-			"min_sale_price": "¥53.9",
+			"min_sale_price": "¥49.58",
 			"press": [
 				"上海译文出版社"
 			],
@@ -8963,7 +8963,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 26465,
+				"count": 26471,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -9052,7 +9052,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3129,
+				"count": 3132,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.1
@@ -9214,7 +9214,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 21486,
+				"count": 21500,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -9302,7 +9302,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 40384,
+				"count": 40401,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -9352,7 +9352,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/25912076.jpg",
-			"min_sale_price": "¥23.46",
+			"min_sale_price": "¥22.9",
 			"press": [
 				"生活·读书·新知三联书店 上海三联书店"
 			],
@@ -9388,7 +9388,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 80305,
+				"count": 80327,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -9476,7 +9476,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 103005,
+				"count": 103067,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -9529,7 +9529,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/35546622.jpg",
-			"min_sale_price": "¥28.9",
+			"min_sale_price": "¥32.5",
 			"press": [
 				"上海人民出版社"
 			],
@@ -9565,7 +9565,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 152363,
+				"count": 152401,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -9653,7 +9653,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 268967,
+				"count": 269050,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -9742,7 +9742,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 161420,
+				"count": 161468,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -9830,7 +9830,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 110461,
+				"count": 110498,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -9883,7 +9883,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/26986954.jpg",
-			"min_sale_price": "¥23.1",
+			"min_sale_price": "¥29.5",
 			"press": [
 				"人民文学出版社"
 			],
@@ -9919,7 +9919,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 99162,
+				"count": 99207,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -10008,7 +10008,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 419125,
+				"count": 419209,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -10097,7 +10097,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 17390,
+				"count": 17397,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -10185,7 +10185,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2669,
+				"count": 2680,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -10274,7 +10274,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3172,
+				"count": 3178,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -10321,7 +10321,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/26907984.jpg",
-			"min_sale_price": "¥78.6",
+			"min_sale_price": "¥90.99",
 			"press": [
 				"机械工业出版社"
 			],
@@ -10357,7 +10357,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 9830,
+				"count": 9838,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -10446,7 +10446,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 7105,
+				"count": 7112,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -10607,10 +10607,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 5488,
+				"count": 5489,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.3
+				"value": 8.2
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -10775,10 +10775,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 349,
+				"count": 351,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.7
+				"value": 7.8
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -11095,7 +11095,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1527,
+				"count": 1528,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -11177,10 +11177,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 624,
+				"count": 625,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.9
+				"value": 8
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -11341,7 +11341,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3578,
+				"count": 3579,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -11466,7 +11466,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/24846050.jpg",
-			"min_sale_price": "",
+			"min_sale_price": "¥32.21",
 			"press": [
 				"贵州人民出版社"
 			],
@@ -11479,7 +11479,7 @@
 			"uri": "douban://douban.com/book/24846050",
 			"subtype": "book",
 			"intro": "在风光旖旎的泰晤士河畔，住着四个要好的朋友——憨厚的鼹鼠、机灵的河鼠、狂妄自大的蟾蜍、老成持重的獾。他们游山逛水，尽享大自然的慷慨恩赐。财大气粗而不知天高地厚的蟾蜍，迷上了开汽车，车祸不断，受到朋友们的责难和管束。一次，他偷了一辆汽车，被捕入狱，在狱卒女儿的帮助下，化装成洗衣妇逃出监狱，历经险情和磨难，在三位朋友的帮助下，夺回了被野林动物侵占的庄园，并从此改邪归正。",
-			"buy_more_uri": "",
+			"buy_more_uri": "douban://douban.com/book/24846050/vendors_douban",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -11746,7 +11746,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 27681,
+				"count": 27686,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -11834,7 +11834,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 26117,
+				"count": 26142,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -11916,7 +11916,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 137282,
+				"count": 137335,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -12005,7 +12005,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 42685,
+				"count": 42720,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -12093,7 +12093,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 10038,
+				"count": 10044,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -12172,7 +12172,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1508,
+				"count": 1509,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -12333,10 +12333,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 10910,
+				"count": 10916,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 9.3
+				"value": 9.2
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -12379,7 +12379,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/25887930.jpg",
-			"min_sale_price": "¥40.7",
+			"min_sale_price": "¥35.75",
 			"press": [
 				"上海译文出版社"
 			],
@@ -12415,7 +12415,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 23975,
+				"count": 23982,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -12461,7 +12461,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/34813209.jpg",
-			"min_sale_price": "",
+			"min_sale_price": "¥35.75",
 			"press": [
 				"湖南文艺出版社"
 			],
@@ -12474,7 +12474,7 @@
 			"uri": "douban://douban.com/book/34813209",
 			"subtype": "book",
 			"intro": "◆2019全美现象级畅销小说。登上《纽约时报》《今日美国》、美国亚马逊、北美独立书店四大重量级畅销榜榜首；连续上榜超过57周。\n◆美国国内总销量已逾400万册。\n◆Goodreads上超过40万读者评论，仍保持4.51的超高分。\n◆20世纪福克斯购买影视版权；奥斯卡影后瑞茜•威瑟斯彭动用自家图书俱乐部落力推荐，还将亲自担纲制片。\n◆图书版权售出德、法、俄、中、意、韩等38种语言，引发社交网络晒书热潮\n------\n故事梗概：\n家人一个接一个离开。从十岁起，她就独自生活在北卡罗来纳州海滨荒凉的湿地中，驾着小船，靠猎捕和收集野物卖给码头的人维生。她只上过一天学，是小镇居民口中的“湿地女孩”，文明社会之外的野姑娘。当镇上最受欢迎的花花公子被发现死在湿地中时，人们立刻将怀疑的目光投向她。\n作为天生的 湿地生物学家，她从土地中汲取生活的教训，从萤火虫不诚实的信号中学习世界真正的运行方式。到了渴望触摸和爱的年纪，受到两个来自小镇的年轻人的吸引，她向一种全新的生活开启了心扉……\n若干年后，她成了当地的传奇，小镇旅游业的名片。但这本书要讲的并不是一个女孩冲破重重阻碍走向光明的励志故事。荒凉的湿地养育了女孩，也塑造了她。她关于爱情和生活的选择听从的是荒野的召唤，而非文明社会的教导……\n------\n编辑推荐：\n这本书讲述了一个终生栖息于一片海滨湿地的野女孩的成长故事，诗意而野性。\n被家人和社会彻底抛弃是烙在她生命中的不幸，但在另一种意义上也是她独有的幸运。这意味着她也彻底躲开了文明社会对女性的种种规训。她就像湿地中的一只小兽，有美丽的皮毛，也有凌厉的爪牙。湿地养育了她，也塑造了她。她的初恋始于一根大蓝鹭的“眉毛”，她最忠诚的朋友是银鸥和库珀鹰，她关于爱情、婚姻、性和背叛的看法源自对萤火虫、螳螂、火鸡和蛙的观察。她的生活和生长在世俗文明中的我们的生活迥然不同。这种不同为我们提供了一面镜子。\n------\n媒体评论：\n一部美得令人心痛的小说处女作，同时也是一桩未破解的谋杀案，一个成长故事，一场大自然的庆典……在与世隔绝的生活中，这个孩子让我们窥见了她私人世界中隐藏的奇迹和危险。——《纽约时报书评》\n这本凶猛的、美得令人难忘的小说，讲述了女主角基娅学会信任人与人之间联系的令人心碎的故事，交织着一个扣人心弦的谋杀谜团，揭示了野蛮的真相。——《人物》杂志\n茂盛、神秘，喜欢芭芭拉•金索沃的读者一定也会喜欢这本书。—— Bustle\n从一个年轻女孩的视角讲述了一个成长故事和一桩神秘谋杀的调查过程……通过基娅的故事，欧文斯探索了离群索居如何影响人类行为，以及被抛弃留给我们生活的深刻印记。——《名利场》\n这个故事的魅力源自基娅同她视之为家的地方以及那里所有生物的深厚关联。——《书单》\n欧文斯的文字明亮如低地的月亮……这是一部读者会喜欢的兼具谋杀谜团、爱情故事和法庭戏码的小说，但它对我们的本质进行了深入肌骨的探究，不时提出一些难以回答的问题，就像沼泽本身一样古老而不易对付。—— 克里斯托弗•斯科顿，《地球的秘密智慧》作者\n我简直没法描述我有多喜欢这本书。真希望这故事不要结束。—— 瑞茜•威瑟斯彭\n当你感觉到你脚趾下的星球和树木在移动时，你必须全神贯注地倾听，我保证，你会听到蝲蛄在吟唱。—— 迪莉娅•欧文斯\n引人入胜的神秘故事，文字如此明亮，可以穿透最黑暗的泥泞。——《奥古斯塔编年史》\n带着古老民谣的节奏。欧文斯显然对这片土地了如指掌，从黏住脚底的黑泥到咸水的味道，再到海鸥的叫声。——戴维•乔伊，《捆住我们的线》作者",
-			"buy_more_uri": "",
+			"buy_more_uri": "douban://douban.com/book/34813209/vendors_douban",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -12577,7 +12577,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1394,
+				"count": 1395,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -12623,7 +12623,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/35069492.jpg",
-			"min_sale_price": "",
+			"min_sale_price": "¥35.77",
 			"press": [
 				"上海译文出版社"
 			],
@@ -12636,7 +12636,7 @@
 			"uri": "douban://douban.com/book/35069492",
 			"subtype": "book",
 			"intro": "★ “随你的心愿去做吧，但是不要让任何人当你的审判员。”\n★“美国戏剧的良心”阿瑟•米勒代表作，1953年托尼奖最佳剧本\n★著名翻译家、阿瑟·米勒译介第一人梅绍武先生译本\n★每一个时代都不陌生的道德拷问与人性深渊\n《萨勒姆的女巫》是被誉为“美国戏剧的良心”的著名戏剧家阿瑟•米勒代表作，1953年获得托尼奖最佳剧本奖。法国著名作家让•保罗•萨特1957年把它改编为电影。故事取材于1692年在北美马萨诸塞州萨勒姆镇发生的迫害案件。清教主义笼罩下的小镇出现了“女巫”，牧师巴里斯请来相邻教区的“驱魔高手”来协助调查。为了保护自己，人们开始相互怀疑、揭发甚至诬陷，随之引发蝴蝶效应，少女们的森林之舞最终将小镇变成了炼狱。男主人公普洛克托被人诬陷，却不愿以出卖朋友、出卖灵魂为代价换取屈辱的生存。米勒以史喻今，完美呈现了一则关于人性善恶、魔道冲突的寓言，揭示了强权势力的残酷无情，乌合之众的盲从之恶和道德信念的瓦解，大难临头时人们各自的选择，有人性中最深的深渊，却也有人性最耀眼的光辉。",
-			"buy_more_uri": "",
+			"buy_more_uri": "douban://douban.com/book/35069492/vendors_douban",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -12895,7 +12895,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6190,
+				"count": 6193,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -13098,7 +13098,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/1067830.jpg",
-			"min_sale_price": "",
+			"min_sale_price": "¥24.5",
 			"press": [
 				"贵州人民出版社"
 			],
@@ -13111,7 +13111,7 @@
 			"uri": "douban://douban.com/book/1067830",
 			"subtype": "book",
 			"intro": "卡尔・门林格尔（Carl Augustus Menninger）是美国著名的精神病医生、精神分析学家和心理学家，他对人深邃莫测的精神世界有渊博的知识，尤其对死亡本能、自杀冲动、犯罪心理和儿童心理作过深入透辟的研究。他在这方面的成果使他在精神分析心理学领域中斐然自成一家。\n在《人对抗自己》中，门林格尔对死亡本能和自我毁灭倾向作了全面的考察和分析。他认为：人性中固有破坏冲动总是要竭力寻求宣泄，如果这种破坏冲动不能施之于外界，其必然结果就是转而施之于自己。这就是各种形式的自杀的根源。门林格尔呼吁：不能回避对死亡本能和自我毁灭倾向的研究。在现实生活中，每个人都以他自己所选定的方式，或快或慢、或迟或早、或直接或间接地在杀死他自己。要想与这种自杀倾向相对抗，首要的一步乃是真正认识到：自我毁灭确定根植于我们的天性，我们必须熟悉它的各种表现形式，在此基础上才能作出相应的努力来与这种根深蒂固的死亡本能抗衡。",
-			"buy_more_uri": "",
+			"buy_more_uri": "douban://douban.com/book/1067830/vendors_douban",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -13134,7 +13134,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4206,
+				"count": 4215,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -13216,7 +13216,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6817,
+				"count": 6819,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -13262,7 +13262,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/6310320.jpg",
-			"min_sale_price": "",
+			"min_sale_price": "¥26.2",
 			"press": [
 				"上海译文出版社"
 			],
@@ -13275,7 +13275,7 @@
 			"uri": "douban://douban.com/book/6310320",
 			"subtype": "book",
 			"intro": "《人都是要死的》内容简介：中世纪时期，意大利亚平宁半岛上并存着一百来个各自为政的小城邦，频年相互攻战，企图争雄称霸。城邦权力的建立依靠暴力和阴谋。君主们的生活骄奢淫逸，党同伐异，政权的更迭异常迅速。 \n公元一二七九年，雷蒙·福斯卡出身于卡尔莫那的一个贵族家庭。后来当上了该邦的君主。他努力振兴城邦，欲与当时强盛的佛罗伦萨、热那亚等并驾齐驱。可是他感到人生须臾，无法在短短几十年的岁月中治理好一个国家。他盼望长生不老。在一次偶然的机会，他从一名老乞丐手里取得来自埃及的不死药，服下后以为从此可以轰轰烈烈地干一番事业。意大利各城邦争权夺利的结果，反而招致法国势力的入侵。 \n福斯卡看到国家与国家之间的命运是相通的，要励精图治真正有所作为，必须掌握一个统一的宇宙。他不惜把卡尔莫那献给疆域庞大的日耳曼神圣罗马帝国，自己充当皇帝的谋士。帝国皇帝查理五世在位四十年，不但没有如愿地建立依照基督教教义行事的世界帝国，反忙于镇压各地诸侯的兴起与叛乱。兵连祸结，帝国分崩离析，基督教也分裂成新旧两派。在新发现的美洲大陆上，欧洲殖民者推行种族灭绝政策，贪得无厌，强占尽可能多的土地，使原来庞大昌盛的印加帝国、玛雅城镇、阿兹特克民族的家园只剩下一堆废墟。福斯卡看到这种情景心灰意懒，认为统一的宇宙是不存在的，存在的只是分裂的人。一个人形成一个宇宙，他的内心是无法窥透的。一个人妄想为他人建立的幸福秩序，在他人眼里可能是一种灾难。在这些短暂、多若恒沙而又各不相干的心灵中，能不能找到可以共同依据作为真理的东西？他无法肯定。一个人唯一能做的好事，是按照自己的良心行动，其结果则难以预测。除此以外，人不能有其他奢望。 \n尔后，福斯卡与法国探险家卡利埃勘探加拿大大草原；在法国度过一七八九年革命爆发前的启蒙时期；参加一八三〇年推翻波旁王朝的群众起义；目睹一八四八年席卷欧洲、使工人阶级登上国际政治舞台的革命运动。在与普通人的接触中，福斯卡逐渐明白：人生虽然短促，谁都无法避免死亡，但是每个人的心中都潜伏着铄石流金的生命岩浆，在出生与死亡之间的生命过程中，一旦得到诱发和机遇，会做出惊天动地的大事，人还是可以有所作为的。从历史的角度看，一时的胜利会成为日后失败的伏笔，一时的失败也可能是日后胜利的种子。从有限的人生来看，一切成就还是具体而微的，胜利来临而失败未至的时刻人总是征服者，不管未来如何是奈何他不得的。福斯卡又看到，有了这样的信念，值得人去珍惜自己有限的生命；为了实现这样的信念，又值得人去献出自己宝贵的生命。生命一代代往下传，使人始终有爱，有恨，有微笑，有眼泪，充满了理想和希望。",
-			"buy_more_uri": "",
+			"buy_more_uri": "douban://douban.com/book/6310320/vendors_douban",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -13298,7 +13298,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 20534,
+				"count": 20564,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -13386,7 +13386,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 29616,
+				"count": 29723,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -13468,7 +13468,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 267167,
+				"count": 267220,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -13521,7 +13521,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/36104107.jpg",
-			"min_sale_price": null,
+			"min_sale_price": "¥26.2",
 			"press": [
 				"湖南文艺出版社"
 			],
@@ -13534,7 +13534,7 @@
 			"uri": "douban://douban.com/book/36104107",
 			"subtype": "book",
 			"intro": "大唐天宝十四年，长安城的小吏李善德突然接到一个任务：要在贵妃诞日之前，从岭南运来新鲜荔枝。荔枝“一日色变，两日香变，三日味变”，而岭南距长安五千余里，山水迢迢，这是个不可能完成的任务，可为了家人，李善德决心放手一搏：“就算失败，我也想知道，自己倒在距离终点多远的地方。”\n《长安的荔枝》是马伯庸备受好评的历史小说。\n唐朝诗人杜牧的一句“一骑红尘妃子笑，无人知是荔枝来”一千多年来引发了人们的无限遐想，但鲜荔枝的保鲜时限仅有三天，这场跨越五千余里的传奇转运之旅究竟是如何达成的，谁让杨贵妃在长安吃到了来自岭南的鲜荔枝？作者马伯庸就此展开了一场脑洞非常大的想象。\n沿袭马伯庸写作一贯以来的时空紧张感，不仅让读者看到了小人物的乱世生存之道，也感受到了事在人为的热血奋斗。随书附赠“荔枝鲜转运舆图”。\n★ 编辑推荐\n唐朝诗人杜牧的一句“一骑红尘妃子笑，无人知是荔枝来”惹得世人艳羡杨贵妃上千年，但其中的荔枝是如何从五千余里外的岭南运送到长安城的，却鲜有史书详细记载，脑洞大开的马伯庸以此为蓝本构建了一个大唐社畜李善德拼尽全力做项目的故事，虽是历史小说，读者却能从中看到自己的生活影子，大城市买房落脚、职场情商博弈、不得已的违规逾矩等，小人物的挣扎是那么相似。一项将鲜荔枝运逾千里之距的艰难差事，以微观人事折射大唐宏观社会。\n这部口碑非常好的历史小说只花了11天写就，小说刚一连载就获得了广大读者的好评，被数万人点评为神作，推荐值高达96%。微博、抖音、小红书和今日头条，海量读者自发评论和衍生二创。\n本书小开本双封设计，随书附赠“荔枝鲜转运舆图”折页插图一张。\n★ 媒体推荐\n马伯庸把他对历史的熟稔与现实关怀结合在一起，使得文笔能直击人的内心。写的是古人，却经常让我们看到自己。这部《长安的荔枝》就是如此。\n——陕西师范大学历史文化学院教授 于赓哲",
-			"buy_more_uri": "",
+			"buy_more_uri": "douban://douban.com/book/36104107/vendors_douban",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -13557,7 +13557,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2126,
+				"count": 2128,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -13602,7 +13602,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/35219805.jpg",
-			"min_sale_price": "¥41.7",
+			"min_sale_price": "¥32.5",
 			"press": [
 				"机械工业出版社"
 			],
@@ -13719,7 +13719,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2514,
+				"count": 2517,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -13800,7 +13800,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2785,
+				"count": 2797,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7
@@ -13882,10 +13882,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2352,
+				"count": 2356,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 9
+				"value": 8.9
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -13964,7 +13964,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 5640,
+				"count": 5642,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -14046,7 +14046,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 843,
+				"count": 844,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -14132,7 +14132,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2431,
+				"count": 2432,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -14182,7 +14182,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/1218321.jpg",
-			"min_sale_price": "¥66.0",
+			"min_sale_price": "¥59.7",
 			"press": [
 				"中国人民大学出版社"
 			],
@@ -14218,7 +14218,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 9060,
+				"count": 9068,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -14268,7 +14268,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/26304954.jpg",
-			"min_sale_price": "¥61.4",
+			"min_sale_price": "¥60.4",
 			"press": [
 				"商务印书馆"
 			],
@@ -14463,10 +14463,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 506,
+				"count": 507,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 8.8
+				"value": 8.9
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -14513,7 +14513,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/26708760.jpg",
-			"min_sale_price": "",
+			"min_sale_price": "¥35.1",
 			"press": [
 				"中信出版社"
 			],
@@ -14526,7 +14526,7 @@
 			"uri": "douban://douban.com/book/26708760",
 			"subtype": "book",
 			"intro": "《死亡的脸》是耶鲁大学备受欢迎的医学教授、外科医生舍温·努兰的经典作品，荣获美国国家图书奖。抢救生命似乎是医学的天职与成就，然而努兰1993年出版《死亡的脸》时即对这种陈旧的观点提出批判，医者不应是疾病的征服者，人类通往死亡之途的最后旅程，应得到尊严的对待。善终是每个人追求的圆满结局。\n子曰，未知生，焉知死。但努兰认为，死亡的艺术，也是生的艺术。死亡的脸，处处是生命的表情。要使善终不成为神话，就必须了解死亡，面对死亡。\n《死亡的脸》剖析人体每一处组织，讲述每一个惊心动魄的手术过程，努兰通过六种常见的致命疾病，包括心脏病、中风、老化、阿兹海默症、艾滋病与癌症，再加上意外等其他原因，描述人类经历死亡的共通过程，赤裸裸地描绘了生命走向衰亡的过程中不堪的、痛苦的、触目惊心的情状，把“死亡在生物学和临床学上的真实面貌呈现出来”。\n不论是何死因，临终总伴随着饥饿、窒息与巨痛。正如生之不易，离开也同样困难。努兰认为，最了解死亡的恐怕是诗人与哲学家，不是医生。因此在《死亡的脸》出版二十多年之后，努兰仍大声疾呼，临床医疗不应成为取胜的血腥行为，医者必须学习放慢速度，思考对病患有益的事。\n国内医学人文畅销书《心外传奇》作者李清晨诚挚推荐、倾情作序。",
-			"buy_more_uri": "",
+			"buy_more_uri": "douban://douban.com/book/26708760/vendors_douban",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -14549,7 +14549,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 134157,
+				"count": 134212,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -14638,7 +14638,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2549,
+				"count": 2556,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -14720,7 +14720,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 5139,
+				"count": 5141,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -14878,7 +14878,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1014,
+				"count": 1015,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -14998,7 +14998,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/36874971.jpg",
-			"min_sale_price": "¥49.2",
+			"min_sale_price": null,
 			"press": [
 				"机械工业出版社"
 			],
@@ -15011,7 +15011,7 @@
 			"uri": "douban://douban.com/book/36874971",
 			"subtype": "book",
 			"intro": "抑郁与性格和遗传无关，无论是谁都可能会抑郁。那么从抑郁状态中走出来，需要多长时间?怎样与抑郁症患者交流和接触?抑郁症症状恶化，是因为交流、交往的方式不对吗?本书将为你揭晓答案。\n抑郁症是可以慢慢恢复的，但比大家想象的恢复时间要长一些。作者在本书中为读者揭示我们在与“抑郁的人”交往、接触中，应该注意哪些问题，应该采取怎样的积极尝试。这是一本教你帮助亲人战胜“抑郁”的方法书，也是教你如何爱惜自己的贴心指南。",
-			"buy_more_uri": "douban://douban.com/book/36874971/vendors_douban",
+			"buy_more_uri": "",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -15077,7 +15077,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/30468597.jpg",
-			"min_sale_price": "",
+			"min_sale_price": "¥140.7",
 			"press": [
 				"人民邮电出版社"
 			],
@@ -15090,7 +15090,7 @@
 			"uri": "douban://douban.com/book/30468597",
 			"subtype": "book",
 			"intro": "本书是经典著作《重构》出版20年后的更新版。书中清晰揭示了重构的过程，解释了重构的原理和实践方式，并给出了何时以及何地应该开始挖掘代码以求改善。书中给出了60多个可行的重构，每个重构都介绍了一种经过验证的代码变换手法的动机和技术。本书提出的重构准则将帮助开发人员一次一小步地修改代码，从而减少了开发过程中的风险。\n本书适合软件开发人员、项目管理人员等阅读，也可作为高等院校计算机及相关专业师生的参考读物。",
-			"buy_more_uri": "",
+			"buy_more_uri": "douban://douban.com/book/30468597/vendors_douban",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -15156,7 +15156,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/34986245.jpg",
-			"min_sale_price": "¥67.3",
+			"min_sale_price": "¥49.5",
 			"press": [
 				"人民邮电出版社"
 			],
@@ -15192,7 +15192,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 61382,
+				"count": 61410,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -15675,7 +15675,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6090,
+				"count": 6091,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -15718,7 +15718,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/5980113.jpg",
-			"min_sale_price": "",
+			"min_sale_price": "¥34.3",
 			"press": [
 				"中国城市出版社"
 			],
@@ -15731,7 +15731,7 @@
 			"uri": "douban://douban.com/book/5980113",
 			"subtype": "book",
 			"intro": "你是否总感到焦虑、抑郁、内疚、自卑、孤独、挫折、易怒、躁狂？总感到情绪低落，苦恼忧伤。兴致索然？心中 盘踞着悲观绝望，痛苦难熬，度日如年、生不如死的感觉？你很想让自己更理性更开心，但你拖拉，觉得生活没劲；你发现自己习惯逃避；你有严重完美主义倾向，常不满意自己；你想摆脱抑郁却无助无望更抑郁。你该怎么办？ 请牢记，思维决定情绪。错误扭曲的认知，则导致抑郁情绪。\n戴维·伯恩斯博士是世界主流认知疗法最重要的发展者之一，同时也是享誉世界的自助书籍作家，他的著作《伯恩斯新情绪疗法》连续多年位于自助书籍畅销榜第1名，全球销售超过500万册，也是美国、加拿大精神科医师和心理学家最常“开药方”给抑郁症患者的书籍，带给无数抑郁症患者福音。《伯恩斯新情绪疗法(最新完整版)》将是一套治疗体系，更是一整组的工具，向读者展示了快速、有效地克服日常不良情绪的治疗技术，从而战胜抑郁。\n4周左右的系统化的自我阅读和练习治疗体系。你会注意到书中不断要求你边阅读，边拿起笔做测试、做练习，请静心对待，你是在逐渐谙习一些特别行之有效的理念和技巧，以帮助你战胜不良情绪，如忧郁、焦虑、悲伤、挫折、内疚、紧张、羞愧、自卑、孤独。22个简单有效的原则和技巧。深挖抑郁背后的情绪根源，学会掌控日常摇摆不定的不良情绪和自我否定行为，从而帮助人们安全渡过生命中的每个低谷，让每个人的心灵天空清新明朗。",
-			"buy_more_uri": "",
+			"buy_more_uri": "douban://douban.com/book/5980113/vendors_douban",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -15797,7 +15797,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/30377581.jpg",
-			"min_sale_price": "",
+			"min_sale_price": "¥146.8",
 			"press": [
 				"北京科学技术出版社"
 			],
@@ -15808,7 +15808,7 @@
 			"uri": "douban://douban.com/book/30377581",
 			"subtype": "book",
 			"intro": "",
-			"buy_more_uri": "",
+			"buy_more_uri": "douban://douban.com/book/30377581/vendors_douban",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",

@@ -20,7 +20,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 30937,
+				"count": 30984,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -104,7 +104,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3913,
+				"count": 3933,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -363,7 +363,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 44262,
+				"count": 44277,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -456,10 +456,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1271,
+				"count": 1273,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 9.1
+				"value": 9
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -540,7 +540,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3544,
+				"count": 3552,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -923,7 +923,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/27191786.jpg",
-			"min_sale_price": "¥20.5",
+			"min_sale_price": "¥11.9",
 			"press": [
 				"江苏凤凰文艺出版社"
 			],
@@ -964,7 +964,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 173170,
+				"count": 173314,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -1058,7 +1058,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1231,
+				"count": 1236,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -1142,7 +1142,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 32689,
+				"count": 32698,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -1233,10 +1233,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3518,
+				"count": 3519,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.1
+				"value": 8.2
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -1328,7 +1328,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 26407,
+				"count": 26412,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -1371,7 +1371,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/10767124.jpg",
-			"min_sale_price": "",
+			"min_sale_price": "¥23.22",
 			"press": [
 				"长江文艺出版社"
 			],
@@ -1384,7 +1384,7 @@
 			"uri": "douban://douban.com/book/10767124",
 			"subtype": "book",
 			"intro": "1、本土科幻名家，均多次获得科幻最高奖“银河奖”，本土科幻的代表人物。 2、作家自选集，收录作者各个时期创作的代表作。 3、刘慈欣的《乡村教师》被改编成电影，下半年上映。 4、书中附有作者近照和亲笔题字签名（手写印刷），收录作者的创作年表和获奖情况等资料，制作精良，可作为科幻迷的收藏版本。",
-			"buy_more_uri": "",
+			"buy_more_uri": "douban://douban.com/book/10767124/vendors_douban",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -1412,7 +1412,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 95832,
+				"count": 95846,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -1505,7 +1505,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 64736,
+				"count": 64737,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -1521,7 +1521,9 @@
 			"honor_infos": [],
 			"other_versions_count": 19,
 			"is_show": false,
-			"vendor_icons": [],
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
 			"card_subtitle": "刘慈欣 / 2008 / 长江文艺出版社",
 			"book_subtitle": "刘慈欣获奖作品",
 			"id": "3266609",
@@ -1565,7 +1567,7 @@
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
-			"has_ebook": false
+			"has_ebook": true
 		}
 	},
 	{
@@ -1758,7 +1760,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 550097,
+				"count": 550164,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -1849,7 +1851,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6082,
+				"count": 6085,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -2031,7 +2033,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 15028,
+				"count": 15030,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -2291,7 +2293,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 526008,
+				"count": 526141,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -2382,7 +2384,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 59705,
+				"count": 59712,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -2599,7 +2601,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/37119755.jpg",
-			"min_sale_price": "¥49.8",
+			"min_sale_price": "¥48.9",
 			"press": [
 				"人民邮电出版社"
 			],
@@ -2640,7 +2642,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 11064,
+				"count": 11096,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2734,7 +2736,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4364,
+				"count": 4371,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -2825,7 +2827,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2582,
+				"count": 2585,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -3047,7 +3049,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/35590973.jpg",
-			"min_sale_price": "",
+			"min_sale_price": "¥60.4",
 			"press": [
 				"北京联合出版公司"
 			],
@@ -3060,7 +3062,7 @@
 			"uri": "douban://douban.com/book/35590973",
 			"subtype": "book",
 			"intro": "如果你现在还在寻找有什么方法能帮你走这段路，泰勒想告诉你：“这本书是为了我、你和过世的人写的。”\n这本书是插画家泰勒?费德尔写给母亲的回忆录。泰勒刚上大学时，她深爱的母亲便被诊断出癌症未期。一年后，母亲去世了。母亲走后，泰勒一直与悲伤共处，在人前强颜欢笑。直到了十年后，泰勒才决定敞开心房，用文字和画笔描绘出失去挚爱亲人、却难以向他人倾诉的感受。书中有着泰勒从小到大与母亲相处的温暖回忆、母亲从患癌到去世过程中令人心碎的琐碎小事，以及出失挚爱的母亲后却难以言喻的悲伤感受和对母亲浓浓的思念之情。这本回忆录情感真挚坦率，又有小小的幽默，任何失去过亲人的读者都会感受到治愈。",
-			"buy_more_uri": "",
+			"buy_more_uri": "douban://douban.com/book/35590973/vendors_douban",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -3175,7 +3177,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1597,
+				"count": 1598,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -3259,7 +3261,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 145687,
+				"count": 145817,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -3610,7 +3612,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 53469,
+				"count": 53480,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -3703,7 +3705,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4008,
+				"count": 4016,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -3790,7 +3792,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 823615,
+				"count": 823691,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -3884,7 +3886,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 223557,
+				"count": 223607,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -3977,7 +3979,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 213600,
+				"count": 213630,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -4071,7 +4073,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 129073,
+				"count": 129133,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -4164,7 +4166,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 179127,
+				"count": 179185,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -4257,7 +4259,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 129073,
+				"count": 129133,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -4350,7 +4352,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 179127,
+				"count": 179185,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -4443,7 +4445,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 213611,
+				"count": 213684,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -4536,7 +4538,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 309279,
+				"count": 309344,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -4629,7 +4631,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 221897,
+				"count": 221981,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -4681,7 +4683,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/33440205.jpg",
-			"min_sale_price": "¥34.8",
+			"min_sale_price": "¥33.5",
 			"press": [
 				"南海出版公司"
 			],
@@ -4722,7 +4724,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3587,
+				"count": 3588,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -4767,7 +4769,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/36289703.jpg",
-			"min_sale_price": "¥31.8",
+			"min_sale_price": "¥28.0",
 			"press": [
 				"中信出版社"
 			],
@@ -4808,7 +4810,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3304,
+				"count": 3307,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -4948,7 +4950,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/27131873.jpg",
-			"min_sale_price": "¥41.9",
+			"min_sale_price": "¥39.2",
 			"press": [
 				"广西师范大学出版社"
 			],
@@ -4989,7 +4991,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 34217,
+				"count": 34231,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -5083,7 +5085,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4904,
+				"count": 4905,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -5302,7 +5304,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/20473505.jpg",
-			"min_sale_price": "",
+			"min_sale_price": "¥21.8",
 			"press": [
 				"中华书局"
 			],
@@ -5315,7 +5317,7 @@
 			"uri": "douban://douban.com/book/20473505",
 			"subtype": "book",
 			"intro": "这是日本天才作家中岛敦的第一本中文简体版精选集，收录中岛敦《山月记》《弟子》《李陵》《光•风•梦》等九篇代表作。中岛敦的小说多取材于中国古典故事，独出心裁，文字优美，探究人性的幽暗与自我的存在，充满现代特质，深获读者喜爱。\n【本书特色】\n1，日本天才作家中岛敦作品中文简体版首次面世，重塑中国古典，让你认识自我，读懂人性的挣扎！\n2，《山月记》是日本高中语文教材常选篇目，日文版《李陵•山月记》高踞日本“五大杰出小说”榜首，排名超越芥川龙之介《罗生门》和夏目漱石《哥儿》！\n\n【评论推荐】\n中岛敦作为对人性的知性的理解者，在他的身上有一种穿越性，这种穿越性可以和夏目漱石以及晚年的幸田露伴媲美。\n——日本作家 伊藤整\n中岛敦的中国题材历史小说显示了一种成熟和练达，表现了纯文学所具有的高雅与纯正的艺术品位。\n——北京师范大学文学院教授 王向远\n中岛敦学贯中西，不仅深谙中国古典，还精通西方文学和哲学。他的作品不仅有简洁、高迈的汉文格调，还充满了深刻的哲理，蕴含着他对人的存在及命运的深刻洞见。\n——宁波大学外语学院副教授 郭勇",
-			"buy_more_uri": "",
+			"buy_more_uri": "douban://douban.com/book/20473505/vendors_douban",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -5343,7 +5345,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 13353,
+				"count": 13357,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -5396,7 +5398,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/27114418.jpg",
-			"min_sale_price": "",
+			"min_sale_price": "¥25.7",
 			"press": [
 				"江西人民出版社"
 			],
@@ -5409,7 +5411,7 @@
 			"uri": "douban://douban.com/book/27114418",
 			"subtype": "book",
 			"intro": "新锐小说家马特·海格以文学手法剖白自身心理困境\n再现一段克服绝望、走出抑郁的生命之旅\n...................\n※编辑推荐※\n☆畅销全球33个国家，英国报业巨头《星期日泰晤士报》非虚构类畅销书排行榜No.1，连续46周稳居英国图书畅销榜前10名，英国最大连 锁书店水石书店年度选书，入选《娱乐周刊》2016年必读书目。\n☆ BBC、《纽约时报》《卫报》《星期日泰晤士报》《电讯报》《观察家报》《赫芬顿邮报》等五十余家知名媒体争相报道，珍妮特•温特森、尼尔•盖曼、S·J·沃森、乔安妮·哈里斯等知名作家击节赞赏。\n☆作者马特·海格曾站在悬崖边企图自杀，离死亡只有一步之遥。在这本书中，他以惊人的准确度再现了与抑郁相伴的种种亲身感受。但这本书非关死亡，而是关于如何在失去一切之后绝地逆转，度过人生的艰难时期；如何在走出困境之后成为更好的自己，更用力地去爱，去生活，去感知生命。\n...................\n※内容简介※\n24岁时，作者马特·海格不幸被命运选中，成为抑郁症患者。本书讲述了这个并不比任何人坚强的年轻人，一点一滴克服精神上的极度痛苦，从绝望中活下来的故事。\n在《活下去的理由》中，马特一面以文学手法精确再现那些不被理解、无法言说又撕心裂肺的精神痛苦，代抑郁症患者发出那些不曾被世界听到的呼喊；一面又用举重若轻的笔调，讲述他在爱的陪伴下一次次击退黑暗的经历，向读者分享了一场绝望与希望并存、黑暗和温暖交织的生命之旅。\n著名演员乔安娜·林莉称这本书“甚至能救活几条人命”，亚马逊读者称“想把这本书拿给所有人看，因为它说出了自己无法表达的心声”。\n...................\n※ 媒体推荐※\n《活下去的理由》不是那种普遍意义上的自助书，它反映了个体生命对危机的应对方式，具有强烈的个人色彩和创造性。这本书能够带给人们希望，帮助人们更好地认识自己。\n——《卫报》（The Guardian）\n看着这个年轻的生命被抑郁症消耗，本该是个令人心碎的故事，但这本书却带来了出人意料的温柔抚慰。\n——《星期日邮报》（Sunday Mail）\n一个关于作者是怎样从抑郁和自杀阴影中回归的温暖故事，在绝望的时候，它能给你带来安慰。\n——《新政治家周刊》（New Statesman）\n这本书不仅对抑郁者有用，还能帮助抑郁者的父母、伴侣、朋友了解所爱之人正在经历什么。它是希望的灯塔。\n——stylist杂志\n这里没有心理呓语，只有海格非常真实、接地气，充满智慧的叙述。书中很多句子都能引发联想，让你想把他们摘抄下来。\n——《女性健康》（Women’s Health）\n...................\n※ 名人推荐※\n这是一本绝妙的书，那些为抑郁症所苦的人，身边有人受抑郁症折磨的人（差不多每个人都有），都应该读一读。\n——S·J·沃森（S·J·Watson），畅销小说《别相信任何人》作者\n把难以启齿的敏感话题从黑暗中解放出来，并照以光亮。\n——麦克·帕林（Michael Palin），英国喜剧演员\n我无法用言语表达这本书中蕴藏着多么大的救赎力量。阅读这本书的感觉，就像作者给了我一个温暖的拥抱，他仿佛在对我说：“我保证，一切都会好起来的。”\n——亚马逊读者\n终于有一本关于抑郁症的书真的有用了！有过类似经历的读者一定会不停地点头，同意作者所说的一切。这里没有心理学家们隔岸观火般的治疗方案，只是在讲述马特·海格与恐怖的黑狗相伴同行的真实经历。它让我流泪，也让我欢笑，我为马特走出抑郁的那些瞬间而欢欣雀跃。\n——goodreads读者",
-			"buy_more_uri": "",
+			"buy_more_uri": "douban://douban.com/book/27114418/vendors_douban",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -5437,7 +5439,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4190,
+				"count": 4192,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -5523,7 +5525,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 15257,
+				"count": 15265,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -5569,7 +5571,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/34326931.jpg",
-			"min_sale_price": "¥18.5",
+			"min_sale_price": "¥29.0",
 			"press": [
 				"北京联合出版公司"
 			],
