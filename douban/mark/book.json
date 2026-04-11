@@ -2,85 +2,6 @@
 	{
 		"comment": "",
 		"rating": null,
-		"sharing_text": "https://www.douban.com/doubanapp/dispatch/book/30482551 来自@豆瓣App",
-		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/30482551/interest/4806514538",
-		"tags": [],
-		"charts": [],
-		"is_editable": false,
-		"platforms": [],
-		"vote_count": 0,
-		"create_time": "2026-03-30 11:32:59",
-		"status": "mark",
-		"id": 4806514538,
-		"is_private": false,
-		"subject": {
-			"rating": {
-				"count": 2150,
-				"max": 10,
-				"star_count": 4.5,
-				"value": 8.9
-			},
-			"controversy_reason": "",
-			"pubdate": [
-				"2019-1"
-			],
-			"pic": {
-				"large": "https://img9.doubanio.com/view/subject/l/public/s34734944.jpg",
-				"normal": "https://img9.doubanio.com/view/subject/m/public/s34734944.jpg"
-			},
-			"honor_infos": [],
-			"other_versions_count": 10,
-			"is_show": false,
-			"vendor_icons": [],
-			"card_subtitle": "陈江挺 / 2019 / 商务印书馆",
-			"book_subtitle": "在华尔街炒股为生的体验",
-			"id": "30482551",
-			"author": [
-				"陈江挺"
-			],
-			"is_released": true,
-			"vendor_original_price": "",
-			"color_scheme": {
-				"is_dark": true,
-				"primary_color_light": "a5937f",
-				"_base_color": [
-					0.08854166666666673,
-					0.23357664233576642,
-					0.5372549019607843
-				],
-				"secondary_color": "f9f7f4",
-				"_avg_color": [
-					0.07894736842105253,
-					0.09268292682926838,
-					0.803921568627451
-				],
-				"primary_color_dark": "7f7161"
-			},
-			"type": "book",
-			"cover_url": "https://dou.img.lithub.cc/book/30482551.jpg",
-			"min_sale_price": "¥17.1",
-			"press": [
-				"商务印书馆"
-			],
-			"pages": [
-				"192"
-			],
-			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/30482551",
-			"url": "https://book.douban.com/subject/30482551/",
-			"title": "炒股的智慧",
-			"uri": "douban://douban.com/book/30482551",
-			"subtype": "book",
-			"intro": "《炒股的智慧》是一本教授炒股技巧的书。作者出生于中国，上海交通大学毕业后赴美留学，取得机械工程硕士学位，又在商学院国际金融专业学习，研究世界各地的金融市场和国际金融，现专职基金管理。作者在美国生活了35年，和来自全世界的不同种族和文化背景的人打过交道，体会是人性共通。因此，这本书没有什么复杂的理论和公式，大多是从人性的角度来分析股票价格的涨和跌。作者认为，人性中根深蒂固的恐惧、希望、贪婪影响着炒股者所做的每一个决定，使他们常常做不到自己知道应该做的事，要完全克服人性中的弱点是很困难的。\n《炒股的智慧》从第一版到现在已经十几年了，平均每年销量上万册，是一本长期畅销的炒股经典著作。2019年最新版本中，作者添加了最近几年的诸多感悟，并对以往的一些经验进行了全新的解读，告诉读者自己对一些炒股理念进一步的体会和理解。",
-			"buy_more_uri": "douban://douban.com/book/30482551/vendors_douban",
-			"null_rating_reason": "",
-			"article_intros": [],
-			"vendor_sale_price": "",
-			"has_ebook": false
-		}
-	},
-	{
-		"comment": "",
-		"rating": null,
 		"sharing_text": "https://www.douban.com/doubanapp/dispatch/book/1139360 来自@豆瓣App",
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/1139360/interest/4804319946",
 		"tags": [],
@@ -94,7 +15,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 38236,
+				"count": 38262,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.6
@@ -167,411 +88,6 @@
 	{
 		"comment": "",
 		"rating": null,
-		"sharing_text": "https://www.douban.com/doubanapp/dispatch/book/10792778 来自@豆瓣App",
-		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/10792778/interest/4804319822",
-		"tags": [],
-		"charts": [],
-		"is_editable": false,
-		"platforms": [],
-		"vote_count": 0,
-		"create_time": "2026-03-27 21:49:40",
-		"status": "mark",
-		"id": 4804319822,
-		"is_private": false,
-		"subject": {
-			"rating": {
-				"count": 43,
-				"max": 10,
-				"star_count": 4.5,
-				"value": 8.8
-			},
-			"controversy_reason": "",
-			"pubdate": [
-				"2012-5"
-			],
-			"pic": {
-				"large": "https://img1.doubanio.com/view/subject/l/public/s24934458.jpg",
-				"normal": "https://img1.doubanio.com/view/subject/m/public/s24934458.jpg"
-			},
-			"honor_infos": [],
-			"other_versions_count": 1,
-			"is_show": false,
-			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png"
-			],
-			"card_subtitle": "2012 / 北京师范大学出版社",
-			"book_subtitle": "",
-			"id": "10792778",
-			"author": [],
-			"is_released": true,
-			"vendor_original_price": "",
-			"color_scheme": {
-				"is_dark": true,
-				"primary_color_light": "a4a59a",
-				"_base_color": [
-					0.19047619047619038,
-					0.06542056074766359,
-					0.8392156862745098
-				],
-				"secondary_color": "f9f9f4",
-				"_avg_color": [
-					0.1818181818181818,
-					0.05022831050228306,
-					0.8588235294117647
-				],
-				"primary_color_dark": "7e7f77"
-			},
-			"type": "book",
-			"cover_url": "https://dou.img.lithub.cc/book/10792778.jpg",
-			"min_sale_price": "¥31.5",
-			"press": [
-				"北京师范大学出版社"
-			],
-			"pages": [
-				"320"
-			],
-			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/10792778",
-			"url": "https://book.douban.com/subject/10792778/",
-			"title": "辩证唯物主义原理-第三版",
-			"uri": "douban://douban.com/book/10792778",
-			"subtype": "book",
-			"intro": "本书主要内容包括：马克思主义哲学是科学的世界和方法论、世界的物质性、人类意识、世界的普遍联系和发展、联系和发展的基本规律等。",
-			"buy_more_uri": "douban://douban.com/book/10792778/vendors_douban",
-			"null_rating_reason": "",
-			"article_intros": [],
-			"vendor_sale_price": "",
-			"has_ebook": true
-		}
-	},
-	{
-		"comment": "",
-		"rating": null,
-		"sharing_text": "https://www.douban.com/doubanapp/dispatch/book/37824944 来自@豆瓣App",
-		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/37824944/interest/4803371805",
-		"tags": [],
-		"charts": [],
-		"is_editable": false,
-		"platforms": [],
-		"vote_count": 0,
-		"create_time": "2026-03-26 15:51:05",
-		"status": "mark",
-		"id": 4803371805,
-		"is_private": false,
-		"subject": {
-			"rating": {
-				"count": 0,
-				"max": 10,
-				"star_count": 0,
-				"value": 0
-			},
-			"controversy_reason": "",
-			"pubdate": [
-				"2025-11-29"
-			],
-			"pic": {
-				"large": "https://img3.doubanio.com/view/subject/l/public/s35318653.jpg",
-				"normal": "https://img3.doubanio.com/view/subject/m/public/s35318653.jpg"
-			},
-			"honor_infos": [],
-			"other_versions_count": 0,
-			"is_show": false,
-			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
-				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
-			],
-			"card_subtitle": "金志峰 / 2025 / 中信出版集团",
-			"book_subtitle": "",
-			"id": "37824944",
-			"author": [
-				"金志峰"
-			],
-			"is_released": true,
-			"vendor_original_price": "",
-			"color_scheme": {
-				"is_dark": true,
-				"primary_color_light": "a5886f",
-				"_base_color": [
-					0.07812500000000001,
-					0.32989690721649484,
-					0.7607843137254902
-				],
-				"secondary_color": "f9f7f4",
-				"_avg_color": [
-					0.07500000000000001,
-					0.32967032967032966,
-					0.7137254901960784
-				],
-				"primary_color_dark": "7f6955"
-			},
-			"type": "book",
-			"cover_url": "https://dou.img.lithub.cc/book/37824944.jpg",
-			"min_sale_price": null,
-			"press": [
-				"中信出版集团"
-			],
-			"pages": [
-				"250"
-			],
-			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/37824944",
-			"url": "https://book.douban.com/subject/37824944/",
-			"title": "价格投资",
-			"uri": "douban://douban.com/book/37824944",
-			"subtype": "book",
-			"intro": "给投资者可规划、可执行、长期可盈利的“价格投资”创新方法。\n如果你尚未在股市赚到超额收益，请思考如下问题：\n· 传统经济学认为，价格是商品价值的货币表现，价格围绕价值上下波动。但，股票是商品吗？\n· 股票定价理论纷繁复杂，包括资本资产定价、现金流折现等绝对估值模型，还有P/E、P/B等相对估值模型。但，不同模型得出的结论甚至相互背离，有没有统一的定价内核？\n· 优质的公司基业长青、盈利能力强。但，公司赚的钱和你的持仓价格相关性强吗？\n基于十余年实战成功经验，作者创新性提出“价格原点”概念，运用基本逻辑和公理推导出“逻辑盈利”的至简交易体系，筑牢“价格投资”方法论。\n这本书提炼了盈利三宝，即价差、胜率和盈亏比；总结了价格的特性，包括周期、方向、边界、速度等；为投资者梳理价格背后的确定性逻辑，纠正盲目抄底、无撤退计划等错误认知；助力投资者在价格投资的指导下构建投资组合，达到长期盈利。",
-			"buy_more_uri": "",
-			"null_rating_reason": "暂无评分",
-			"article_intros": [],
-			"vendor_sale_price": "",
-			"has_ebook": true
-		}
-	},
-	{
-		"comment": "",
-		"rating": null,
-		"sharing_text": "https://www.douban.com/doubanapp/dispatch/book/33392183 来自@豆瓣App",
-		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/33392183/interest/4803353380",
-		"tags": [],
-		"charts": [],
-		"is_editable": false,
-		"platforms": [],
-		"vote_count": 0,
-		"create_time": "2026-03-26 15:21:12",
-		"status": "mark",
-		"id": 4803353380,
-		"is_private": false,
-		"subject": {
-			"rating": {
-				"count": 222,
-				"max": 10,
-				"star_count": 3.5,
-				"value": 7.1
-			},
-			"controversy_reason": "",
-			"pubdate": [
-				"2019-4"
-			],
-			"pic": {
-				"large": "https://img1.doubanio.com/view/subject/l/public/s35065870.jpg",
-				"normal": "https://img1.doubanio.com/view/subject/m/public/s35065870.jpg"
-			},
-			"honor_infos": [],
-			"other_versions_count": 6,
-			"is_show": false,
-			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png"
-			],
-			"card_subtitle": "约翰 R. 诺夫辛格 / 2019 / 机械工业出版社",
-			"book_subtitle": "",
-			"id": "33392183",
-			"author": [
-				"约翰 R. 诺夫辛格"
-			],
-			"is_released": true,
-			"vendor_original_price": "",
-			"color_scheme": {
-				"is_dark": true,
-				"primary_color_light": "724d2d",
-				"_base_color": [
-					0.07657657657657659,
-					0.6065573770491803,
-					0.47843137254901963
-				],
-				"secondary_color": "f9f7f4",
-				"_avg_color": [
-					0.0767195767195767,
-					0.5294117647058824,
-					0.4666666666666667
-				],
-				"primary_color_dark": "4c331e"
-			},
-			"type": "book",
-			"cover_url": "https://dou.img.lithub.cc/book/33392183.jpg",
-			"min_sale_price": null,
-			"press": [
-				"机械工业出版社"
-			],
-			"pages": [
-				"220"
-			],
-			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/33392183",
-			"url": "https://book.douban.com/subject/33392183/",
-			"title": "行为金融与投资心理学（原书第6版）",
-			"uri": "douban://douban.com/book/33392183",
-			"subtype": "book",
-			"intro": "本书第6版，有以下特点：\n介绍了日常生活中的心理偏差，分析了心理偏差对投资决策的影响；\n增加了一章有关投资生理学的内容，讨论了基因学、神经科学的最新发展，以及荷尔蒙、衰老和天性如何影响投资行为；\n增加了一项控制偏差的策略，帮助读者了解市场心理以及学会如何利用市场心理；\n实证案例、章节小结和章后讨论题可以帮助读者检验自己的学习成效。\n本书更新了这一领域的zui新成果，对于普通投资者和机构投资者都很有价值，学习投资学、投资组合管理和行为金融专业的高年级学生也应该对此有所了解。",
-			"buy_more_uri": "",
-			"null_rating_reason": "",
-			"article_intros": [],
-			"vendor_sale_price": "",
-			"has_ebook": true
-		}
-	},
-	{
-		"comment": "",
-		"rating": null,
-		"sharing_text": "https://www.douban.com/doubanapp/dispatch/book/4245018 来自@豆瓣App",
-		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/4245018/interest/4802694913",
-		"tags": [],
-		"charts": [],
-		"is_editable": false,
-		"platforms": [],
-		"vote_count": 0,
-		"create_time": "2026-03-25 17:10:42",
-		"status": "mark",
-		"id": 4802694913,
-		"is_private": false,
-		"subject": {
-			"rating": {
-				"count": 127,
-				"max": 10,
-				"star_count": 4,
-				"value": 8.2
-			},
-			"controversy_reason": "",
-			"pubdate": [
-				"2010-1"
-			],
-			"pic": {
-				"large": "https://img3.doubanio.com/view/subject/l/public/s4161912.jpg",
-				"normal": "https://img3.doubanio.com/view/subject/m/public/s4161912.jpg"
-			},
-			"honor_infos": [],
-			"other_versions_count": 0,
-			"is_show": false,
-			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png"
-			],
-			"card_subtitle": "彭漪涟 余式厚 / 2010 / 北京大学出版社",
-			"book_subtitle": "",
-			"id": "4245018",
-			"author": [
-				"彭漪涟",
-				"余式厚"
-			],
-			"is_released": true,
-			"vendor_original_price": "",
-			"color_scheme": {
-				"is_dark": false,
-				"primary_color_light": "f2e9c1",
-				"_base_color": [
-					0.13784461152882208,
-					0.5473251028806584,
-					0.9529411764705882
-				],
-				"secondary_color": "f9f9f4",
-				"_avg_color": [
-					0.13411458333333334,
-					0.5446808510638298,
-					0.9215686274509803
-				],
-				"primary_color_dark": "f2e9c1"
-			},
-			"type": "book",
-			"cover_url": "https://dou.img.lithub.cc/book/4245018.jpg",
-			"min_sale_price": null,
-			"press": [
-				"北京大学出版社"
-			],
-			"pages": [
-				"176"
-			],
-			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/4245018",
-			"url": "https://book.douban.com/subject/4245018/",
-			"title": "写给中学生的逻辑学",
-			"uri": "douban://douban.com/book/4245018",
-			"subtype": "book",
-			"intro": "《写给中学生的逻辑学》内容简介：给中学生写一本适合于他（她）们阅读的逻辑读物，是我们多年来的愿望。为此，我们也曾作过一些初步的准备工作：如到中学里作一点中学生逻辑思维状况的调查，在报刊书籍中收集和积累一些与中学生逻辑思维状况有关的素材和资料等等。但由于种种原因，这些年我们的主要精力投入到了其他方面的研究和写作任务中去，以至为中学生写本逻辑读物的愿望长期未能实现。但是，这个愿望、这个决心，我们是一直未曾动摇过、放弃过。\n正巧的是，去年下半年，北京大学出版社的杨书澜同志向我们约稿，编写一本写给中学生阅读的逻辑读物，这无疑给我们提供了实现上述多年愿望的新的机遇和动力。",
-			"buy_more_uri": "",
-			"null_rating_reason": "",
-			"article_intros": [],
-			"vendor_sale_price": "",
-			"has_ebook": true
-		}
-	},
-	{
-		"comment": "",
-		"rating": null,
-		"sharing_text": "https://www.douban.com/doubanapp/dispatch/book/20492550 来自@豆瓣App",
-		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/20492550/interest/4802694500",
-		"tags": [],
-		"charts": [],
-		"is_editable": false,
-		"platforms": [],
-		"vote_count": 0,
-		"create_time": "2026-03-25 17:10:00",
-		"status": "mark",
-		"id": 4802694500,
-		"is_private": false,
-		"subject": {
-			"rating": {
-				"count": 9011,
-				"max": 10,
-				"star_count": 4,
-				"value": 7.8
-			},
-			"controversy_reason": "",
-			"pubdate": [
-				"2013-1-13"
-			],
-			"pic": {
-				"large": "https://img1.doubanio.com/view/subject/l/public/s34078969.jpg",
-				"normal": "https://img1.doubanio.com/view/subject/m/public/s34078969.jpg"
-			},
-			"honor_infos": [],
-			"other_versions_count": 4,
-			"is_show": false,
-			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
-			],
-			"card_subtitle": "[德] 罗尔夫·多贝里 / 2013 / 中信出版社",
-			"book_subtitle": "你最好让别人去犯的52种思维错误",
-			"id": "20492550",
-			"author": [
-				"[德] 罗尔夫·多贝里"
-			],
-			"is_released": true,
-			"vendor_original_price": "",
-			"color_scheme": {
-				"is_dark": true,
-				"primary_color_light": "a4a59a",
-				"_base_color": [
-					0.17777777777777773,
-					0.06944444444444446,
-					0.8470588235294118
-				],
-				"secondary_color": "f9f9f4",
-				"_avg_color": [
-					0.1190476190476189,
-					0.06603773584905663,
-					0.8313725490196079
-				],
-				"primary_color_dark": "7e7f76"
-			},
-			"type": "book",
-			"cover_url": "https://dou.img.lithub.cc/book/20492550.jpg",
-			"min_sale_price": null,
-			"press": [
-				"中信出版社"
-			],
-			"pages": [
-				"215"
-			],
-			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/20492550",
-			"url": "https://book.douban.com/subject/20492550/",
-			"title": "清醒思考的艺术",
-			"uri": "douban://douban.com/book/20492550",
-			"subtype": "book",
-			"intro": "本书作者罗尔夫·多贝里讲到自己曾与一名美国友人分享发现——小概率事件往往具有颠覆全局的破坏力。这个美国人后来据此写了一本书成为大畅销书，此书就是《黑天鹅》，那个美国人叫纳西姆·塔勒布。于是，多贝里决定自己写一本书，这就是在德国率先超越《乔布斯传》登上畅销书排行榜榜首的《清醒思考的艺术》。\n人是生而自由的，却无往不在枷锁之中。用这句话来描述人类为思维错误所累的情形，也十分恰当精到。思维错误、认知陷阱就像是伴生于人类，细追究起来无处不在，不经意之时又无迹可寻。难道人们注定就要戴着无形的“有色眼镜”看世界吗？不，人们可以思考自己的思考，拒绝思考被污染。\n罗尔夫·多贝里在书中做的，就是以显微镜般的观察发现人们常犯的思维错误，并一一列出。当明白了错误的思维是如何发生后，人们就有可能远离思维陷阱。如果说成功者与失败者之间的差距在于思维方式，那么，熟知了思考方式的隐形陷阱，人们就会犯错更少，从而离成功更近。",
-			"buy_more_uri": "",
-			"null_rating_reason": "",
-			"article_intros": [],
-			"vendor_sale_price": "",
-			"has_ebook": true
-		}
-	},
-	{
-		"comment": "",
-		"rating": null,
 		"sharing_text": "https://www.douban.com/doubanapp/dispatch/book/25782902 来自@豆瓣App",
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/25782902/interest/4796804174",
 		"tags": [],
@@ -585,7 +101,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 16051,
+				"count": 16057,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -661,85 +177,6 @@
 	{
 		"comment": "",
 		"rating": null,
-		"sharing_text": "https://www.douban.com/doubanapp/dispatch/book/26849910 来自@豆瓣App",
-		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/26849910/interest/4786485547",
-		"tags": [],
-		"charts": [],
-		"is_editable": false,
-		"platforms": [],
-		"vote_count": 0,
-		"create_time": "2026-03-05 14:01:15",
-		"status": "mark",
-		"id": 4786485547,
-		"is_private": false,
-		"subject": {
-			"rating": {
-				"count": 1135,
-				"max": 10,
-				"star_count": 4.5,
-				"value": 8.9
-			},
-			"controversy_reason": "",
-			"pubdate": [
-				"2016-7-1"
-			],
-			"pic": {
-				"large": "https://img1.doubanio.com/view/subject/l/public/s28951618.jpg",
-				"normal": "https://img1.doubanio.com/view/subject/m/public/s28951618.jpg"
-			},
-			"honor_infos": [],
-			"other_versions_count": 10,
-			"is_show": false,
-			"vendor_icons": [],
-			"card_subtitle": "陈江挺 / 2016 / 中国社会科学出版社",
-			"book_subtitle": "在华尔街炒股为生的体验",
-			"id": "26849910",
-			"author": [
-				"陈江挺"
-			],
-			"is_released": true,
-			"vendor_original_price": "",
-			"color_scheme": {
-				"is_dark": true,
-				"primary_color_light": "a5a49b",
-				"_base_color": [
-					0.1428571428571429,
-					0.061946902654867166,
-					0.8862745098039215
-				],
-				"secondary_color": "f9f9f4",
-				"_avg_color": [
-					0.07333333333333326,
-					0.1436781609195402,
-					0.6823529411764706
-				],
-				"primary_color_dark": "7f7e77"
-			},
-			"type": "book",
-			"cover_url": "https://dou.img.lithub.cc/book/26849910.jpg",
-			"min_sale_price": "¥19.98",
-			"press": [
-				"中国社会科学出版社"
-			],
-			"pages": [
-				"208"
-			],
-			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/26849910",
-			"url": "https://book.douban.com/subject/26849910/",
-			"title": "炒股的智慧 (第四版)",
-			"uri": "douban://douban.com/book/26849910",
-			"subtype": "book",
-			"intro": "作者以在华尔街十几年搏击股海的经验教训为感悟素材，在研读了西方几百年来所有的炒股名著和炒股大师传记的基础上，对如何在股市获利最基本、最重要的问题进行了深入思考和探索 。本书是为那些和作者一样、真正想以炒股为生的投资者而写。本书初版于1999年，由三联书店出版后，在读者中产生了巨大的反响，十多年来受到各界投资者的广泛推崇，被誉为“炒股圣经”、“最经典的投资著作”，具有永恒的生命力。",
-			"buy_more_uri": "douban://douban.com/book/26849910/vendors_douban",
-			"null_rating_reason": "",
-			"article_intros": [],
-			"vendor_sale_price": "",
-			"has_ebook": false
-		}
-	},
-	{
-		"comment": "",
-		"rating": null,
 		"sharing_text": "https://www.douban.com/doubanapp/dispatch/book/5976544 来自@豆瓣App",
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/5976544/interest/4784662953",
 		"tags": [],
@@ -753,7 +190,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1874,
+				"count": 1877,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -915,7 +352,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2063,
+				"count": 2068,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -962,7 +399,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/37021120.jpg",
-			"min_sale_price": "¥35.4",
+			"min_sale_price": "¥33.3",
 			"press": [
 				"北京科学技术出版社"
 			],
@@ -998,7 +435,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 382,
+				"count": 383,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -1044,7 +481,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/37128565.jpg",
-			"min_sale_price": null,
+			"min_sale_price": "¥75.2",
 			"press": [
 				"中信出版社"
 			],
@@ -1057,88 +494,7 @@
 			"uri": "douban://douban.com/book/37128565",
 			"subtype": "book",
 			"intro": "这本书是中国康德拉季耶夫周期理论研究开拓者、“周期天王”周金涛的经典作品。\n从2006—2007年持续两年的大牛市到2008年次贷危机和2016年大宗商品年度反弹，周金涛先生成功把握和预测了长周期运行中的每一次重要转折，他的研究与洞见不仅为投资者提供了宝贵的宏观对冲策略，也为我们理解经济周期与人生财富命运的关系提供了重要启示。\n这本书以经济周期研究和结构主义为核心，全面而完整地展现了作者独特的逻辑框架和思维体系，记录了他在预测重要经济拐点时刻的经济原貌、理论根源与推演过程，内容覆盖了股票、大宗商品、美元、黄金以及房地产等在内的几乎所有大类资产类别。作者的核心观点是，我们人生的财富轨迹是有迹可循的，而这个轨迹就是康波周期，从某种意义上看，人生财富积累的根本就是源于对康波周期中资产价格的投资或投机。作者扎实的理论功底、翔实的数据论证以及严密的逻辑推演犹如一盏指引投资者穿越市场迷雾的明灯，帮助我们更好地理解长波周期的本质和康波中的价格波动规律，发现人生财富规划的密码。",
-			"buy_more_uri": "",
-			"null_rating_reason": "",
-			"article_intros": [],
-			"vendor_sale_price": "",
-			"has_ebook": true
-		}
-	},
-	{
-		"comment": "",
-		"rating": null,
-		"sharing_text": "https://www.douban.com/doubanapp/dispatch/book/3291970 来自@豆瓣App",
-		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/3291970/interest/4755682966",
-		"tags": [],
-		"charts": [],
-		"is_editable": false,
-		"platforms": [],
-		"vote_count": 0,
-		"create_time": "2026-01-28 19:12:01",
-		"status": "mark",
-		"id": 4755682966,
-		"is_private": false,
-		"subject": {
-			"rating": {
-				"count": 3488,
-				"max": 10,
-				"star_count": 4,
-				"value": 8
-			},
-			"controversy_reason": "",
-			"pubdate": [
-				"2009-1"
-			],
-			"pic": {
-				"large": "https://img1.doubanio.com/view/subject/l/public/s24492399.jpg",
-				"normal": "https://img1.doubanio.com/view/subject/m/public/s24492399.jpg"
-			},
-			"honor_infos": [],
-			"other_versions_count": 2,
-			"is_show": false,
-			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
-			],
-			"card_subtitle": "[美] 艾丽斯·施罗德 / 2009 / 中信出版社",
-			"book_subtitle": "巴菲特和他的财富人生",
-			"id": "3291970",
-			"author": [
-				"[美] 艾丽斯·施罗德"
-			],
-			"is_released": true,
-			"vendor_original_price": "",
-			"color_scheme": {
-				"is_dark": true,
-				"primary_color_light": "72716f",
-				"_base_color": [
-					0.09999999999999999,
-					0.02702702702702693,
-					0.7254901960784313
-				],
-				"secondary_color": "f9f7f4",
-				"_avg_color": [
-					0.08333333333333363,
-					0.03333333333333333,
-					0.23529411764705882
-				],
-				"primary_color_dark": "4c4b4a"
-			},
-			"type": "book",
-			"cover_url": "https://dou.img.lithub.cc/book/3291970.jpg",
-			"min_sale_price": null,
-			"press": [
-				"中信出版社"
-			],
-			"pages": [
-				"382"
-			],
-			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/3291970",
-			"url": "https://book.douban.com/subject/3291970/",
-			"title": "滚雪球（上）",
-			"uri": "douban://douban.com/book/3291970",
-			"subtype": "book",
-			"intro": "1939午的冬天，9岁的巴菲特在院子里玩雪。他把少量的积雪铲到一块，揉成一个雪球，然后把它放在地上慢慢滚动，雪球越滚越大……\n从此，巴菲特再也没有停下脚步，目光投向白雪皑皑的整个世界……\n沃伦·巴菲特，我们这个时代硕果仅存的商业领袖和投资大师，甚至在死后还会影响后世50年的伟大人物，终于向我们敞开了他的心扉。这本他生平唯一授权的官方传记，以从未有过的视角，揭开了巴菲特的真实人生。许多年来聚光灯下高大的“股神”终于走下神坛，以他最平实的语言、最真诚的心，娓娓道来，讲述了他78年人生中最触动人心的故事，分享了他60多年商业和投资生涯中最宝贵的经验。",
-			"buy_more_uri": "",
+			"buy_more_uri": "douban://douban.com/book/37128565/vendors_douban",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -1161,7 +517,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2561,
+				"count": 2566,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -1206,7 +562,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/26752026.jpg",
-			"min_sale_price": "¥56.4",
+			"min_sale_price": "¥53.8",
 			"press": [
 				"人民邮电出版社"
 			],
@@ -1321,7 +677,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6853,
+				"count": 6854,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -1407,7 +763,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 15528,
+				"count": 15552,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -1430,10 +786,7 @@
 			],
 			"other_versions_count": 4,
 			"is_show": false,
-			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
-				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
-			],
+			"vendor_icons": [],
 			"card_subtitle": "[美] 摩根 · 豪泽尔 / 2023 / 民主与建设出版社",
 			"book_subtitle": "财富、人性和幸福的永恒真相",
 			"id": "36415996",
@@ -1460,7 +813,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/36415996.jpg",
-			"min_sale_price": "¥19.3",
+			"min_sale_price": "¥19.5",
 			"press": [
 				"民主与建设出版社"
 			],
@@ -1477,7 +830,7 @@
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
-			"has_ebook": true
+			"has_ebook": false
 		}
 	},
 	{
@@ -1496,7 +849,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2759,
+				"count": 2769,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -1582,7 +935,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1996,
+				"count": 1997,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -1663,7 +1016,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 25281,
+				"count": 25289,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -1738,88 +1091,6 @@
 	{
 		"comment": "",
 		"rating": null,
-		"sharing_text": "https://www.douban.com/doubanapp/dispatch/book/36227281 来自@豆瓣App",
-		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36227281/interest/4722793508",
-		"tags": [],
-		"charts": [],
-		"is_editable": false,
-		"platforms": [],
-		"vote_count": 0,
-		"create_time": "2025-12-22 13:45:01",
-		"status": "mark",
-		"id": 4722793508,
-		"is_private": false,
-		"subject": {
-			"rating": {
-				"count": 169,
-				"max": 10,
-				"star_count": 4,
-				"value": 8.3
-			},
-			"controversy_reason": "",
-			"pubdate": [
-				"2023-1"
-			],
-			"pic": {
-				"large": "https://img3.doubanio.com/view/subject/l/public/s34400852.jpg",
-				"normal": "https://img3.doubanio.com/view/subject/m/public/s34400852.jpg"
-			},
-			"honor_infos": [],
-			"other_versions_count": 1,
-			"is_show": false,
-			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png"
-			],
-			"card_subtitle": "利奈特·S. 丹尼恰克（Lynette S. Danylchuk ） 凯文·J. 康纳斯（Kevin J. Connors） / 2023 / 人民邮电出版社",
-			"book_subtitle": "创伤如何使我们成为另一个人",
-			"id": "36227281",
-			"author": [
-				"利奈特·S. 丹尼恰克（Lynette S. Danylchuk ）",
-				"凯文·J. 康纳斯（Kevin J. Connors）"
-			],
-			"is_released": true,
-			"vendor_original_price": "",
-			"color_scheme": {
-				"is_dark": true,
-				"primary_color_light": "1da59b",
-				"_base_color": [
-					0.48792270531400966,
-					0.8214285714285714,
-					0.32941176470588235
-				],
-				"secondary_color": "f4f9f9",
-				"_avg_color": [
-					0.5,
-					0.06598984771573609,
-					0.7725490196078432
-				],
-				"primary_color_dark": "167f77"
-			},
-			"type": "book",
-			"cover_url": "https://dou.img.lithub.cc/book/36227281.jpg",
-			"min_sale_price": "¥34.9",
-			"press": [
-				"人民邮电出版社"
-			],
-			"pages": [
-				"341"
-			],
-			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/36227281",
-			"url": "https://book.douban.com/subject/36227281/",
-			"title": "创伤与解离",
-			"uri": "douban://douban.com/book/36227281",
-			"subtype": "book",
-			"intro": "创伤是超越人的承受能力的痛苦。反复出现的、长期的创伤刺激会形成复杂创伤。解离是人在创伤的刺激下形成的“铠甲”。\n本书从心智模型，大脑的神经生物学变化等方面深刻展现了经历复杂人际创伤的人的困境，介绍了他们在情感、记忆方面的变化，以及他们在人际关系方面出现的困难，厘清了创伤与人格发展之间的复杂关系。作者将他们丰富的临床经验提炼成了一种实用的治疗思路，提出了创伤治疗的三个阶段，并针对治疗师在实践中可能遇到的挑战提供有针对性的解决方法。\n全书细腻、温暖又不失深刻，可读性极强。对于治疗师来说，这是一本实用的治疗指南。本书适合一线的创伤治疗师和曾经历创伤的大众读者。",
-			"buy_more_uri": "douban://douban.com/book/36227281/vendors_douban",
-			"null_rating_reason": "",
-			"article_intros": [],
-			"vendor_sale_price": "",
-			"has_ebook": true
-		}
-	},
-	{
-		"comment": "",
-		"rating": null,
 		"sharing_text": "https://www.douban.com/doubanapp/dispatch/book/35875393 来自@豆瓣App",
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/35875393/interest/4704595646",
 		"tags": [],
@@ -1833,7 +1104,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 28100,
+				"count": 28108,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -1909,85 +1180,6 @@
 	{
 		"comment": "",
 		"rating": null,
-		"sharing_text": "https://www.douban.com/doubanapp/dispatch/book/25958091 来自@豆瓣App",
-		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/25958091/interest/4699144005",
-		"tags": [],
-		"charts": [],
-		"is_editable": false,
-		"platforms": [],
-		"vote_count": 0,
-		"create_time": "2025-11-25 15:53:38",
-		"status": "mark",
-		"id": 4699144005,
-		"is_private": false,
-		"subject": {
-			"rating": {
-				"count": 91,
-				"max": 10,
-				"star_count": 4,
-				"value": 7.9
-			},
-			"controversy_reason": "",
-			"pubdate": [
-				"2014-7"
-			],
-			"pic": {
-				"large": "https://img3.doubanio.com/view/subject/l/public/s27460782.jpg",
-				"normal": "https://img3.doubanio.com/view/subject/m/public/s27460782.jpg"
-			},
-			"honor_infos": [],
-			"other_versions_count": 1,
-			"is_show": false,
-			"vendor_icons": [],
-			"card_subtitle": "谭君强 / 2014 / 高等教育出版社",
-			"book_subtitle": "从经典叙事学到后经典叙事学",
-			"id": "25958091",
-			"author": [
-				"谭君强"
-			],
-			"is_released": true,
-			"vendor_original_price": "",
-			"color_scheme": {
-				"is_dark": true,
-				"primary_color_light": "a5958a",
-				"_base_color": [
-					0.06770833333333325,
-					0.16326530612244897,
-					0.7686274509803922
-				],
-				"secondary_color": "f9f6f4",
-				"_avg_color": [
-					0.06250000000000007,
-					0.16580310880829016,
-					0.7568627450980392
-				],
-				"primary_color_dark": "7f736a"
-			},
-			"type": "book",
-			"cover_url": "https://dou.img.lithub.cc/book/25958091.jpg",
-			"min_sale_price": null,
-			"press": [
-				"高等教育出版社"
-			],
-			"pages": [
-				"279"
-			],
-			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/25958091",
-			"url": "https://book.douban.com/subject/25958091/",
-			"title": "叙事学导论（第二版）",
-			"uri": "douban://douban.com/book/25958091",
-			"subtype": "book",
-			"intro": "《叙事学导论：从经典叙事学到后经典叙事学（第二版）》初版系教育部学位管理与研究生教育司推荐的研究生教学用书之一。叙事学理论自20世纪六七十年代逐渐形成以来，不断得到发展与完善，迄今仍受到国内外学界、高校与文化研究等领域的广泛关注，成为活跃的理论之一。《叙事学导论：从经典叙事学到后经典叙事学（第二版）》致力于对叙事学基本理论作系统的探讨，力图较为完整地描述出这一理论的基本框架，对涉及叙事学的一系列重要问题，诸如叙事框架的构建、叙述交流过程、叙述声音、叙述聚焦、叙述时间、人物结构模式与人物描绘等，都在理论与实践相结合的基础上，力图作出合理的阐述，以提供切入叙事学的基本途径，并运用这一理论进行实践分析。同时，《叙事学导论：从经典叙事学到后经典叙事学（第二版）》从理论发展的角度出发，对叙事学的发展作动态的描述，在以经典叙事学的探讨作为基础的情况下，对由经典叙事学向后经典叙事学的拓展以及后经典叙事学语境下的研究均作了必要的说明，而且在关注文本与语境相互关系的基础上，通过对一系列不同作品的具体分析，对后经典叙事学的研究作进一步的补充。",
-			"buy_more_uri": "",
-			"null_rating_reason": "",
-			"article_intros": [],
-			"vendor_sale_price": "",
-			"has_ebook": false
-		}
-	},
-	{
-		"comment": "",
-		"rating": null,
 		"sharing_text": "https://www.douban.com/doubanapp/dispatch/book/35706967 来自@豆瓣App",
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/35706967/interest/4699142388",
 		"tags": [],
@@ -2001,10 +1193,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2781,
+				"count": 2784,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 8.5
+				"value": 8.6
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -2084,7 +1276,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2050,
+				"count": 2051,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -2152,244 +1344,6 @@
 	{
 		"comment": "",
 		"rating": null,
-		"sharing_text": "https://www.douban.com/doubanapp/dispatch/book/35217876 来自@豆瓣App",
-		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/35217876/interest/4697879286",
-		"tags": [],
-		"charts": [],
-		"is_editable": false,
-		"platforms": [],
-		"vote_count": 0,
-		"create_time": "2025-11-23 23:47:05",
-		"status": "mark",
-		"id": 4697879286,
-		"is_private": false,
-		"subject": {
-			"rating": {
-				"count": 0,
-				"max": 10,
-				"star_count": 0,
-				"value": 0
-			},
-			"controversy_reason": "",
-			"pubdate": [
-				"2020-10-7"
-			],
-			"pic": {
-				"large": "https://img1.doubanio.com/view/subject/l/public/s33739518.jpg",
-				"normal": "https://img1.doubanio.com/view/subject/m/public/s33739518.jpg"
-			},
-			"honor_infos": [],
-			"other_versions_count": 0,
-			"is_show": false,
-			"vendor_icons": [],
-			"card_subtitle": "櫛木理宇 / 2020 / 幻冬舎",
-			"book_subtitle": "",
-			"id": "35217876",
-			"author": [
-				"櫛木理宇"
-			],
-			"is_released": true,
-			"vendor_original_price": "",
-			"color_scheme": {
-				"is_dark": true,
-				"primary_color_light": "a59fa1",
-				"_base_color": [
-					0.9444444444444446,
-					0.03797468354430384,
-					0.6196078431372549
-				],
-				"secondary_color": "f9f4f6",
-				"_avg_color": [
-					0,
-					0.03947368421052636,
-					0.596078431372549
-				],
-				"primary_color_dark": "7f7a7c"
-			},
-			"type": "book",
-			"cover_url": "https://dou.img.lithub.cc/book/35217876.jpg",
-			"min_sale_price": null,
-			"press": [
-				"幻冬舎"
-			],
-			"pages": [],
-			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/35217876",
-			"url": "https://book.douban.com/subject/35217876/",
-			"title": "殺人依存症",
-			"uri": "douban://douban.com/book/35217876",
-			"subtype": "book",
-			"intro": "",
-			"buy_more_uri": "",
-			"null_rating_reason": "暂无评分",
-			"article_intros": [],
-			"vendor_sale_price": "",
-			"has_ebook": false
-		}
-	},
-	{
-		"comment": "",
-		"rating": null,
-		"sharing_text": "https://www.douban.com/doubanapp/dispatch/book/36613084 来自@豆瓣App",
-		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36613084/interest/4694666907",
-		"tags": [],
-		"charts": [],
-		"is_editable": false,
-		"platforms": [],
-		"vote_count": 0,
-		"create_time": "2025-11-20 09:55:31",
-		"status": "mark",
-		"id": 4694666907,
-		"is_private": false,
-		"subject": {
-			"rating": {
-				"count": 469,
-				"max": 10,
-				"star_count": 4,
-				"value": 7.9
-			},
-			"controversy_reason": "",
-			"pubdate": [
-				"2023-11"
-			],
-			"pic": {
-				"large": "https://img1.doubanio.com/view/subject/l/public/s34675280.jpg",
-				"normal": "https://img1.doubanio.com/view/subject/m/public/s34675280.jpg"
-			},
-			"honor_infos": [],
-			"other_versions_count": 1,
-			"is_show": false,
-			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
-				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
-			],
-			"card_subtitle": "[英] 罗素·福斯特 / 2023 / 海峡书局",
-			"book_subtitle": "如何利用生物钟活得更健康",
-			"id": "36613084",
-			"author": [
-				"[英] 罗素·福斯特"
-			],
-			"is_released": true,
-			"vendor_original_price": "",
-			"color_scheme": {
-				"is_dark": true,
-				"primary_color_light": "8099a5",
-				"_base_color": [
-					0.5555555555555555,
-					0.22566371681415925,
-					0.8862745098039215
-				],
-				"secondary_color": "f4f8f9",
-				"_avg_color": [
-					0.5641025641025642,
-					0.2484076433121019,
-					0.615686274509804
-				],
-				"primary_color_dark": "62757f"
-			},
-			"type": "book",
-			"cover_url": "https://dou.img.lithub.cc/book/36613084.jpg",
-			"min_sale_price": null,
-			"press": [
-				"海峡书局"
-			],
-			"pages": [
-				"368"
-			],
-			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/36613084",
-			"url": "https://book.douban.com/subject/36613084/",
-			"title": "绝佳时间",
-			"uri": "douban://douban.com/book/36613084",
-			"subtype": "book",
-			"intro": "21世纪，我们越来越多地将日常活动推到晚上，在天黑后长时间工作、锻炼和社交，因此忽视了我们的身体仍受24小时生物钟支配这一客观事实，从而导致以睡眠障碍为代表的一系列健康问题。\n来自牛津大学的罗素·福斯特教授在本书中分享了他一生的研究，用令人信服的科学事实展示了一天中的不同时间对我们的健康可能产生的惊人影响，提出顺应生物钟的“绝佳时间”，事半功倍收获健康的理念，并提供了从睡眠、锻炼到进食、服药的全方位实用性建议，让你睡得更香、精力充沛，幸福感更强。\n★《星期日泰晤士报》畅销书。《科学》《华尔街日报》《泰晤士报》联袂推荐。\n★牛津大学教授、英国皇家学会会员罗素·福斯特教授最新研究成果，解答“我们为什么要睡觉”，以及如何利用生物钟解决睡眠难题。针对失眠、嗜睡、易醒等多种睡眠障碍，给出4大板块24条睡眠解决方案。\n★认清众多睡眠“误区”，提升生活质量。8小时睡眠是必须的吗？睡前不能用自带背光的电子阅读器吗？上夜班的人更容易离婚是真的吗？理解睡眠背后的科学，并据此采取对应措施，收获优质生活。\n★何时锻炼效果最佳？什么时候吃饭不容易胖？怎么有效倒时差？生物钟科学不仅关乎睡眠，还影响着人类的认知能力、记忆力、免疫力、新陈代谢、精神疾病等。本书给出从进食、锻炼到服药的全方位实用性建议，切实解决日常健康难题。\n尊重我们自然的身体节奏真的很重要……这是一本在很多方面都堪称典范的科普书。充满了令人惊讶和有用的事实……与许多具有类似标题的科学书籍不同，它真的可能“彻底改变”你的生活。——《泰晤士报》\n罗素·福斯特带领读者展开一场生动而博学的探索，了解睡眠和生物节律。这本书既是科学论文，又是自助指南，同时也是对社会和个人生活方式改变的呼吁，以更好地优先考虑这些生物功能。——《科学》\n几乎所有人都会从这位世界领先的昼夜神经科学专家的启示性指南中受益。——《书商》编辑之选",
-			"buy_more_uri": "",
-			"null_rating_reason": "",
-			"article_intros": [],
-			"vendor_sale_price": "",
-			"has_ebook": true
-		}
-	},
-	{
-		"comment": "",
-		"rating": null,
-		"sharing_text": "https://www.douban.com/doubanapp/dispatch/book/30315038 来自@豆瓣App",
-		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/30315038/interest/4689816289",
-		"tags": [],
-		"charts": [],
-		"is_editable": false,
-		"platforms": [],
-		"vote_count": 0,
-		"create_time": "2025-11-14 12:04:55",
-		"status": "mark",
-		"id": 4689816289,
-		"is_private": false,
-		"subject": {
-			"rating": {
-				"count": 1412,
-				"max": 10,
-				"star_count": 5,
-				"value": 9.7
-			},
-			"controversy_reason": "",
-			"pubdate": [
-				"1975-12"
-			],
-			"pic": {
-				"large": "https://img3.doubanio.com/view/subject/l/public/s34563977.jpg",
-				"normal": "https://img3.doubanio.com/view/subject/m/public/s34563977.jpg"
-			},
-			"honor_infos": [],
-			"other_versions_count": 1,
-			"is_show": false,
-			"vendor_icons": [],
-			"card_subtitle": "毛泽东 / 1975 / 人民出版社",
-			"book_subtitle": "",
-			"id": "30315038",
-			"author": [
-				"毛泽东"
-			],
-			"is_released": true,
-			"vendor_original_price": "",
-			"color_scheme": {
-				"is_dark": true,
-				"primary_color_light": "a5a3a5",
-				"_base_color": [
-					0.8333333333333334,
-					0.013100436681222785,
-					0.8980392156862745
-				],
-				"secondary_color": "f9f4f9",
-				"_avg_color": [
-					0,
-					0.1327433628318583,
-					0.8862745098039215
-				],
-				"primary_color_dark": "7f7d7f"
-			},
-			"type": "book",
-			"cover_url": "https://dou.img.lithub.cc/book/30315038.jpg",
-			"min_sale_price": null,
-			"press": [
-				"人民出版社"
-			],
-			"pages": [
-				"107"
-			],
-			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/30315038",
-			"url": "https://book.douban.com/subject/30315038/",
-			"title": "论持久战",
-			"uri": "douban://douban.com/book/30315038",
-			"subtype": "book",
-			"intro": "本版《论持久战》一书，是根锯一九五二年八月出版的《毛泽东选集》第二卷所载原文重印的。其中的注释，按照单行本的需要，曾经中共中央毛泽东选集出版委员会作了一些增减和修改。",
-			"buy_more_uri": "",
-			"null_rating_reason": "",
-			"article_intros": [],
-			"vendor_sale_price": "",
-			"has_ebook": false
-		}
-	},
-	{
-		"comment": "",
-		"rating": null,
 		"sharing_text": "https://www.douban.com/doubanapp/dispatch/book/34914941 来自@豆瓣App",
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/34914941/interest/4688196334",
 		"tags": [],
@@ -2403,10 +1357,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1582,
+				"count": 1586,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.8
+				"value": 7.9
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -2484,7 +1438,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 770,
+				"count": 771,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -2553,85 +1507,6 @@
 	{
 		"comment": "",
 		"rating": null,
-		"sharing_text": "https://www.douban.com/doubanapp/dispatch/book/35578739 来自@豆瓣App",
-		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/35578739/interest/4685391590",
-		"tags": [],
-		"charts": [],
-		"is_editable": false,
-		"platforms": [],
-		"vote_count": 0,
-		"create_time": "2025-11-08 17:21:46",
-		"status": "mark",
-		"id": 4685391590,
-		"is_private": false,
-		"subject": {
-			"rating": {
-				"count": 219,
-				"max": 10,
-				"star_count": 4,
-				"value": 7.9
-			},
-			"controversy_reason": "",
-			"pubdate": [
-				"2021-9"
-			],
-			"pic": {
-				"large": "https://img3.doubanio.com/view/subject/l/public/s34006213.jpg",
-				"normal": "https://img3.doubanio.com/view/subject/m/public/s34006213.jpg"
-			},
-			"honor_infos": [],
-			"other_versions_count": 2,
-			"is_show": false,
-			"vendor_icons": [],
-			"card_subtitle": "[美]布鲁斯·格雷森 / 2021 / 中信出版集团",
-			"book_subtitle": "关于濒死体验的科学 一个医生的濒死体验报告",
-			"id": "35578739",
-			"author": [
-				"[美]布鲁斯·格雷森"
-			],
-			"is_released": true,
-			"vendor_original_price": "",
-			"color_scheme": {
-				"is_dark": false,
-				"primary_color_light": "e4eff2",
-				"_base_color": [
-					0.5357142857142859,
-					0.0573770491803279,
-					0.9568627450980393
-				],
-				"secondary_color": "f4f8f9",
-				"_avg_color": [
-					0.5518518518518518,
-					0.18828451882845193,
-					0.9372549019607843
-				],
-				"primary_color_dark": "e4eff2"
-			},
-			"type": "book",
-			"cover_url": "https://dou.img.lithub.cc/book/35578739.jpg",
-			"min_sale_price": null,
-			"press": [
-				"中信出版集团"
-			],
-			"pages": [
-				"344"
-			],
-			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/35578739",
-			"url": "https://book.douban.com/subject/35578739/",
-			"title": "看见生命",
-			"uri": "douban://douban.com/book/35578739",
-			"subtype": "book",
-			"intro": "自古以来，就有关于濒死体验的报道。但对于濒死体验，医学界普遍选择了忽视，认为这是“人类大脑的诡计”或体验者的幻觉，因为人们大都倾向于将死亡视为意识的终结、生存的终结。对许多人来说，濒死体验是令人恐惧的，它会引发体验者强烈的恐惧和焦虑。\n五十年前，精神科医生布鲁斯·格雷森博士通过偶然的机会，发现一位患者产生了濒死体验——她在昏迷时，“看到”了另一间屋子里的格雷森领带上的污渍。为了探索这个不解之谜，格雷森博士从此踏上了艰难的科研之旅。\n本书涵盖了这位精神病学教授数十年来对濒死体验坚持不懈的研究记录。在书中，格雷森博士从科学的角度出发，基于其丰富真实的临床案例和翔实的研究数据，告诉我们什么是濒死体验，并讨论了濒死体验的科学性和意义。更重要的是，格雷森博士认为，通过对濒死体验的深入了解，能够帮助我们提升对生命与死亡的认知，增强对意识的认知，从而拥有正确的生死观，学会发自内心地热爱生命，珍惜当下的生活，找到人生的意义。",
-			"buy_more_uri": "",
-			"null_rating_reason": "",
-			"article_intros": [],
-			"vendor_sale_price": "",
-			"has_ebook": false
-		}
-	},
-	{
-		"comment": "",
-		"rating": null,
 		"sharing_text": "https://www.douban.com/doubanapp/dispatch/book/37481942 来自@豆瓣App",
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/37481942/interest/4685390893",
 		"tags": [],
@@ -2645,7 +1520,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4281,
+				"count": 4296,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -2698,7 +1573,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/37481942.jpg",
-			"min_sale_price": "¥36.9",
+			"min_sale_price": "¥38.7",
 			"press": [
 				"江苏凤凰文艺出版社"
 			],
@@ -2813,10 +1688,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 402,
+				"count": 403,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.1
+				"value": 8.2
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -2859,7 +1734,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/36858435.jpg",
-			"min_sale_price": null,
+			"min_sale_price": "¥32.4",
 			"press": [
 				"中国人民大学出版社"
 			],
@@ -2872,7 +1747,7 @@
 			"uri": "douban://douban.com/book/36858435",
 			"subtype": "book",
 			"intro": "药物滥用是全球最严重的健康问题之一。作为一位知名的神经科学家，同时也是一个正在康复的成瘾者，格里塞尔以感同身受的笔触，深入剖析了这场灾难的科学本质。她用自己的亲身经历揭示了药物的作用机制及其对大脑的危险控制，重点阐释了滥用药物会给大脑和行为造成怎样的变化，还为对抗眼下泛滥的成瘾问题提供了至关重要的新见解。\n本书以其生动、坦诚、清晰晓畅的文风从同类作品中脱颖而出，是一部不可多得的科普佳作。",
-			"buy_more_uri": "",
+			"buy_more_uri": "douban://douban.com/book/36858435/vendors_douban",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -2895,7 +1770,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3682,
+				"count": 3684,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -2983,7 +1858,1167 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2332,
+				"count": 2334,
+				"max": 10,
+				"star_count": 4,
+				"value": 7.9
+			},
+			"controversy_reason": "",
+			"pubdate": [
+				"2024-3-18"
+			],
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/l/public/s34792134.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/m/public/s34792134.jpg"
+			},
+			"honor_infos": [],
+			"other_versions_count": 5,
+			"is_show": false,
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
+			"card_subtitle": "[日]  横山秀夫 / 2024 / 北京日报出版社",
+			"book_subtitle": "",
+			"id": "36462621",
+			"author": [
+				"[日]  横山秀夫"
+			],
+			"is_released": true,
+			"vendor_original_price": "",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "722c2c",
+				"_base_color": [
+					0,
+					0.6153846153846154,
+					0.050980392156862744
+				],
+				"secondary_color": "f9f4f4",
+				"_avg_color": [
+					0.017543859649122806,
+					0.4871794871794872,
+					0.15294117647058825
+				],
+				"primary_color_dark": "4c1d1d"
+			},
+			"type": "book",
+			"cover_url": "https://dou.img.lithub.cc/book/36462621.jpg",
+			"min_sale_price": null,
+			"press": [
+				"北京日报出版社"
+			],
+			"pages": [
+				"296"
+			],
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/36462621",
+			"url": "https://book.douban.com/subject/36462621/",
+			"title": "追诉时效倒计时",
+			"uri": "douban://douban.com/book/36462621",
+			"subtype": "book",
+			"intro": "◆刑警的直觉有多可怕？只一眼就能看出猫腻！\n【作品介绍】\n日本刑侦小说泰斗横山秀夫生涯代表作品，横扫推理榜单！\n横山秀夫是日本推理作家协会奖、德国犯罪小说奖（国际奖）得主，是日本首个入围国际匕首奖的作家。\n如果推理小说有诺贝尔奖，横山秀夫的作品将当之无愧。——德国《时代周报》\n运钞车抢劫杀人案、白骨抛尸案、灭门惨案……6个短篇掀起9场绝命追凶！\n作者亲笔签名印签版。\n翻开本书，看直觉敏锐的刑警如何识破真凶！\n【故事简介】\nF县警本部有3名声名赫赫的“恶鬼刑警”——擅长逻辑推演的“青面修罗”朽木、擅施谋略的“冷血动物”楠见，还有有野兽般第六感的“探案天才”村濑。他们视案子如命，绝不放过任何一个狡猾的凶手。\n当已招认的凶手突然全盘翻供，拿出不在场证明时，朽木敏锐地嗅出了此举真正的动机……\n当嫌疑人逃亡15年，即将因追诉时效到期而脱罪时，楠见从多年前的一则报道中察觉出了异样……\n当警方彻夜蹲守公寓出入口，嫌疑人还是人间蒸发时，村濑从看不见的漏洞里窥到了事情的根源……\n运钞车抢劫杀人案、白骨抛尸案、灭门惨案、投毒案……6个短篇掀起9场绝命追凶！在经验老到、直觉敏锐的“恶鬼刑警”面前，所有的伪装都将露出原形！\n/第三时效/  简介\n一桩15年未破的强奸谋杀案，一场利用追诉时效的生死博弈！\n15年前，雪绘被人强奸，丈夫也惨遭杀害，凶手却从此下落不明。不久，雪绘生下一个女儿。凶手认定自己就是孩子的父亲。\n警方认为凶手会在追诉时效到期、成功脱罪后联系雪绘，于是在她家布下监控。他们想利用凶手对追诉时效的误判抓住他，因为此案的追诉时效比常规的晚7天。\n然而7天过去，凶手却迟迟没有现身。\n午夜11:58……11:59……追诉时效即将到期。就在警方要放弃时，电话铃声突然响起……",
+			"buy_more_uri": "",
+			"null_rating_reason": "",
+			"article_intros": [],
+			"vendor_sale_price": "",
+			"has_ebook": true
+		}
+	},
+	{
+		"comment": "",
+		"rating": null,
+		"sharing_text": "https://www.douban.com/doubanapp/dispatch/book/36858470 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36858470/interest/4683048440",
+		"tags": [],
+		"charts": [],
+		"is_editable": false,
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2025-11-05 14:41:37",
+		"status": "mark",
+		"id": 4683048440,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 327,
+				"max": 10,
+				"star_count": 4.5,
+				"value": 9.1
+			},
+			"controversy_reason": "",
+			"pubdate": [
+				"2024-7-1"
+			],
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/l/public/s34889926.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/m/public/s34889926.jpg"
+			},
+			"honor_infos": [],
+			"other_versions_count": 4,
+			"is_show": false,
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
+			"card_subtitle": "[英] 布莱恩·麦基 编 / 2024 / 上海三联书店",
+			"book_subtitle": "",
+			"id": "36858470",
+			"author": [
+				"[英] 布莱恩·麦基 编"
+			],
+			"is_released": true,
+			"vendor_original_price": "",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "a59e9c",
+				"_base_color": [
+					0.03030303030303022,
+					0.056410256410256356,
+					0.7647058823529411
+				],
+				"secondary_color": "f9f5f4",
+				"_avg_color": [
+					0.6666666666666666,
+					0.030120481927710906,
+					0.6509803921568628
+				],
+				"primary_color_dark": "7f7978"
+			},
+			"type": "book",
+			"cover_url": "https://dou.img.lithub.cc/book/36858470.jpg",
+			"min_sale_price": "¥52.0",
+			"press": [
+				"上海三联书店"
+			],
+			"pages": [
+				"504"
+			],
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/36858470",
+			"url": "https://book.douban.com/subject/36858470/",
+			"title": "思想家",
+			"uri": "douban://douban.com/book/36858470",
+			"subtype": "book",
+			"intro": "BBC开创性哲学对谈录I\n豆瓣热门访谈图书全新修订再版\n15次对话串起20世纪哲学流派\n切中要点的提问与平实敞亮的说理\n于不断重述的问题中为心智投下光亮\n--------------------------------------\n◎内容简介\n为什么要去关注那些讨论基本问题的思想家？一扇门的打开如何引起其他门的打开或关闭？\n将哲学置于时代的背景下，作者与当代领衔哲学家展开对话，对谈在20 世纪占据主流并延续至今的哲学流派，审视哲学的常规分支，包括道德哲学、政治哲学、科学哲学等，并结合相关历史去理解各流派的最新发展，进而发现思想家如何重述问题，如何看待自由、未来以及人生的价值和意义。寻找一条新的思考道路的尝试必然是摸索性的，这些一直在路上的思想家用切身行动告诉我们，不要听信权威，而要看看事实，然后自己判断；只有投身于不同于技术性思考的反思中，才能为自己定位。\n--------------------------------------\n◎作品看点\n★ BBC开创性哲学对谈节目《思想家》精彩再现。本书基于1978年BBC首档哲学对谈节目《思想家》（Men of Ideas）。作者麦基不仅是资深节目主持人，曾被英国皇家电视协会授予银质奖章，另著有多部哲学专著，具有过人的哲学素养，开创了以大众媒体讲哲学的先例。在本书中，麦基以化繁为简的功力将深奥的哲学问题“转译”给大众听。\n★ 融现实与理论，当代领衔哲学家化身各领域指路人。在沙发一侧，以赛亚·伯林、查尔斯·泰勒、马尔库塞、艾耶尔、伯纳德·威廉斯、蒯因、乔姆斯基、罗纳德·德沃金、艾丽丝·默多克等依次登场，畅谈他们各自所属或研究多年的哲学流派，以此呈现哲学于历史中的发展。\n★ 15次对话串起20世纪哲学流派，一部有深度的哲学普及书。从法兰克福学派、存在主义、逻辑实证主义、语言分析哲学、道德哲学、语言哲学、科学哲学到哲学与文学、哲学与政治、哲学与社会，审视哲学的分支，探究20世纪的哲学问题与时代问题，以全新的视野去看待过去的一个世纪与今天的世纪。\n★ 跟随当代哲人的思考，发现看待日常生活的多样视角。以赛亚·伯林说，伟大哲学家的核心视域本质上都很简单；海德格尔喜欢把自己说成是一个在路上的思想家；维特根斯坦的哲学是改变读者整个智性生活的工具；威廉斯说，要到平常物事之中并经由平常物事去寻求理解……看看事实，然后自己判断，去看到生活的丰富与多样。\n★ 豆瓣热门访谈图书全新修订再版。本书前一版长期位列豆瓣热门访谈图书TOP20，被读者评价为“不仅是最好的哲学入门书，也是思想访谈极优秀的模板” “人类智慧顶级的交锋”“当代哲学界的‘十三邀’”……全新译本于20年后重版出来，以其简练、清晰带来了解20世纪西方哲学思想的第一手素材。\n--------------------------------------\n◎媒体推荐\n实现了一项几乎不可能的壮举，即在不损害知识完整性以及失去收视率的情况下向大众呈现深奥的哲学问题。\n——《每日电讯报》\n在严肃性和视野方面，以往任何全民电视广播网上都没有像它这样的节目。\n——《泰晤士报》\n高阶的智识训练和娱乐。\n——《观察家报》\n自罗素的《西方哲学史》后，对于一般读者来说，再没有比此书更清晰、更富启发性的当代哲学著作了。\n——《书与书人》",
+			"buy_more_uri": "douban://douban.com/book/36858470/vendors_douban",
+			"null_rating_reason": "",
+			"article_intros": [],
+			"vendor_sale_price": "",
+			"has_ebook": true
+		}
+	},
+	{
+		"comment": "",
+		"rating": null,
+		"sharing_text": "https://www.douban.com/doubanapp/dispatch/book/2252637 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/2252637/interest/4683047299",
+		"tags": [],
+		"charts": [],
+		"is_editable": false,
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2025-11-05 14:39:39",
+		"status": "mark",
+		"id": 4683047299,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 955,
+				"max": 10,
+				"star_count": 4,
+				"value": 8
+			},
+			"controversy_reason": "",
+			"pubdate": [
+				"2007-9"
+			],
+			"pic": {
+				"large": "https://img3.doubanio.com/view/subject/l/public/s2911867.jpg",
+				"normal": "https://img3.doubanio.com/view/subject/m/public/s2911867.jpg"
+			},
+			"honor_infos": [],
+			"other_versions_count": 6,
+			"is_show": false,
+			"vendor_icons": [],
+			"card_subtitle": "罗伯特·格林 / 2007 / 东方出版中心",
+			"book_subtitle": "",
+			"id": "2252637",
+			"author": [
+				"罗伯特·格林"
+			],
+			"is_released": true,
+			"vendor_original_price": "",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "a54643",
+				"_base_color": [
+					0.004901960784313745,
+					0.591304347826087,
+					0.45098039215686275
+				],
+				"secondary_color": "f9f5f4",
+				"_avg_color": [
+					0.01626016260162601,
+					0.6307692307692307,
+					0.5098039215686274
+				],
+				"primary_color_dark": "7f3634"
+			},
+			"type": "book",
+			"cover_url": "https://dou.img.lithub.cc/book/2252637.jpg",
+			"min_sale_price": "¥131.29",
+			"press": [
+				"东方出版中心"
+			],
+			"pages": [
+				"366"
+			],
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/2252637",
+			"url": "https://book.douban.com/subject/2252637/",
+			"title": "诱惑的艺术",
+			"uri": "douban://douban.com/book/2252637",
+			"subtype": "book",
+			"intro": "《诱惑的艺术》的目的是使你具备说服他人、讨人喜欢的能力，这样你周围的人会在不知不觉中慢慢丧失防卫的意识，被你俘获。这是优雅时代的战争艺术。\n在每次诱惑中，你都要分析并了解两个方面的要素：首先是你自己，你身上有什么样的诱惑特性；其次是对方，你要采取怎样的行动才能攻破对方的防御之墙，让对方臣服于你。这两个方面同样重要。如果不知道你自身性格中能够吸引别人的特点就草率进攻，你会成为机械的诱惑者，诱惑之术笨拙而生硬。如果你只依赖自己的诱惑天赋而忽视对方的情绪性格，就会犯下极大的错误，并且严重制约你的发展。\n因此，《诱惑的艺术》分为两个部分。第一部分“谁是诱惑者”描述了9种诱惑类型，还附加了反诱惑因素。这些诱惑类型可以帮助你意识到自己性格中与生俱来的诱惑潜能，这是任何诱惑中最基本的要素。第二部分是“实施诱惑”，这部分囊括了24种诱惑招数和策略，会指导你打造魔咒，击毁对方的防范意识，为你的诱惑增加激情，平添力量，诱导对方彻底臣服。作为连接这两个部分的桥梁，中间还有一章探讨了诱惑对象18种——每一种的生命都有某种缺憾，都有待你填补的空虚之感。了解对方是怎样的性格，不但能帮助你清楚地认识到自己的诱惑特长，更能让你在实施诱惑时有的放矢。忽略哪一个部分都会给你的诱惑造成缺憾。",
+			"buy_more_uri": "douban://douban.com/book/2252637/vendors_douban",
+			"null_rating_reason": "",
+			"article_intros": [],
+			"vendor_sale_price": "",
+			"has_ebook": false
+		}
+	},
+	{
+		"comment": "",
+		"rating": null,
+		"sharing_text": "https://www.douban.com/doubanapp/dispatch/book/37279279 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/37279279/interest/4678875582",
+		"tags": [],
+		"charts": [],
+		"is_editable": false,
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2025-10-31 09:23:04",
+		"status": "mark",
+		"id": 4678875582,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 10845,
+				"max": 10,
+				"star_count": 4,
+				"value": 8.3
+			},
+			"controversy_reason": "",
+			"pubdate": [
+				"2025-4"
+			],
+			"pic": {
+				"large": "https://img1.doubanio.com/view/subject/l/public/s35106938.jpg",
+				"normal": "https://img1.doubanio.com/view/subject/m/public/s35106938.jpg"
+			},
+			"honor_infos": [
+				{
+					"kind": "book",
+					"uri": "douban://douban.com/subject_collection/ECFRAC5QA?type=rank&category=book&rank_type=year",
+					"rank": 5,
+					"title": "豆瓣2025年度再版佳作"
+				}
+			],
+			"other_versions_count": 8,
+			"is_show": false,
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
+			"card_subtitle": "[法]弗朗索瓦·莫里亚克 / 2025 / 四川文艺出版社",
+			"book_subtitle": "",
+			"id": "37279279",
+			"author": [
+				"[法]弗朗索瓦·莫里亚克"
+			],
+			"is_released": true,
+			"vendor_original_price": "",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "938ea5",
+				"_base_color": [
+					0.7023809523809524,
+					0.14070351758793978,
+					0.7803921568627451
+				],
+				"secondary_color": "f5f4f9",
+				"_avg_color": [
+					0.6987179487179488,
+					0.14606741573033705,
+					0.6980392156862745
+				],
+				"primary_color_dark": "716d7f"
+			},
+			"type": "book",
+			"cover_url": "https://dou.img.lithub.cc/book/37279279.jpg",
+			"min_sale_price": "¥29.0",
+			"press": [
+				"四川文艺出版社"
+			],
+			"pages": [
+				"240"
+			],
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/37279279",
+			"url": "https://book.douban.com/subject/37279279/",
+			"title": "蛇结",
+			"uri": "douban://douban.com/book/37279279",
+			"subtype": "book",
+			"intro": "★ 诺奖得主浸透人性毒液的惊世之作，法国文学殿堂级心理剖析范本\n以手术刀般的笔锋剖解了爱情、婚姻、亲情中交织而成的致命心结，写尽人性暗河里的仇恨与救赎。1952年诺贝尔文学奖颁奖词称其“以精神洞察的深度和艺术强度，揭示了人类生活的戏剧”\n★ 誉满全球的文学巨擘，加缪、 三岛由纪夫受其影响\n入选法国伽利玛出版社“七星文库”文学珍本系列及巴黎高师哲学系必读书单；加缪评价“他让罪孽散发出摄人心魄的诗意”（伽利玛出版社《加缪全集》第四卷），三岛由纪夫在其启发下写出《爱的饥渴》\n★ 触达婚姻与家庭背后的“蛇结”，每个困在亲密关系中的现代人都能照见自己\n亲密关系中的种种不幸与痛苦，大多来自盘踞人性深处的“蛇结”：我们只相信自己愿意相信的东西，以此来加固对他人的偏见。当信任坍塌为猜忌，当交谈静默为沉寂，唯有斩断“蛇结”，才能从自我编织的桎梏中解放\n★ 《窄门》译者顾琪静法语直译，更好读、更考究的全新译本\n以冷冽诗性语言还原原著密匝阴郁的文风，消弭翻译障碍，更符合现代中文习惯\n\n★ 资深设计师broussaille私制操刀装帧，精装小开本收藏阅读无负担\n127*184mm便携小开本，内文木浆胶版纸，护封绚烂，内封凛冽，一眼抵达莫里亚克笔下的精神世界\n————————\n律师路易出身低微，吝啬财富而又恶毒冷血，将自己的一生困在猜忌与报复的牢笼中。临老之际，他写下一封控诉妻儿的遗书，在信中他倾泻怨念，控诉妻子过往的情史，斥责她对自己的冷淡，憎恶子女觊觎他的遗产。他精心筹谋，百般算计，计划将财产交给私生子来报复家人。然而，一场意外病危让他的控诉和仇恨化为乌有，遗书遂变为自白和忏悔。死亡到来之际，他直面被怨恨豢养的扭曲灵魂，在爱与信仰中解开缠绕一生的“蛇结”。",
+			"buy_more_uri": "douban://douban.com/book/37279279/vendors_douban",
+			"null_rating_reason": "",
+			"article_intros": [],
+			"vendor_sale_price": "",
+			"has_ebook": true
+		}
+	},
+	{
+		"comment": "",
+		"rating": null,
+		"sharing_text": "https://www.douban.com/doubanapp/dispatch/book/4766921 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/4766921/interest/4678054628",
+		"tags": [],
+		"charts": [],
+		"is_editable": false,
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2025-10-30 02:19:12",
+		"status": "mark",
+		"id": 4678054628,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 4220,
+				"max": 10,
+				"star_count": 4.5,
+				"value": 9
+			},
+			"controversy_reason": "",
+			"pubdate": [
+				"2010-9"
+			],
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/l/public/s4494484.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/m/public/s4494484.jpg"
+			},
+			"honor_infos": [],
+			"other_versions_count": 12,
+			"is_show": false,
+			"vendor_icons": [],
+			"card_subtitle": "[法] 萧沆 / 2010 / 浙江大学出版社",
+			"book_subtitle": "",
+			"id": "4766921",
+			"author": [
+				"[法] 萧沆"
+			],
+			"is_released": true,
+			"vendor_original_price": "",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "720f14",
+				"_base_color": [
+					0.9923371647509578,
+					0.8613861386138615,
+					0.396078431372549
+				],
+				"secondary_color": "f9f4f5",
+				"_avg_color": [
+					0.9939024390243902,
+					0.766355140186916,
+					0.4196078431372549
+				],
+				"primary_color_dark": "4c0a0d"
+			},
+			"type": "book",
+			"cover_url": "https://dou.img.lithub.cc/book/4766921.jpg",
+			"min_sale_price": "¥290.0",
+			"press": [
+				"浙江大学出版社"
+			],
+			"pages": [
+				"306"
+			],
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/4766921",
+			"url": "https://book.douban.com/subject/4766921/",
+			"title": "解体概要",
+			"uri": "douban://douban.com/book/4766921",
+			"subtype": "book",
+			"intro": "本书是萧沆的代表作，以片段写作的方式，呈现了真实的人生经验，它会破坏你我所有的信念，从心灵到肉体、从宗教到哲学、从出生到终结，任何既定想法，都会在这本书的阅读过程中，全面解体。本书是萧沆的第一部法文作品，被认为“足令法文增辉”，并获法国里瓦罗尔（RIVAROL）奖。",
+			"buy_more_uri": "douban://douban.com/book/4766921/vendors_douban",
+			"null_rating_reason": "",
+			"article_intros": [],
+			"vendor_sale_price": "",
+			"has_ebook": false
+		}
+	},
+	{
+		"comment": "",
+		"rating": null,
+		"sharing_text": "https://www.douban.com/doubanapp/dispatch/book/35553460 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/35553460/interest/4678037593",
+		"tags": [],
+		"charts": [],
+		"is_editable": false,
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2025-10-30 01:31:13",
+		"status": "mark",
+		"id": 4678037593,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 495,
+				"max": 10,
+				"star_count": 3.5,
+				"value": 6.7
+			},
+			"controversy_reason": "",
+			"pubdate": [
+				"2021-10"
+			],
+			"pic": {
+				"large": "https://img1.doubanio.com/view/subject/l/public/s34000480.jpg",
+				"normal": "https://img1.doubanio.com/view/subject/m/public/s34000480.jpg"
+			},
+			"honor_infos": [],
+			"other_versions_count": 2,
+			"is_show": false,
+			"vendor_icons": [],
+			"card_subtitle": "[日] 小中千昭 / 2021 / 中国友谊出版公司",
+			"book_subtitle": "",
+			"id": "35553460",
+			"author": [
+				"[日] 小中千昭"
+			],
+			"is_released": true,
+			"vendor_original_price": "",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "726c68",
+				"_base_color": [
+					0.06140350877192965,
+					0.08837209302325576,
+					0.8431372549019608
+				],
+				"secondary_color": "f9f6f4",
+				"_avg_color": [
+					0.032258064516129004,
+					0.24799999999999991,
+					0.49019607843137253
+				],
+				"primary_color_dark": "4c4845"
+			},
+			"type": "book",
+			"cover_url": "https://dou.img.lithub.cc/book/35553460.jpg",
+			"min_sale_price": null,
+			"press": [
+				"中国友谊出版公司"
+			],
+			"pages": [
+				"336"
+			],
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/35553460",
+			"url": "https://book.douban.com/subject/35553460/",
+			"title": "什么才是真正的恐怖",
+			"uri": "douban://douban.com/book/35553460",
+			"subtype": "book",
+			"intro": "《午夜凶铃》编剧、《咒怨》导演\n皆深受影响、一致推崇\n《迪迦奥特曼》《玲音》《怪化猫》编剧、日式恐怖灵魂人物小中千昭，首开「午夜讲坛」\n恐怖影史×网络怪谈×神秘民俗×都市传说\n怪奇脑洞巡游展，创作秘法大放送\n恐怖故事为何让人又爱又怕？满足你的全部好奇！\n（*阅读前请确定后果自负，作者概不负责）\n..................\n📖 编辑推荐\n在所有电影类型中，恐怖片是一种奇特的存在，怕者避之不及，爱者欲罢不能。而日本现代恐怖片则是“异色”中的“异色”，它利用人的心理、潜意识和幻想，激发出我们最本能的恐惧。20世纪90年代以来，日式恐怖片（J-Horror）一跃成为现象级热潮，这样一股席卷全球的“暗黑力量”是怎样形成的？它吸收了哪些文化养分？风格化的表现方式背后有何奥妙？日式恐怖创作理论的领军人物小中千昭在本书中为你一一揭晓。\n◎ 编剧怪杰首开午夜讲坛，魔术揭秘般全盘托出玄妙心路\n小中千昭是在恐怖、科幻、动画、特摄领域全面开花的不世出怪才，也是享誉全球的克苏鲁神话写手。处女作《邪愿灵》为日本恐怖片创立框架，而后编剧的《毛骨悚然撞鬼经》《学校怪谈》可谓日本流行恐怖剧集的典范；《迪迦奥特曼》《数码宝贝2》等都可见其克苏鲁私货，“不可名状的未知与恐怖”为剧作注入灵魂；集趣味大成的意识流实验动画《玲音》更凭其先锋诡异的情节成为一代赛博朋克神作，引发众多解析讨论。\n◎ 世界恐怖影史+超自然小说漫游，让恐怖迷疯狂颅内高潮\n血浆片算真正的恐怖片吗？何物能唤起人类心底的恐惧？恐怖片的黑暗力量有何迷人之处？……串联名家杰作、挖掘冷门怪片，辨析恐怖、惊悚、悬念、血浆等类型特色作用于观众心理的区别，研究日式与欧美恐怖文化的源流关系、理念异同——这场高密度的原教旨主义探索之旅，勾魂摄魄、魅力无边。\n◎ 网络怪谈、神秘民俗、都市传说……解密暗黑养分来源\n后果自负的连锁物语、废墟探险的试胆游戏、挖眼拔发的怨灵作祟、四谷怪谈的流传演绎……围绕古典与现代的恐怖传说，发起神妙莫测的“祟咒考”，试图解答：诅咒如何通过各类媒介传播？社会事件与虚构故事怎样交缠？人类为何会有恐惧的情绪？可借本书一窥日式恐怖片瘆人表象之下深厚的学养根基。\n◎ “小中理论”全公开，看“人类高质量恐怖”如何制造\n活跃在创作一线的名编剧，从数十年实践中萃取出“小中理论”，引领了日式恐怖片风潮。恐怖讲究刻意安排、没有逻辑才恐怖、描写恐惧中的人方能制造恐怖……从内涵到技术，倾力传授让影片细思恐极后劲大的表现方法，更有《午夜凶铃》《咒怨》诞生轶事，以及与编剧高桥洋、导演清水崇的珍贵对谈。\n◎ 作者亲自挑选、阐释封面画作，知名设计师操刀整体装帧\n封面油画为日本著名画家金子国义的“爱丽丝”主题作品，作者小中千昭讲述了与该画“命中注定”的奇缘故事。全书封面五色印刷、内外双封，选用色彩饱和度高的工艺美术级涂布纸印彩凝；腰封选用半透明硫酸纸，用朦胧质感呼应书中“模糊虚焦的幽灵拍摄技法”。圆脊精装、版式舒适，值得珍藏。\n📖 内容简介\n这是一本从影视创作和民俗文化角度，探索恐怖美学和人类恐惧心理的经典著作。\n作者以独具个性的奇诡视角，串联了恐怖影像的历史、日式怪谈风俗和欧美都市传说，试图回答这样的问题：人们为什么会把“恐怖”当作娱乐？恐怖文化经历过怎样的发展演变？何物能唤起人类内心最深处的恐惧？……作者亦从数十年的编剧、拍摄经验出发，分析恐怖片的叙事技巧和技术手段，进而归纳出一套极具指导意义的“小中理论”——这份制造“真正恐怖”之影像故事的方法论，曾影响过众多名家，如《午夜凶铃》编剧高桥洋、《咒怨》导演清水崇、《回路》导演黑泽清等，相信也会为同类型文学艺术创作者、喜爱恐怖作品的读者带来启发。\n☢ 小中语录 ☢\n▷ 恐怖，就是把画面中人物所经历的恐惧传染给观众……也就是通过人物的反应来表现恐怖。\n▷ 经常看到有人一脸得意地给恐怖片写下“最恐怖的还是人心”的评价，那我很想问问他们：你遇到过真正恐怖的事情吗？还有，面对过那些极度离奇的事物吗？\n▷ 在现实社会中，人们都尽可能地想回避令他们感到“恐惧”的局面。然而，这样的情况或许无法避免。当碰到生活中的恐怖事件时，大家都不想束手无策、坐以待毙。我半是认真地想到，恐怖电影说不定起到的就是一种心理预演的作用。所以从某种意义上来说，观众想看到恐怖电影的渴望，也许是生理性质的。\n▷ 假如恐怖电影所带来的恐惧，多少能给现实中的恐惧增加一点耐受性，并能够使人迅速思考出下一步的行动，那么恐怖电影被大量制作、被大量人群观看的未来将成为理想状态。\n☢ 日本读者评论 ☢\n▷ 日式恐怖片界的宝贵记录。不愧是在现场工作的人，超具体的实践性很好，是深入思考“恐怖是什么”的极具逻辑的考察。揭示了J-Horror理论秘密的一本书，如果想制作恐怖作品的话，一定要读。\n▷ 与支撑日式恐怖运动的清水崇、中田秀夫、高桥洋、黑泽清交往过的作者，仿佛在为那场恐怖电影热潮和他们想看的作品代言一般地讲述着。当然，也提到很多近年来的海外特色佳作，在“恐怖”被消费的现代，这是本多么珍贵又有趣的书啊！\n▷ 用文字表示洋式恐怖和日式恐怖的决定性差异，这本书上写的比那些外行的分析更深刻，而且是值得学习的恐怖拆解书。文中有一句话“这本书是魔术师的揭秘书”，确实如此。与此同时，还可以了解到日本恐怖片的横向联系和《咒怨》的诞生秘闻。恐怖爱好者不可错过！\n▷ 抓住这本书写的重点，让我有种我也能拍恐怖电影的感觉。在这种意义上，本书也可被称为优质恐怖电影的教科书。读一遍不够，反复读几次才行。",
+			"buy_more_uri": "",
+			"null_rating_reason": "",
+			"article_intros": [],
+			"vendor_sale_price": "",
+			"has_ebook": false
+		}
+	},
+	{
+		"comment": "",
+		"rating": null,
+		"sharing_text": "https://www.douban.com/doubanapp/dispatch/book/37013342 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/37013342/interest/4678037407",
+		"tags": [],
+		"charts": [],
+		"is_editable": false,
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2025-10-30 01:30:48",
+		"status": "mark",
+		"id": 4678037407,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 685,
+				"max": 10,
+				"star_count": 4,
+				"value": 8.1
+			},
+			"controversy_reason": "",
+			"pubdate": [
+				"2024-11"
+			],
+			"pic": {
+				"large": "https://img1.doubanio.com/view/subject/l/public/s34955759.jpg",
+				"normal": "https://img1.doubanio.com/view/subject/m/public/s34955759.jpg"
+			},
+			"honor_infos": [],
+			"other_versions_count": 1,
+			"is_show": false,
+			"vendor_icons": [],
+			"card_subtitle": "[英] 马克·费舍 / 2024 / 上海人民出版社",
+			"book_subtitle": "",
+			"id": "37013342",
+			"author": [
+				"[英] 马克·费舍"
+			],
+			"is_released": true,
+			"vendor_original_price": "",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "72725f",
+				"_base_color": [
+					0.16666666666666666,
+					0.16666666666666666,
+					0.023529411764705882
+				],
+				"secondary_color": "f9f9f4",
+				"_avg_color": [
+					0.19999999999999987,
+					0.060240963855421645,
+					0.3254901960784314
+				],
+				"primary_color_dark": "4c4c3f"
+			},
+			"type": "book",
+			"cover_url": "https://dou.img.lithub.cc/book/37013342.jpg",
+			"min_sale_price": "¥30.8",
+			"press": [
+				"上海人民出版社"
+			],
+			"pages": [
+				"202"
+			],
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/37013342",
+			"url": "https://book.douban.com/subject/37013342/",
+			"title": "怪异与阴森",
+			"uri": "douban://douban.com/book/37013342",
+			"subtype": "book",
+			"intro": "🦉深深影响年轻一代的英国思想家、评论家马克·费舍生前最后一部作品。\n🦉深入流行文化腹地，细致剖析H. P. 洛夫克拉夫特、H. G. 威尔斯、菲利普·迪克、玛格丽特·阿特伍德、大卫·林奇、塔可夫斯基、诺兰等人的作品，解读隐藏其中的文化符码。\n🦉以“怪异”与“阴森”为窥镜 ，观察当代日常生活中的隐秘角落，探究人们对奇怪之物因何痴迷。\n🦉在最可怕、难解之地，我们发现，“着迷是最大的宿命驱动力”。\n🦉费舍的写作严肃而生动，激昂而严谨，既有理论视野，又深具政治性与现实性。\n……………………\n《怪异与阴森》是英国当代文化理论家马克·费舍生前最后一部著作，全书共十四篇文章，集中探讨了流行文化中的 “怪异”与“阴森”两个主题。\n怪异是无所归属之物。与怪异一脉相承的谬误感——对它无所归属的确信——往往是我们正在面对新事物的一个标志。它表明，我们过去的概念和框架已经 过时了。而阴森则关于从日常生活的紧要事物中抽离。它带我们从凡庸中超脱，从通常被人当作现实的禁锢中逃离。\n怪异和阴森从根本上说，是对未知的刺探，是日常世界偏离自身的方式。从洛夫克拉夫特、菲利普·迪克的小说，到斯坦利·库布里克、克里斯托弗·诺兰的电影，再到堕落乐队、布莱恩·伊诺的音乐，我们一次次陷入对奇怪之物的痴迷，一次次偏离日常，借离魂之眼回望此在。\n……………………\n《怪异与阴森》是一部引人入胜且精心撰写的关于文化美学的短篇研究。远不同于我们所熟知的吸血鬼、僵尸和恶魔阵容，费舍用不拘一格的例子直指恐怖题材的中心主题之一：人类知识的局限性，恐惧的诸多变形，以及所有类型的模糊边界。\n——美国哲学家、诗人、学者尤金·萨克尔\n费舍尔以无与伦比的严谨和雄辩，在美学与政治、批判与行动之间架起了一座桥梁，他是参与型知识分子的典范。他的著作、报道和访谈是一笔持久而宝贵的财富。\n——西蒙·雷诺兹，《卫报》\n费舍尔的这本（关于怪异与阴森的）指南是你进入这片领域的绝佳开始。书中展示了他的标志性诀窍——以一种引人入胜、不落俗套的方式解读流行文化（主要是音乐、小说和电影），他的文章至今仍然具有强烈的政治性和哲学性。\n我希望评论家们能接过费舍尔在这里提出的理论，并以这种方式继续开展工作，以令人振奋的方式开创大众文化研究。\n——罗杰·卢克赫斯特，《洛杉矶书评》",
+			"buy_more_uri": "douban://douban.com/book/37013342/vendors_douban",
+			"null_rating_reason": "",
+			"article_intros": [],
+			"vendor_sale_price": "",
+			"has_ebook": false
+		}
+	},
+	{
+		"comment": "",
+		"rating": null,
+		"sharing_text": "https://www.douban.com/doubanapp/dispatch/book/26295448 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/26295448/interest/4678037083",
+		"tags": [],
+		"charts": [],
+		"is_editable": false,
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2025-10-30 01:30:04",
+		"status": "mark",
+		"id": 4678037083,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 40555,
+				"max": 10,
+				"star_count": 4.5,
+				"value": 8.7
+			},
+			"controversy_reason": "",
+			"pubdate": [
+				"2015-5"
+			],
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/l/public/s28033064.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/m/public/s28033064.jpg"
+			},
+			"honor_infos": [
+				{
+					"kind": "book",
+					"uri": "douban://douban.com/subject_collection/book_top250",
+					"rank": 241,
+					"title": "豆瓣图书Top250"
+				}
+			],
+			"other_versions_count": 14,
+			"is_show": false,
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
+			"card_subtitle": "[美] 特德·姜 / 2015 / 译林出版社",
+			"book_subtitle": "特德·姜科幻小说集",
+			"id": "26295448",
+			"author": [
+				"[美] 特德·姜"
+			],
+			"is_released": true,
+			"vendor_original_price": "",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "a58d8d",
+				"_base_color": [
+					0,
+					0.1451612903225806,
+					0.9725490196078431
+				],
+				"secondary_color": "f9f4f4",
+				"_avg_color": [
+					0.7416666666666668,
+					0.1324503311258279,
+					0.592156862745098
+				],
+				"primary_color_dark": "7f6c6c"
+			},
+			"type": "book",
+			"cover_url": "https://dou.img.lithub.cc/book/26295448.jpg",
+			"min_sale_price": "¥14.7",
+			"press": [
+				"译林出版社"
+			],
+			"pages": [
+				"292"
+			],
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/26295448",
+			"url": "https://book.douban.com/subject/26295448/",
+			"title": "你一生的故事",
+			"uri": "douban://douban.com/book/26295448",
+			"subtype": "book",
+			"intro": "一瞥之下，过去与未来轰轰然同时并至，\n我的意识成为长达半个世纪的灰烬，时间未至已成灰。\n五十年诸般纷纭并发眼底，我的余生尽在其中。\n还有，你的一生。\n《你一生的故事》结集特德·姜早期的七篇作品：代表作《你一生的故事》、处女作《巴比伦塔》以及《领悟》、《除以零》、《七十二个字母 》、《人类科学之演变》、《地狱是上帝不在的地方》——\n一个语言学家学会了一门外星语言，彻底改变了她的世界观。过去、现在、未来，在她眼前同时展开。\n为了离上帝更近，人类伐木烧砖，拉车砌塔，经过无数个世代的辛劳，终于建成一座巍峨耸立于天地之间的通天塔。\n只要一小瓶药水，就能拥有超人智慧，这个诱惑无人能挡。可惜超人不止一个，荡气回肠的超人对决之后，领悟终极的智慧。\n任何数字除以零，都不会得出一个有意义的结果。两个人的感情除以零，结果是什么？\n在一个“名字驱动一切”的世界，命名师们玩转七十二个字母，寻找人类种族繁衍的密码。\n当人类的所有科学研究仅仅局限在解读后人类的科研成果时，这种研究是否还有存在的必要？\n妻子在天使下凡时去世，丈夫却必须学习如何热爱上帝，以便死后与妻子团聚。",
+			"buy_more_uri": "douban://douban.com/book/26295448/vendors_douban",
+			"null_rating_reason": "",
+			"article_intros": [],
+			"vendor_sale_price": "",
+			"has_ebook": true
+		}
+	},
+	{
+		"comment": "",
+		"rating": null,
+		"sharing_text": "https://www.douban.com/doubanapp/dispatch/book/26628811 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/26628811/interest/4677566098",
+		"tags": [],
+		"charts": [],
+		"is_editable": false,
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2025-10-29 14:17:20",
+		"status": "mark",
+		"id": 4677566098,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 25234,
+				"max": 10,
+				"star_count": 4.5,
+				"value": 8.9
+			},
+			"controversy_reason": "",
+			"pubdate": [
+				"2015-11-1"
+			],
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/l/public/s28322776.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/m/public/s28322776.jpg"
+			},
+			"honor_infos": [
+				{
+					"kind": "book",
+					"uri": "douban://douban.com/subject_collection/ECXE6G3EI?type=rank&category=book&rank_type=topn_book",
+					"rank": 7,
+					"title": "热门外国中短篇小说TOP20"
+				}
+			],
+			"other_versions_count": 5,
+			"is_show": false,
+			"vendor_icons": [],
+			"card_subtitle": "[哥伦比亚] 加西亚·马尔克斯 / 2015 / 南海出版公司",
+			"book_subtitle": "",
+			"id": "26628811",
+			"author": [
+				"[哥伦比亚] 加西亚·马尔克斯"
+			],
+			"is_released": true,
+			"vendor_original_price": "",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "724d49",
+				"_base_color": [
+					0.016431924882629123,
+					0.35678391959798994,
+					0.7803921568627451
+				],
+				"secondary_color": "f9f5f4",
+				"_avg_color": [
+					0.5392156862745098,
+					0.2698412698412699,
+					0.24705882352941178
+				],
+				"primary_color_dark": "4c3331"
+			},
+			"type": "book",
+			"cover_url": "https://dou.img.lithub.cc/book/26628811.jpg",
+			"min_sale_price": "¥17.5",
+			"press": [
+				"南海出版公司"
+			],
+			"pages": [
+				"187"
+			],
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/26628811",
+			"url": "https://book.douban.com/subject/26628811/",
+			"title": "世上最美的溺水者",
+			"uri": "douban://douban.com/book/26628811",
+			"subtype": "book",
+			"intro": "那个尴尬的傻子死了，人们这才发现他美得动人心魄。\n马尔克斯短篇小说集\n收录《巨翅老人》《世上最美的溺水者》《令人难以置信的悲惨故事》等名篇，入选高中语文教材\n欢迎来到马尔克斯的暗黑童话世界！在这里：\n死去的人会变回年轻时的模样，乘着洋流漂过全世界，带着所有经过的地方的鲜花和水草。\n大雨下得太久，你一觉醒来可能会看见天使掉在你家院子的烂泥里。\n触礁沉没的巨轮会变成幽灵船，一遍遍重复不祥的命运。但若碰上执拗聪明的小男孩，也能从阴间驶进阳世。\n魔法师会为死去的仇人造一座最坚固雄伟的陵墓，然后让他在棺材里一次又一次复活。\n残忍的祖母会押着孙女当妓女，陷入爱情的男孩能听到千里之外情人绝望的呼唤，渴望自由的女孩什么都可以抛弃。",
+			"buy_more_uri": "douban://douban.com/book/26628811/vendors_douban",
+			"null_rating_reason": "",
+			"article_intros": [],
+			"vendor_sale_price": "",
+			"has_ebook": false
+		}
+	},
+	{
+		"comment": "",
+		"rating": null,
+		"sharing_text": "https://www.douban.com/doubanapp/dispatch/book/35578739 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/35578739/interest/4685391590",
+		"tags": [],
+		"charts": [],
+		"is_editable": false,
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2025-11-08 17:21:46",
+		"status": "mark",
+		"id": 4685391590,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 219,
+				"max": 10,
+				"star_count": 4,
+				"value": 7.9
+			},
+			"controversy_reason": "",
+			"pubdate": [
+				"2021-9"
+			],
+			"pic": {
+				"large": "https://img3.doubanio.com/view/subject/l/public/s34006213.jpg",
+				"normal": "https://img3.doubanio.com/view/subject/m/public/s34006213.jpg"
+			},
+			"honor_infos": [],
+			"other_versions_count": 2,
+			"is_show": false,
+			"vendor_icons": [],
+			"card_subtitle": "[美]布鲁斯·格雷森 / 2021 / 中信出版集团",
+			"book_subtitle": "关于濒死体验的科学 一个医生的濒死体验报告",
+			"id": "35578739",
+			"author": [
+				"[美]布鲁斯·格雷森"
+			],
+			"is_released": true,
+			"vendor_original_price": "",
+			"color_scheme": {
+				"is_dark": false,
+				"primary_color_light": "e4eff2",
+				"_base_color": [
+					0.5357142857142859,
+					0.0573770491803279,
+					0.9568627450980393
+				],
+				"secondary_color": "f4f8f9",
+				"_avg_color": [
+					0.5518518518518518,
+					0.18828451882845193,
+					0.9372549019607843
+				],
+				"primary_color_dark": "e4eff2"
+			},
+			"type": "book",
+			"cover_url": "https://dou.img.lithub.cc/book/35578739.jpg",
+			"min_sale_price": null,
+			"press": [
+				"中信出版集团"
+			],
+			"pages": [
+				"344"
+			],
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/35578739",
+			"url": "https://book.douban.com/subject/35578739/",
+			"title": "看见生命",
+			"uri": "douban://douban.com/book/35578739",
+			"subtype": "book",
+			"intro": "自古以来，就有关于濒死体验的报道。但对于濒死体验，医学界普遍选择了忽视，认为这是“人类大脑的诡计”或体验者的幻觉，因为人们大都倾向于将死亡视为意识的终结、生存的终结。对许多人来说，濒死体验是令人恐惧的，它会引发体验者强烈的恐惧和焦虑。\n五十年前，精神科医生布鲁斯·格雷森博士通过偶然的机会，发现一位患者产生了濒死体验——她在昏迷时，“看到”了另一间屋子里的格雷森领带上的污渍。为了探索这个不解之谜，格雷森博士从此踏上了艰难的科研之旅。\n本书涵盖了这位精神病学教授数十年来对濒死体验坚持不懈的研究记录。在书中，格雷森博士从科学的角度出发，基于其丰富真实的临床案例和翔实的研究数据，告诉我们什么是濒死体验，并讨论了濒死体验的科学性和意义。更重要的是，格雷森博士认为，通过对濒死体验的深入了解，能够帮助我们提升对生命与死亡的认知，增强对意识的认知，从而拥有正确的生死观，学会发自内心地热爱生命，珍惜当下的生活，找到人生的意义。",
+			"buy_more_uri": "",
+			"null_rating_reason": "",
+			"article_intros": [],
+			"vendor_sale_price": "",
+			"has_ebook": false
+		}
+	},
+	{
+		"comment": "",
+		"rating": null,
+		"sharing_text": "https://www.douban.com/doubanapp/dispatch/book/37481942 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/37481942/interest/4685390893",
+		"tags": [],
+		"charts": [],
+		"is_editable": false,
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2025-11-08 17:20:58",
+		"status": "mark",
+		"id": 4685390893,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 4296,
+				"max": 10,
+				"star_count": 4.5,
+				"value": 8.6
+			},
+			"controversy_reason": "",
+			"pubdate": [
+				"2025-8"
+			],
+			"pic": {
+				"large": "https://img1.doubanio.com/view/subject/l/public/s35256880.jpg",
+				"normal": "https://img1.doubanio.com/view/subject/m/public/s35256880.jpg"
+			},
+			"honor_infos": [
+				{
+					"kind": "book",
+					"uri": "douban://douban.com/subject_collection/ECZVAEZJI?type=rank&category=book&rank_type=year",
+					"rank": 5,
+					"title": "豆瓣2025年度社会·纪实图书"
+				}
+			],
+			"other_versions_count": 0,
+			"is_show": false,
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
+			"card_subtitle": "王暖暖 / 2025 / 江苏凤凰文艺出版社",
+			"book_subtitle": "",
+			"id": "37481942",
+			"author": [
+				"王暖暖"
+			],
+			"is_released": true,
+			"vendor_original_price": "",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "a07da5",
+				"_base_color": [
+					0.8095238095238094,
+					0.24137931034482754,
+					0.6823529411764706
+				],
+				"secondary_color": "f9f4f9",
+				"_avg_color": [
+					0.7325581395348837,
+					0.2429378531073446,
+					0.6941176470588235
+				],
+				"primary_color_dark": "7b607f"
+			},
+			"type": "book",
+			"cover_url": "https://dou.img.lithub.cc/book/37481942.jpg",
+			"min_sale_price": "¥38.7",
+			"press": [
+				"江苏凤凰文艺出版社"
+			],
+			"pages": [
+				"256"
+			],
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/37481942",
+			"url": "https://book.douban.com/subject/37481942/",
+			"title": "重生",
+			"uri": "douban://douban.com/book/37481942",
+			"subtype": "book",
+			"intro": "《重生》讲述了一个平凡女性在命运绝境中破茧重生的故事。作者王暖暖首次讲述坠崖案故事背后从未公开的细节，用亲身经历证明：即使是最深的裂痕，也能绽放向光而生的勇气。\n我们无法像哪吒那样借助宝莲重生，但凡人肉身，亦能在一次次破碎与重建中，让生命焕发新的光彩。\n这本书不是伤痕的展览，而是一束光——为所有在黑暗中前行的人照亮方向。\n请相信：那些打不垮你的，终将成为你的翅膀。愿这本书化作你掌心的星光，或心底的种子，陪伴你在任何境遇中破土而生。\n生命的可贵，不在于永不坠落，而在于每次跌倒后，都能带着更完整的自己，重新站起来。",
+			"buy_more_uri": "douban://douban.com/book/37481942/vendors_douban",
+			"null_rating_reason": "",
+			"article_intros": [],
+			"vendor_sale_price": "",
+			"has_ebook": true
+		}
+	},
+	{
+		"comment": "",
+		"rating": null,
+		"sharing_text": "https://www.douban.com/doubanapp/dispatch/book/11443072 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/11443072/interest/4507497316",
+		"tags": [],
+		"charts": [],
+		"is_editable": false,
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2025-11-06 16:27:50",
+		"status": "mark",
+		"id": 4507497316,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 942,
+				"max": 10,
+				"star_count": 4,
+				"value": 7.8
+			},
+			"controversy_reason": "",
+			"pubdate": [
+				"2012-7"
+			],
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/l/public/s28534384.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/m/public/s28534384.jpg"
+			},
+			"honor_infos": [],
+			"other_versions_count": 1,
+			"is_show": false,
+			"vendor_icons": [],
+			"card_subtitle": "【日】佐久良刚 / 2012 / 上海社会科学院出版社",
+			"book_subtitle": "一个日本宅男的三国遗址之旅",
+			"id": "11443072",
+			"author": [
+				"【日】佐久良刚"
+			],
+			"is_released": true,
+			"vendor_original_price": "",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "a58374",
+				"_base_color": [
+					0.05102040816326525,
+					0.2987804878048781,
+					0.6431372549019608
+				],
+				"secondary_color": "f9f6f4",
+				"_avg_color": [
+					0.03846153846153851,
+					0.1468926553672316,
+					0.6941176470588235
+				],
+				"primary_color_dark": "7f6559"
+			},
+			"type": "book",
+			"cover_url": "https://dou.img.lithub.cc/book/11443072.jpg",
+			"min_sale_price": null,
+			"press": [
+				"上海社会科学院出版社"
+			],
+			"pages": [
+				"338"
+			],
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/11443072",
+			"url": "https://book.douban.com/subject/11443072/",
+			"title": "三国志男",
+			"uri": "douban://douban.com/book/11443072",
+			"subtype": "book",
+			"intro": "首部三国题材的旅游指南\n180天背包游，100多个三国景点，300余张独家照片\n历史迷、动漫迷、GAME玩家绝对共鸣的爆笑“宅读物”\n谁说“宅人”和“旅行者”是一对无法兼容的反义词？当宅男遇到《三国志》，他就会向世人证明：只要有爱，两者完全可以合二为一！\n从大名鼎鼎的赤壁、虎牢关、马超墓，到陷于石油公司院内的夏侯渊墓……佐久良刚，一位大门不出二门不迈的日本宅男，《三国志》的铁杆粉丝，居然深入到幅员辽阔的中国，在完全不懂中文的情况下完成了他的长途自助旅行，甚至连导游手册上都没有记载的三国遗址也不放过，并写就了这部充满无厘头搞笑的另类游记！\n读完本书，在狂笑之余，会让中国读者不禁汗颜：一位普通的日本青年竟然对《三国志》热爱到这种程度，同时也会引发我们对自身文化的深度思考！",
+			"buy_more_uri": "",
+			"null_rating_reason": "",
+			"article_intros": [],
+			"vendor_sale_price": "",
+			"has_ebook": false
+		}
+	},
+	{
+		"comment": "",
+		"rating": null,
+		"sharing_text": "https://www.douban.com/doubanapp/dispatch/book/36858435 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36858435/interest/4683049777",
+		"tags": [],
+		"charts": [],
+		"is_editable": false,
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2025-11-05 14:43:44",
+		"status": "mark",
+		"id": 4683049777,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 403,
+				"max": 10,
+				"star_count": 4,
+				"value": 8.2
+			},
+			"controversy_reason": "",
+			"pubdate": [
+				"2024-6"
+			],
+			"pic": {
+				"large": "https://img1.doubanio.com/view/subject/l/public/s34882909.jpg",
+				"normal": "https://img1.doubanio.com/view/subject/m/public/s34882909.jpg"
+			},
+			"honor_infos": [],
+			"other_versions_count": 1,
+			"is_show": false,
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
+			"card_subtitle": "[美] 朱迪思·格里塞尔 / 2024 / 中国人民大学出版社",
+			"book_subtitle": "大脑暗藏的致命诱惑",
+			"id": "36858435",
+			"author": [
+				"[美] 朱迪思·格里塞尔"
+			],
+			"is_released": true,
+			"vendor_original_price": "",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "a5a19f",
+				"_base_color": [
+					0.04166666666666711,
+					0.03652968036529681,
+					0.8588235294117647
+				],
+				"secondary_color": "f9f6f4",
+				"_avg_color": [
+					0,
+					0.024875621890547175,
+					0.788235294117647
+				],
+				"primary_color_dark": "7f7c7a"
+			},
+			"type": "book",
+			"cover_url": "https://dou.img.lithub.cc/book/36858435.jpg",
+			"min_sale_price": "¥32.4",
+			"press": [
+				"中国人民大学出版社"
+			],
+			"pages": [
+				"280"
+			],
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/36858435",
+			"url": "https://book.douban.com/subject/36858435/",
+			"title": "成瘾的深渊",
+			"uri": "douban://douban.com/book/36858435",
+			"subtype": "book",
+			"intro": "药物滥用是全球最严重的健康问题之一。作为一位知名的神经科学家，同时也是一个正在康复的成瘾者，格里塞尔以感同身受的笔触，深入剖析了这场灾难的科学本质。她用自己的亲身经历揭示了药物的作用机制及其对大脑的危险控制，重点阐释了滥用药物会给大脑和行为造成怎样的变化，还为对抗眼下泛滥的成瘾问题提供了至关重要的新见解。\n本书以其生动、坦诚、清晰晓畅的文风从同类作品中脱颖而出，是一部不可多得的科普佳作。",
+			"buy_more_uri": "douban://douban.com/book/36858435/vendors_douban",
+			"null_rating_reason": "",
+			"article_intros": [],
+			"vendor_sale_price": "",
+			"has_ebook": true
+		}
+	},
+	{
+		"comment": "",
+		"rating": null,
+		"sharing_text": "https://www.douban.com/doubanapp/dispatch/book/36782247 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36782247/interest/4683049114",
+		"tags": [],
+		"charts": [],
+		"is_editable": false,
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2025-11-05 14:42:39",
+		"status": "mark",
+		"id": 4683049114,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 3684,
+				"max": 10,
+				"star_count": 4,
+				"value": 7.5
+			},
+			"controversy_reason": "",
+			"pubdate": [
+				"2024-4-30"
+			],
+			"pic": {
+				"large": "https://img1.doubanio.com/view/subject/l/public/s34802149.jpg",
+				"normal": "https://img1.doubanio.com/view/subject/m/public/s34802149.jpg"
+			},
+			"honor_infos": [
+				{
+					"kind": "book",
+					"uri": "douban://douban.com/subject_collection/EC3M7UVZA?type=rank&category=book&rank_type=year",
+					"rank": 3,
+					"title": "豆瓣2024年度推理悬疑图书"
+				}
+			],
+			"other_versions_count": 2,
+			"is_show": false,
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
+			"card_subtitle": "[美] 哈里·多兰 / 2024 / 北京联合出版公司",
+			"book_subtitle": "",
+			"id": "36782247",
+			"author": [
+				"[美] 哈里·多兰"
+			],
+			"is_released": true,
+			"vendor_original_price": "",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "94a588",
+				"_base_color": [
+					0.26388888888888884,
+					0.17518248175182483,
+					0.5372549019607843
+				],
+				"secondary_color": "f6f9f4",
+				"_avg_color": [
+					0.23563218390804605,
+					0.21969696969696975,
+					0.5176470588235295
+				],
+				"primary_color_dark": "727f69"
+			},
+			"type": "book",
+			"cover_url": "https://dou.img.lithub.cc/book/36782247.jpg",
+			"min_sale_price": null,
+			"press": [
+				"北京联合出版公司"
+			],
+			"pages": [
+				"488"
+			],
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/36782247",
+			"url": "https://book.douban.com/subject/36782247/",
+			"title": "最后一个死去的女孩",
+			"uri": "douban://douban.com/book/36782247",
+			"subtype": "book",
+			"intro": "“有时候，我觉得生活就是一长串的意外。”\n·\n四月的一个雨夜，在一条无人的公路上，大卫与年轻美丽的法律系学生嘉娜一见钟情。\n嘉娜住在破败的公寓里，脸上带着谜一样的伤痕。大卫好奇嘉娜的秘密，但一切都太迟了——仅仅十天后，大卫发现嘉娜惨死于公寓，而自己则成了头号嫌犯。\n大卫决定找出真相，他很快就发现嘉娜——这个理想主义的法律系学生——竟然在生命的最后时刻，全身心地追寻着一起谋杀案的真相！\n大卫循着她的脚步深入案件，而与此同时，谋杀嘉娜的凶手正紧盯着他的每一步行动……",
+			"buy_more_uri": "",
+			"null_rating_reason": "",
+			"article_intros": [],
+			"vendor_sale_price": "",
+			"has_ebook": true
+		}
+	},
+	{
+		"comment": "",
+		"rating": null,
+		"sharing_text": "https://www.douban.com/doubanapp/dispatch/book/36462621 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36462621/interest/4683048885",
+		"tags": [],
+		"charts": [],
+		"is_editable": false,
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2025-11-05 14:42:19",
+		"status": "mark",
+		"id": 4683048885,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 2334,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -3065,7 +3100,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3446,
+				"count": 3449,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -3193,7 +3228,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/36858470.jpg",
-			"min_sale_price": "¥36.66",
+			"min_sale_price": "¥52.0",
 			"press": [
 				"上海三联书店"
 			],
@@ -3390,7 +3425,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 954,
+				"count": 955,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -3469,7 +3504,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 10798,
+				"count": 10845,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -3522,7 +3557,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/37279279.jpg",
-			"min_sale_price": "¥28.2",
+			"min_sale_price": "¥29.0",
 			"press": [
 				"四川文艺出版社"
 			],
@@ -3558,7 +3593,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 10139,
+				"count": 10148,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -3637,7 +3672,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4218,
+				"count": 4220,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -3798,7 +3833,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 493,
+				"count": 495,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.7
@@ -3877,7 +3912,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 682,
+				"count": 685,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -3956,7 +3991,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 40545,
+				"count": 40555,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -4044,7 +4079,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 25226,
+				"count": 25234,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -4173,7 +4208,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/26889429.jpg",
-			"min_sale_price": "¥8.4",
+			"min_sale_price": "¥9.4",
 			"press": [
 				"重庆出版社"
 			],
@@ -4209,7 +4244,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 5786,
+				"count": 5789,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -4255,7 +4290,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/34882671.jpg",
-			"min_sale_price": "¥58.8",
+			"min_sale_price": "¥61.7",
 			"press": [
 				"人民文学出版社"
 			],
@@ -4291,7 +4326,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 37829,
+				"count": 37862,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -4344,7 +4379,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/34990839.jpg",
-			"min_sale_price": "¥16.1",
+			"min_sale_price": "¥17.91",
 			"press": [
 				"浙江文艺出版社"
 			],
@@ -4380,7 +4415,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 22489,
+				"count": 22491,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -4460,7 +4495,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3109,
+				"count": 3110,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -4547,7 +4582,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 156004,
+				"count": 156017,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -4636,7 +4671,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3883,
+				"count": 3884,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -4718,7 +4753,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 5244,
+				"count": 5259,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -5045,7 +5080,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 11938,
+				"count": 11974,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -5091,7 +5126,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/36096300.jpg",
-			"min_sale_price": "¥18.9",
+			"min_sale_price": "¥32.99",
 			"press": [
 				"湖南文艺出版社"
 			],
@@ -5127,7 +5162,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3807,
+				"count": 3811,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -5207,7 +5242,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 377,
+				"count": 382,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -5286,7 +5321,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6025,
+				"count": 6026,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -5367,10 +5402,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 14,
+				"count": 15,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 8.8
+				"value": 8.9
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -5410,7 +5445,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/36946905.jpg",
-			"min_sale_price": "¥66.4",
+			"min_sale_price": "¥55.0",
 			"press": [
 				"中国轻工业出版社"
 			],
@@ -5446,7 +5481,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 324,
+				"count": 326,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -5523,7 +5558,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 19954,
+				"count": 19961,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -5568,7 +5603,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/24257403.jpg",
-			"min_sale_price": "¥21.0",
+			"min_sale_price": "¥20.2",
 			"press": [
 				"上海译文出版社"
 			],
@@ -5604,7 +5639,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 19456,
+				"count": 19484,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -5686,7 +5721,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4889,
+				"count": 4892,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -6574,7 +6609,7 @@
 				"count": 401,
 				"max": 10,
 				"star_count": 4,
-				"value": 8
+				"value": 7.9
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -6650,7 +6685,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4653,
+				"count": 4657,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -6729,7 +6764,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3844,
+				"count": 3908,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -6808,10 +6843,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 383,
+				"count": 386,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.9
+				"value": 8
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -6890,7 +6925,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 871,
+				"count": 872,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.7
@@ -6969,7 +7004,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3380,
+				"count": 3387,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -7015,7 +7050,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/36547277.jpg",
-			"min_sale_price": "¥59.8",
+			"min_sale_price": null,
 			"press": [
 				"花城出版社"
 			],
@@ -7028,7 +7063,7 @@
 			"uri": "douban://douban.com/book/36547277",
 			"subtype": "book",
 			"intro": "我们所谓的永远向上、永远做出正确选择的大人，或许并不存在。当你被这些不切实际的标准压得透不过气，不妨看看艾莉，她是如此迫切坦诚地剖析自己，从生活最细微的切口进入，带出人性最好也最坏的一面。最终，我们还是要与真实的自己和解，接纳它，好好爱它。\n听起来有些沉重对吗，但艾莉的 疯批画风和黑色幽默，有本事让你笑对成年人的破碎感，并且拍着大腿说：哈哈哈，说的就是我啊！翻开它，你一定会和艾莉狠狠共鸣。\n◆比尔·盖茨千字长文推荐：科学家的观察力+艺术家的创造力+喜剧演员的灵光一闪=宝藏女孩艾莉！\n◆Goodreads 2013年度幽默图书奖，《纽约时报》霸榜图书，Indie Next美国独立书店大奖。\n◆欢迎来到艾莉的世界！在这里可以卸下“大人”的伪装，每一个真实的自己都值得细细诉说。\n◆一本具备文学性的成人漫画，淋漓展现成年人的破碎感。原来大人的快乐、孤独和痛苦都是相通的，感觉自己被看见！\n◆18个故事，讲述艾莉从小到大的各种搞笑麻烦事。那些你想到和想不到的人间真实，她真的都敢讲。\n◆精准呈现抑郁症眼中的世界：抑郁是什么感觉？怎样安慰抑郁的朋友？\n◆梗图“我们是谁”原型！笑哭笑哭笑笑哭，狠狠扎心又笑到头掉。",
-			"buy_more_uri": "douban://douban.com/book/36547277/vendors_douban",
+			"buy_more_uri": "",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -7051,7 +7086,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2462,
+				"count": 2468,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -7104,7 +7139,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/37241704.jpg",
-			"min_sale_price": "¥39.0",
+			"min_sale_price": null,
 			"press": [
 				"花城出版社"
 			],
@@ -7117,7 +7152,7 @@
 			"uri": "douban://douban.com/book/37241704",
 			"subtype": "book",
 			"intro": "这是一本自传式漫画散文集，讲述作者艾莉从小到大发生的各种搞笑的、难过的和困惑的事。在写这本书时，艾莉的生活遭遇了许多“完蛋时刻”——离婚、被误诊癌症、妹妹去世——生活的暴击让她不断追问人生到底有什么意义，如果没有意义，又该如何面对？这也是这本书里贯穿始终的问题。\n“ 有时候，你只能继续往前走，祈祷自己最终能找到一丁点道理。”\n艾莉就是这样，在经历无数个以为会完蛋的瞬间之后，还是勇敢地往前走着。\n狂野怪诞的画风，孩子气的坦率文字，加上剂量充足的真实，让人大笑，让人感动，让人思考自己的存在。看似简单的寥寥数笔，描画出人性共通的复杂情绪。看着看着，你会惊呼：“我也是啊！”\n* 豆瓣8.4高分漫画《我永远也当不了大人》第二弹！\n* Goodreads 2020年度幽默图书奖提名\n* 一本具备文学性的成人漫画，有17个故事、1600张图，有狗、猫、青蛙和马粪，有好笑的事，也有愤怒、悲伤与孤独。\n* 对生活的解剖式观察，即便是白日梦、吵架和交朋友这样的小事，都能刻画出生活的卑微、荒诞和光亮来。\n* 经历了那么多以为会完蛋的事，我还是活得好好的！",
-			"buy_more_uri": "douban://douban.com/book/37241704/vendors_douban",
+			"buy_more_uri": "",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -7345,7 +7380,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/35923294.jpg",
-			"min_sale_price": "¥64.91",
+			"min_sale_price": null,
 			"press": [
 				"机械工业出版社"
 			],
@@ -7358,7 +7393,7 @@
 			"uri": "douban://douban.com/book/35923294",
 			"subtype": "book",
 			"intro": "内在家庭系统（Internal Family Systems,IFS），俗称部分心理学。\n● 理解内在家庭系统（学术）\nIFS在家庭系统治疗的基础上进一步发展，以系统观和整体观的视角看待人的内心世界。它倡导多元心灵范式—认为人的内在包含许多不同的部分（子人格），它们像家庭成员一样相互联系。因此，从学术角度， IFS通常被理解为内在家庭系统。\n● 理解部分心理学（临床/咨访）\nIFS治疗一贯坚持使用来访者觉得舒适和容易的表述。大部分来访者在谈到内在冲突时，都会使用“部分”这个词，它在临床上用起来很有效。IFS创始人理查德·C.施瓦茨将人的内在子人格命名为“部分”，IFS也常被称为部分心理学。\n● IFS去病理化视角\n与“人们具有某种缺陷或疾病”这种治疗观点相反，IFS取向不会给人贴上心理疾病的标签。IFS认定人的内在具有自己所需的所有资源，人们无法发挥内在的力量不是因为资源匮乏，而是受到内在和外在极端关系的限制。因此，IFS致力于帮助人们解除束缚，从而释放内在的力量和资源。\n本书对IFS进行了全面的介绍，包括IFS的缘起、核心概念及应用方法。书中案例展示了与有创伤、焦虑、抑郁、饮食失调、成瘾和其他行为问题的人一起工作的详细步骤，为治疗师提供了实用的策略。此外，本书还详述了IFS在家庭治疗、夫妻治疗和社会系统中的应用前景。",
-			"buy_more_uri": "douban://douban.com/book/35923294/vendors_douban",
+			"buy_more_uri": "",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -7381,7 +7416,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2772,
+				"count": 2773,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -7542,7 +7577,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 13640,
+				"count": 13641,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -7700,7 +7735,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3006,
+				"count": 3008,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -7782,7 +7817,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 5839,
+				"count": 5842,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -8029,7 +8064,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1382,
+				"count": 1385,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -8075,7 +8110,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/36296679.jpg",
-			"min_sale_price": "¥43.53",
+			"min_sale_price": null,
 			"press": [
 				"机械工业出版社"
 			],
@@ -8088,7 +8123,7 @@
 			"uri": "douban://douban.com/book/36296679",
 			"subtype": "book",
 			"intro": "在本书中，加博尔·马泰博士基于几十年来帮助受毒瘾和精神疾病困扰的患者的工作经验，以及新近的心理学研究发现，以一种富有人文关怀的方式审视成瘾。\n他提出，成瘾不是只存在于少数意志薄弱者之中的个别现象，每个人都处于一个从轻微到严重的成瘾光谱中；成瘾不是一种疾病，而是个人历史、神经发展和脑化学与成瘾物质/行为之间复杂相互作用的结果。\n成瘾源于内心的空虚和无聊，这本质上是一种自我调节失败、无法自我满足的状态。尤其是那些在生命初几年有被忽视或虐待经历的人，会失去正常发展与奖赏、动机、自我控制相关的神经系统的机会，无法自我满足的空虚成了“默认状态”。\n人们不断向外界寻求满足，求助于成瘾物质或行为，但这些外部刺激始终无法真正填补内心的空洞，并且往往是对身心有害的。于是，每次在片刻的解脱之后，又会陷入更深的痛苦。\n成瘾的疗愈需要一个生态：疗愈并不意味着从一种疾病中康复，而是意味着成瘾者可以开始创造新的内外部资源，以支持用健康的新方式，来满足自身真实的需求。\n本书从对吸毒者的近距离观察开始，继而作者毫不掩饰地剖析了自己对古典音乐唱片和名声地位的成瘾。将真实故事和近期的科学研究、基于科学的解决方案融合在一起，后为我们每个人能做些什么来避免成瘾，以及我们整个社会可以做些什么来帮助成瘾者，给出了充满共情的建议。",
-			"buy_more_uri": "douban://douban.com/book/36296679/vendors_douban",
+			"buy_more_uri": "",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -8111,7 +8146,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3615,
+				"count": 3619,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -8157,7 +8192,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/35356018.jpg",
-			"min_sale_price": "¥19.9",
+			"min_sale_price": null,
 			"press": [
 				"上海文化出版社"
 			],
@@ -8170,7 +8205,7 @@
 			"uri": "douban://douban.com/book/35356018",
 			"subtype": "book",
 			"intro": "◇人人都有病。焦虑的现代人病态心理直播现场！\n◇心理学大师卡伦·霍妮成名代表作，标志着精神分析文化决定论学派的形成\n◇以专业的研究硬核反对弗洛伊德，对后世影响巨大，比如人本主义心理学代表人物马斯洛等\n◇论点清晰，论证细腻，千万读者强烈共情：\"每句话都像在说自己\"\n◇2021年精装插画版\n◇每种古怪的行为背后，都是正在受苦的自己。\n◇如果我们能意识到自己的敏感、潜在的敌意和苛刻的要求，在多大程度上控制了我们的感情和行为、干扰了我们与他人的关系，我们的生活会是截然不同的面貌。\n◇本书是卡伦·霍妮第一本重要专著，引人入胜地刻画了人格中难以察觉的神经症。她提出神经症是一种偏离共同文化模式的心理紊乱，是人的内心与环境产生冲突无法平衡的结果。全书对焦明确，语言生动细腻，帮助现代人认识和接纳自我，走出焦虑泥潭。",
-			"buy_more_uri": "douban://douban.com/book/35356018/vendors_douban",
+			"buy_more_uri": "",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -8283,7 +8318,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 20372,
+				"count": 20392,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -8365,7 +8400,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 10271,
+				"count": 10280,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -8446,7 +8481,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2118,
+				"count": 2119,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -8494,7 +8529,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/35897952.jpg",
-			"min_sale_price": "¥99.0",
+			"min_sale_price": "¥95.04",
 			"press": [
 				"人民邮电出版社"
 			],
@@ -8530,7 +8565,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 21735,
+				"count": 21743,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -8691,7 +8726,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6048,
+				"count": 6052,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -8772,7 +8807,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 7361,
+				"count": 7365,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -9019,7 +9054,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3895,
+				"count": 3908,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -9065,7 +9100,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/36897062.jpg",
-			"min_sale_price": null,
+			"min_sale_price": "¥34.0",
 			"press": [
 				"云南人民出版社"
 			],
@@ -9078,7 +9113,7 @@
 			"uri": "douban://douban.com/book/36897062",
 			"subtype": "book",
 			"intro": "芭芭雅嘎是女巫，但不属于女巫的团体；她既可以是善人，也可以是恶人；是母亲，也是杀死女儿的凶手；是女人，但没有、也从未有过丈夫；她伸出援手，也策划阴谋；被人类社会驱逐，也与人类沟通；是战士，但也操持家务；是“死人”，也是活生生的人；她会飞，但同时也被束缚在地面上；她只是个“偶然出现的人物”，却也是主人公通往幸福之旅的关键一站：“礼貌的”和“粗鲁的”主人公在她的小屋前驻足，他们吃饱喝足，舒服地洗个澡，听取她的建议，带走她送的魔法礼物，然后消失得无影无踪。\n翻译成更现代的语言，她是异见者、流放者、失败者、隐居者、老处女、丑八怪。她的形象依赖于口述传统，是集体创作的成果，也是一面集体的镜子。她的人生故事开始于更好的时代，那时她还是金色芭芭、大地之母。后来，她成了被驱逐的稻草人，但依然用诡计统治着人们。如今，她缩在小屋中煎熬时日，像子宫中的胚胎，或棺材里的尸身。\n没有一个人带着花和巧克力，再次敲响她的门。",
-			"buy_more_uri": "",
+			"buy_more_uri": "douban://douban.com/book/36897062/vendors_douban",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -9101,7 +9136,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3773,
+				"count": 3798,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -9180,7 +9215,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 10321,
+				"count": 10327,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -9268,7 +9303,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 39874,
+				"count": 39882,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -9356,7 +9391,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 129876,
+				"count": 129901,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -9442,7 +9477,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 26166,
+				"count": 26173,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -9531,7 +9566,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 51482,
+				"count": 51534,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.6
@@ -9583,7 +9618,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/25887924.jpg",
-			"min_sale_price": "¥43.66",
+			"min_sale_price": "¥49.0",
 			"press": [
 				"上海译文出版社"
 			],
@@ -9700,7 +9735,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 26605,
+				"count": 26616,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -9789,7 +9824,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3192,
+				"count": 3197,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.1
@@ -9951,7 +9986,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 21690,
+				"count": 21698,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -10039,7 +10074,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 40810,
+				"count": 40835,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -10089,7 +10124,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/25912076.jpg",
-			"min_sale_price": "¥26.4",
+			"min_sale_price": "¥23.7",
 			"press": [
 				"生活·读书·新知三联书店 上海三联书店"
 			],
@@ -10125,7 +10160,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 80853,
+				"count": 80889,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -10213,7 +10248,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 104031,
+				"count": 104085,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -10266,7 +10301,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/35546622.jpg",
-			"min_sale_price": "¥28.5",
+			"min_sale_price": "¥32.5",
 			"press": [
 				"上海人民出版社"
 			],
@@ -10302,7 +10337,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 153158,
+				"count": 153186,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -10390,7 +10425,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 270775,
+				"count": 270877,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -10443,7 +10478,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/4908885.jpg",
-			"min_sale_price": "¥16.4",
+			"min_sale_price": "¥16.94",
 			"press": [
 				"上海译文出版社"
 			],
@@ -10479,7 +10514,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 161998,
+				"count": 162039,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -10567,7 +10602,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 111281,
+				"count": 111335,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -10656,7 +10691,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 99961,
+				"count": 100003,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -10745,7 +10780,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 420866,
+				"count": 420963,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -10834,7 +10869,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 17433,
+				"count": 17435,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -10886,7 +10921,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/3057556.jpg",
-			"min_sale_price": null,
+			"min_sale_price": "¥15.0",
 			"press": [
 				"广西师范大学出版社"
 			],
@@ -10899,7 +10934,7 @@
 			"uri": "douban://douban.com/book/3057556",
 			"subtype": "book",
 			"intro": "这本书主要探讨群众运动的一些共有特征，重点是陷入狂热的乌合之众的人格。长期与下层民众打交道的生活经历使作者发现，积极投身群众运动的往往是一些失意者。他们认为自己的生活已无可救药地失败，渴望逃离自我寻求重生，将生命托付给某项神圣伟业让他们感觉不错，整齐划一的集体生活令个人的责任、恐惧、无能得以掩埋。运动的领导者则刻意培养参与者的罪恶感，号召自我牺牲以获救赎。\n自1951年出版后，《狂热分子》即被视为社会科学领域的经典之作，短期内行销50万册以上，被译成10余种语言，是多所大学政治系的必读书。书中俯拾皆是充满智慧的思想火花与一针见血的比喻，风格酷似法国思想家蒙田与帕斯卡尔的随笔。至今，其佳言警句仍不断被引用、辑录。",
-			"buy_more_uri": "",
+			"buy_more_uri": "douban://douban.com/book/3057556/vendors_douban",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -10922,7 +10957,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2902,
+				"count": 2920,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -11011,7 +11046,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3233,
+				"count": 3235,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -11058,7 +11093,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/26907984.jpg",
-			"min_sale_price": "¥79.99",
+			"min_sale_price": "¥95.9",
 			"press": [
 				"机械工业出版社"
 			],
@@ -11094,7 +11129,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 9919,
+				"count": 9925,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -11183,7 +11218,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 7261,
+				"count": 7270,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -11265,7 +11300,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 415,
+				"count": 416,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -11426,7 +11461,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 296,
+				"count": 297,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -11671,10 +11706,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 576,
+				"count": 577,
 				"max": 10,
-				"star_count": 3.5,
-				"value": 7.4
+				"star_count": 4,
+				"value": 7.5
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -11914,7 +11949,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 657,
+				"count": 658,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -11996,7 +12031,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1809,
+				"count": 1811,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -12078,7 +12113,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3602,
+				"count": 3604,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -12203,7 +12238,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/24846050.jpg",
-			"min_sale_price": null,
+			"min_sale_price": "¥26.14",
 			"press": [
 				"贵州人民出版社"
 			],
@@ -12216,7 +12251,7 @@
 			"uri": "douban://douban.com/book/24846050",
 			"subtype": "book",
 			"intro": "在风光旖旎的泰晤士河畔，住着四个要好的朋友——憨厚的鼹鼠、机灵的河鼠、狂妄自大的蟾蜍、老成持重的獾。他们游山逛水，尽享大自然的慷慨恩赐。财大气粗而不知天高地厚的蟾蜍，迷上了开汽车，车祸不断，受到朋友们的责难和管束。一次，他偷了一辆汽车，被捕入狱，在狱卒女儿的帮助下，化装成洗衣妇逃出监狱，历经险情和磨难，在三位朋友的帮助下，夺回了被野林动物侵占的庄园，并从此改邪归正。",
-			"buy_more_uri": "",
+			"buy_more_uri": "douban://douban.com/book/24846050/vendors_douban",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -12239,7 +12274,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6970,
+				"count": 6972,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -12483,7 +12518,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 27760,
+				"count": 27764,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -12535,7 +12570,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/26276775.jpg",
-			"min_sale_price": "¥18.6",
+			"min_sale_price": "¥28.0",
 			"press": [
 				"北京大学出版社"
 			],
@@ -12571,7 +12606,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 26713,
+				"count": 26738,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -12653,7 +12688,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 138327,
+				"count": 138390,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -12742,7 +12777,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 43278,
+				"count": 43320,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -12830,7 +12865,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 10187,
+				"count": 10193,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -12873,7 +12908,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/26392337.jpg",
-			"min_sale_price": null,
+			"min_sale_price": "¥55.21",
 			"press": [
 				"江西人民出版社"
 			],
@@ -12886,7 +12921,7 @@
 			"uri": "douban://douban.com/book/26392337",
 			"subtype": "book",
 			"intro": "1996年11月，许多美国人不再为圣诞节送什么礼物给亲友发愁，因为他们都已经有了目标：那是一本叫做《与神对话》的书，作者是名不见经传的尼尔·唐纳德·沃尔什。这本书只有211页，定价也不高，才19.95美元，但是在他们看来，没有比它更合适、更贵重的礼物，因为它详细解答了生活与爱、善与恶、金钱和健康等各种问题，全新的世界观和人生观令人脱胎换骨。\n毫无媒体宣传的情况下，仅仅凭借读者交口称赞的传播， 1996年11月24日《与神对话》悄然登上《纽约时报》畅销书排行榜，位居非虚构类第14位，之后上榜的时间高达137周，拥有37种语言译本，总销量超过1300万册，成为不可动摇的殿堂级经典著作，而百万级畅销书《秘密》《吸引力法则》《遇见未知的自己》核心灵感也都源自于这部书。\n2009年，著名翻译家李继宏先生将《与神对话》引进中国。“一生等待的书”是广大读者的口碑美誉，各大媒体竞相报道。安妮宝贝、余秋雨、钱文忠、刘德华、李连杰、王菲、伊能静、金城武、刘亦菲、刘德凯、吴晓波、张汝伦、曹可凡纷纷诚意推荐，著名运动员姚明将《与神对话》作为见面礼赠送队友，它是“姚之队”的精神力量。\n2015年，《与神对话》全三卷修订版隆重上市。他讲述的事情与宗教无关，我们只需从下一首听到的歌曲、下一阵拂过耳畔的风，体会到生活和宇宙的奇妙。它是我们时代的灵魂圣经，它已经改造许多心灵，也必将改善你的生活。",
-			"buy_more_uri": "",
+			"buy_more_uri": "douban://douban.com/book/26392337/vendors_douban",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -12909,7 +12944,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1553,
+				"count": 1555,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -12991,10 +13026,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 44,
+				"count": 46,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.7
+				"value": 8.1
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -13070,7 +13105,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 11027,
+				"count": 11032,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -13152,10 +13187,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 24164,
+				"count": 24172,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 8.8
+				"value": 8.7
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -13835,7 +13870,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/1067830.jpg",
-			"min_sale_price": "¥25.09",
+			"min_sale_price": "¥23.77",
 			"press": [
 				"贵州人民出版社"
 			],
@@ -13871,7 +13906,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4385,
+				"count": 4392,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -13953,7 +13988,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6852,
+				"count": 6853,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -14035,7 +14070,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 21088,
+				"count": 21118,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -14123,7 +14158,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 31515,
+				"count": 31612,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -14169,7 +14204,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/36062390.jpg",
-			"min_sale_price": "¥34.0",
+			"min_sale_price": "¥31.0",
 			"press": [
 				"花城出版社"
 			],
@@ -14205,7 +14240,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 268219,
+				"count": 268278,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -14339,7 +14374,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/35219805.jpg",
-			"min_sale_price": null,
+			"min_sale_price": "¥32.5",
 			"press": [
 				"机械工业出版社"
 			],
@@ -14352,7 +14387,7 @@
 			"uri": "douban://douban.com/book/35219805",
 			"subtype": "book",
 			"intro": "你能敏锐察觉到他人的精神状态，并会感到自己也“承受着”这种情绪。你能敏锐察觉他人的情绪，并感到自己也“承受着”他的情绪。你善于自我反省，但是会因追求完美而苛责自己，痛苦不堪。你总有难以名状的紧迫感，觉得必须不断前进，并持续感到焦虑。\n也许你是一个情绪敏感者。本书希望帮你应对敏感的情绪，疗愈这些情绪在童年、亲密关系中带给你的伤痛，把敏锐的感知转化为优势，过更好的生活。\n在书中，你将学到：\n放下旧的情感包袱以及狭隘的心态\n处理让你烦恼的社交问题和家庭关系\n建立健康且愉快的亲密关系\n培养情绪恢复力，在生活的起伏中找到自己的平静",
-			"buy_more_uri": "",
+			"buy_more_uri": "douban://douban.com/book/35219805/vendors_douban",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -14375,7 +14410,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2269,
+				"count": 2270,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -14456,7 +14491,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2579,
+				"count": 2585,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -14537,7 +14572,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2956,
+				"count": 2961,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7
@@ -14619,7 +14654,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2392,
+				"count": 2394,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -14665,7 +14700,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/35404964.jpg",
-			"min_sale_price": "¥51.65",
+			"min_sale_price": "¥54.99",
 			"press": [
 				"机械工业出版社"
 			],
@@ -14701,7 +14736,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 5659,
+				"count": 5661,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -14783,7 +14818,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 878,
+				"count": 880,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -14869,7 +14904,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2448,
+				"count": 2449,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -14919,7 +14954,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/1218321.jpg",
-			"min_sale_price": "¥45.5",
+			"min_sale_price": "¥50.7",
 			"press": [
 				"中国人民大学出版社"
 			],
@@ -14955,7 +14990,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 9175,
+				"count": 9182,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -15118,7 +15153,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 412,
+				"count": 413,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -15164,7 +15199,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/37130726.jpg",
-			"min_sale_price": null,
+			"min_sale_price": "¥41.4",
 			"press": [
 				"中信出版集团"
 			],
@@ -15177,7 +15212,7 @@
 			"uri": "douban://douban.com/book/37130726",
 			"subtype": "book",
 			"intro": "※《星期日泰晤士报》畅销书、《每日电讯报》《星期日邮报》好评\n你的大脑就像一个古早的电脑操作系统，充斥着糟糕的代码，加载缓慢，更喜欢看猫的表情包，而不是睡觉。如果没有骨骼，你会一团糟，但如果你饱受背痛、颈部疼痛和膝关节崩溃的折磨，你的骨骼就会成为你的囚笼。你的鼻子从设计上讲是一个灾难，容易堵塞、漏水，还会长出随意的毛发。\n这是一本可以拯救你的生命的书，书中介绍的常用健康方法将为你排忧解难，让你更健康。你将了解关于健康的有用或者无用的冷知识：\n※如何用简单的方法提升睡眠质量？\n※拔鼻毛有什么危险？\n※用意念缓解痛苦可行不可行？\n※为什么癌症没有统一且有效的治疗方法？\n你将获得调整睡眠、告别消化不良、让自己的排泄更顺畅的健康建议。这本书能成为指导我们人体整个系统的指导手册，帮助我们照顾自己，并最大限度地利用人体的资源。",
-			"buy_more_uri": "",
+			"buy_more_uri": "douban://douban.com/book/37130726/vendors_douban",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -15286,7 +15321,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 135370,
+				"count": 135429,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -15375,7 +15410,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2639,
+				"count": 2640,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -15457,7 +15492,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 5170,
+				"count": 5174,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -15502,7 +15537,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/26892084.jpg",
-			"min_sale_price": null,
+			"min_sale_price": "¥35.0",
 			"press": [
 				"译林出版社"
 			],
@@ -15515,7 +15550,7 @@
 			"uri": "douban://douban.com/book/26892084",
 			"subtype": "book",
 			"intro": "年度大片《降临》原著小说来了！与外星人的首次接触，从学习他们的“语言”开始——《降临》（原名《你一生的故事》）选择了这个所有外星题材小说和电影都避而不谈的话题，从研究七肢桶的语言开始，了解他们对世界的认知。不同于人类对于“因”与“果”的线性认知，他们能同时感知所有事件——过去、现在与未来于他们并无区别。那么，学会了他们的语言，是否就能预知未来？假若这个未来是悲观的呢？\n特德·姜是当代优秀的科幻作家之一，出道二十余年，仅发表十五个短篇或中篇，却得遍世界科幻大奖。他的作品超出了太空飞船、机器人大战等人们对于科幻的固有期待，以独特的视角和别样的法则构建世界、讲述故事，充满对人性的反思和对价值观的拷问，科学和文学的魅力都在故事里流光溢彩。",
-			"buy_more_uri": "",
+			"buy_more_uri": "douban://douban.com/book/26892084/vendors_douban",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -15615,7 +15650,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1050,
+				"count": 1053,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -15658,7 +15693,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/36923814.jpg",
-			"min_sale_price": null,
+			"min_sale_price": "¥24.9",
 			"press": [
 				"人民邮电出版社"
 			],
@@ -15669,7 +15704,7 @@
 			"uri": "douban://douban.com/book/36923814",
 			"subtype": "book",
 			"intro": "数千亲历者庆幸读到这本书！9种NPD鉴别法+109种断联方法+11个步骤疗愈创伤+10大幸存者逆袭真相，识破自恋人格的伪装、守护自我防线、有效断联、深度自我疗愈！\n撒谎成性、喜欢夸大自己贬低他人、特权感很强烈、在意赞美和注视、无视他人需求、剥削他人、缺乏共情力、自我为中心……你身边是否有这样的人？小心自恋型人格！\n自恋型人格是一种致命的危险，一旦爱上一个自恋者，你的人生将万劫不复，既无法挣脱这种病态窒息的关系，又无法跳出这种循环。更可怕的是，你的恋人、朋友、领导、父母、同事，但凡身边人有1个自恋型人格，你的人生和能量都正在遭受蚕食！\n美国心理学家、哈佛心理学研究员阿拉比结合自身经历及多年关于自恋型人格的研究，向我们详细地剖析了自恋型人格的惯常伎俩、操纵他人的行为动机、自恋型受害者的创伤、自恋者与受害者的相互吸引，并提供了具体可行的指导来帮助我们走出自恋者的操控，拿回人生的主导。\n这是一场你能赢的游戏，识破自恋者的诡计，不再围绕他的期待而活。尽管这个过程可能鲜血淋漓，但最终你一定会脱胎换骨。\n如果一段关系让你疲惫不堪、痛苦卑微，你可以拿起这本书，拯救自己于关系的水火。\n请相信，我们终将收获不被欺骗、不被漠视、不被贬低、不被支配的人生。",
-			"buy_more_uri": "",
+			"buy_more_uri": "douban://douban.com/book/36923814/vendors_douban",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -15735,7 +15770,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/36874971.jpg",
-			"min_sale_price": null,
+			"min_sale_price": "¥32.1",
 			"press": [
 				"机械工业出版社"
 			],
@@ -15748,7 +15783,7 @@
 			"uri": "douban://douban.com/book/36874971",
 			"subtype": "book",
 			"intro": "抑郁与性格和遗传无关，无论是谁都可能会抑郁。那么从抑郁状态中走出来，需要多长时间?怎样与抑郁症患者交流和接触?抑郁症症状恶化，是因为交流、交往的方式不对吗?本书将为你揭晓答案。\n抑郁症是可以慢慢恢复的，但比大家想象的恢复时间要长一些。作者在本书中为读者揭示我们在与“抑郁的人”交往、接触中，应该注意哪些问题，应该采取怎样的积极尝试。这是一本教你帮助亲人战胜“抑郁”的方法书，也是教你如何爱惜自己的贴心指南。",
-			"buy_more_uri": "",
+			"buy_more_uri": "douban://douban.com/book/36874971/vendors_douban",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -15929,7 +15964,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 62024,
+				"count": 62058,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -16062,7 +16097,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/35564309.jpg",
-			"min_sale_price": null,
+			"min_sale_price": "¥223.0",
 			"press": [
 				"Farrar, Straus and Giroux"
 			],
@@ -16075,7 +16110,7 @@
 			"uri": "douban://douban.com/book/35564309",
 			"subtype": "book",
 			"intro": "The average human lifespan is absurdly, insultingly brief. Assuming you live to be eighty, you have just over four thousand weeks.\nNobody needs telling there isn’t enough time. We’re obsessed with our lengthening to-do lists, our overfilled inboxes, work-life balance, and the ceaseless battle against distraction; and we’re deluged with advice on becoming more productive and efficient, and “life hacks” to optimize our days. But such techniques often end up making things worse. The sense of anxious hurry grows more intense, and still the most meaningful parts of life seem to lie just beyond the horizon. Still, we rarely make the connection between our daily struggles with time and the ultimate time management problem: the challenge of how best to use our four thousand weeks.\nDrawing on the insights of both ancient and contemporary philosophers, psychologists, and spiritual teachers, Oliver Burkeman delivers an entertaining, humorous, practical, and ultimately profound guide to time and time management. Rejecting the futile modern fixation on “getting everything done,” Four Thousand Weeks introduces readers to tools for constructing a meaningful life by embracing finitude, showing how many of the unhelpful ways we’ve come to think about time aren’t inescapable, unchanging truths, but choices we’ve made as individuals and as a society—and that we could do things differently.",
-			"buy_more_uri": "",
+			"buy_more_uri": "douban://douban.com/book/35564309/vendors_douban",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -16144,7 +16179,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/35234117.jpg",
-			"min_sale_price": null,
+			"min_sale_price": "¥39.3",
 			"press": [
 				"中信出版集团"
 			],
@@ -16157,7 +16192,7 @@
 			"uri": "douban://douban.com/book/35234117",
 			"subtype": "book",
 			"intro": "我们都希望能掌控人生，而人生发生在一段段具体的时间里，我们进行时间管理，是为了创建新的人生秩序。\n每个群体和个体都有着自己的秩序，但时代更迭的速度早已超越了时间管理体系更新的速度，在智能时代，我们需要用新方法论解决新问题。\n这本书从五种时间的分类概念出发，讲述在智能时代的多场景下人如何重新觉知和应用时间，帮助人们获得一种独特的“五种时间”方法论。\n每当你面对选择的时刻，可以来翻开这本书，对照你的分类，回顾书中填写过的表格和答卷，再次重建人生的秩序。\n在时间面前，你永远都有选择。",
-			"buy_more_uri": "",
+			"buy_more_uri": "douban://douban.com/book/35234117/vendors_douban",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -16296,7 +16331,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/3206986.jpg",
-			"min_sale_price": null,
+			"min_sale_price": "¥28.35",
 			"press": [
 				"上海人民出版社"
 			],
@@ -16309,7 +16344,7 @@
 			"uri": "douban://douban.com/book/3206986",
 			"subtype": "book",
 			"intro": "本书分为五个逻辑相承的部分。导论部分，简述思想文化对于生存与毁灭这一永恒精神主题的沉思。价值论部分，对生死命题予以价值论的沉思，并结合艺术文本加以分析。本体论部分。阐释东西方富有代表性的生存哲学及其死亡意识。对生与死予以生存论的领会。创造论部分，援引丰富的艺术史现象论述死亡意象及其表现方式。欣赏论部分，从阐释学、接受美学角度分析欣赏者对于死亡意象的艺术欣赏和审美发现。\n本书从美学、文化哲学、神话学、解释学等世界对人类精神现象学的最高命题——生与死予以本体论、生存论、价值论的诗意运思，进而进入生存与毁灭和艺术的美学探究，在历史与逻辑相统一的前提下，结合文化史、艺术史的丰富资料，提出一系列富有审美发现意义的见解。",
-			"buy_more_uri": "",
+			"buy_more_uri": "douban://douban.com/book/3206986/vendors_douban",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -16376,7 +16411,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/26958338.jpg",
-			"min_sale_price": null,
+			"min_sale_price": "¥21.1",
 			"press": [
 				"云南美术出版社"
 			],
@@ -16389,7 +16424,7 @@
 			"uri": "douban://douban.com/book/26958338",
 			"subtype": "book",
 			"intro": "情报贩子折原临也从池袋的舞台消失后，受人所托来到了发展受阻的矿山小城市——武野仓市，展开了各方面的调查。这个男人凭借自己优秀的情报收集能力，客观地周转于发生冲突的两方之间，作为幕后推动者观察着世间人情。在这座没落的小城市里，突发的案件、腐朽的人际关系以及大人物之间的算计相互交络，介入其中的临也以情报左右着局势。他会玩火自焚，还是全身而退呢？",
-			"buy_more_uri": "",
+			"buy_more_uri": "douban://douban.com/book/26958338/vendors_douban",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
