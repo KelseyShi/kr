@@ -20,7 +20,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 349489,
+				"count": 358565,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -192,7 +192,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1122980,
+				"count": 1123433,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -209,7 +209,7 @@
 				{
 					"kind": "movie",
 					"uri": "douban://douban.com/subject_collection/movie_top250",
-					"rank": 208,
+					"rank": 207,
 					"title": "豆瓣电影Top250"
 				}
 			],
@@ -382,7 +382,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 37999,
+				"count": 38043,
 				"max": 10,
 				"star_count": 2,
 				"value": 4.4
@@ -533,7 +533,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 7360,
+				"count": 7375,
 				"max": 10,
 				"star_count": 3,
 				"value": 6.2
@@ -621,19 +621,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "72444b",
+				"primary_color_light": "723d40",
 				"_base_color": [
-					0.9743589743589743,
-					0.40625,
-					0.12549019607843137
+					0.9916666666666667,
+					0.4651162790697675,
+					0.16862745098039217
 				],
 				"secondary_color": "f9f4f5",
 				"_avg_color": [
-					0.9852941176470589,
-					0.4415584415584415,
-					0.30196078431372547
+					0.9956140350877193,
+					0.4318181818181818,
+					0.34509803921568627
 				],
-				"primary_color_dark": "4c2d32"
+				"primary_color_dark": "4c282a"
 			},
 			"type": "movie",
 			"has_linewatch": false,
@@ -721,19 +721,19 @@
 			"actors": [],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "6f7272",
+				"primary_color_light": "57726a",
 				"_base_color": [
-					0.46666666666666684,
-					0.028735632183908105,
-					0.6823529411764706
+					0.4523809523809524,
+					0.2413793103448276,
+					0.11372549019607843
 				],
 				"secondary_color": "f4f9f8",
 				"_avg_color": [
 					0.5,
-					0.13333333333333333,
-					0.17647058823529413
+					0.10937499999999994,
+					0.25098039215686274
 				],
-				"primary_color_dark": "4a4c4c"
+				"primary_color_dark": "3a4c47"
 			},
 			"type": "movie",
 			"has_linewatch": false,
@@ -775,7 +775,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 63374,
+				"count": 63375,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -933,7 +933,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 89091,
+				"count": 89199,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -957,8 +957,8 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png",
-				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png"
+				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png",
+				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png"
 			],
 			"year": "2025",
 			"card_subtitle": "2025 / 美国 澳大利亚 新西兰 加拿大 德国 / 动作 科幻 惊悚 冒险 / 丹·特拉亨伯格 / 艾丽·范宁 迪米特里乌斯·舒斯特-科洛阿玛坦吉",
@@ -1058,7 +1058,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 110258,
+				"count": 110271,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -1299,7 +1299,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 558932,
+				"count": 559499,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -1324,7 +1324,7 @@
 			"vendor_icons": [
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
 				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
-				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png"
+				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png"
 			],
 			"year": "2025",
 			"card_subtitle": "2025 / 中国大陆 中国香港 / 剧情 动作 犯罪 / 杨子 / 成龙 张子枫",
@@ -1427,7 +1427,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 150741,
+				"count": 150863,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.9
@@ -1577,7 +1577,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 558950,
+				"count": 559274,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -1602,7 +1602,7 @@
 			"vendor_icons": [
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
 				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
-				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png"
+				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
 			],
 			"year": "2025",
 			"card_subtitle": "2025 / 中国大陆 / 剧情 历史 战争 / 申奥 / 刘昊然 王传君",
@@ -1702,7 +1702,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 496303,
+				"count": 496666,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -1725,8 +1725,8 @@
 			],
 			"is_show": false,
 			"vendor_icons": [
-				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
 				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
+				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
 				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png"
 			],
 			"year": "2025",
@@ -1929,7 +1929,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 313938,
+				"count": 314232,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -1954,7 +1954,7 @@
 			"vendor_icons": [
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
 				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
-				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
+				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png"
 			],
 			"year": "2025",
 			"card_subtitle": "2025 / 中国大陆 / 动画 奇幻 冒险 / 木头 顾杰 / 山新 刘明月",
@@ -2003,19 +2003,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "727162",
+				"primary_color_light": "4c4a72",
 				"_base_color": [
-					0.15000000000000005,
-					0.14218009478672977,
-					0.8274509803921568
+					0.6749999999999999,
+					0.3508771929824561,
+					0.2235294117647059
 				],
-				"secondary_color": "f9f9f4",
+				"secondary_color": "f5f4f9",
 				"_avg_color": [
-					0.361111111111111,
-					0.051282051282051225,
-					0.4588235294117647
+					0.7843137254901961,
+					0.17894736842105258,
+					0.37254901960784315
 				],
-				"primary_color_dark": "4c4b41"
+				"primary_color_dark": "32314c"
 			},
 			"type": "movie",
 			"has_linewatch": true,
@@ -2060,7 +2060,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 515970,
+				"count": 516392,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -2307,7 +2307,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 210600,
+				"count": 210688,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -2392,7 +2392,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 311473,
+				"count": 311518,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -2501,11 +2501,11 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "726252",
+				"primary_color_light": "726251",
 				"_base_color": [
-					0.08333333333333337,
-					0.2790697674418605,
-					0.16862745098039217
+					0.08333333333333333,
+					0.2857142857142857,
+					0.16470588235294117
 				],
 				"secondary_color": "f9f7f4",
 				"_avg_color": [
@@ -2513,7 +2513,7 @@
 					0.30630630630630634,
 					0.43529411764705883
 				],
-				"primary_color_dark": "4c4137"
+				"primary_color_dark": "4c4136"
 			},
 			"type": "tv",
 			"has_linewatch": true,
@@ -2561,7 +2561,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 387438,
+				"count": 387504,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -2778,19 +2778,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "725a3e",
+				"primary_color_light": "72573c",
 				"_base_color": [
-					0.08888888888888886,
-					0.4545454545454546,
-					0.12941176470588237
+					0.08333333333333333,
+					0.47058823529411764,
+					0.13333333333333333
 				],
 				"secondary_color": "f9f7f4",
 				"_avg_color": [
-					0.1011904761904762,
-					0.6292134831460674,
-					0.34901960784313724
+					0.10000000000000002,
+					0.625,
+					0.34509803921568627
 				],
-				"primary_color_dark": "4c3c29"
+				"primary_color_dark": "4c3a28"
 			},
 			"type": "tv",
 			"has_linewatch": true,
@@ -2835,7 +2835,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 755050,
+				"count": 755223,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -2858,9 +2858,9 @@
 			],
 			"is_show": false,
 			"vendor_icons": [
-				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
+				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
+				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png"
 			],
 			"year": "2018",
 			"card_subtitle": "2018 / 日本 / 剧情 悬疑 / 冢原亚由子 竹村谦太郎 村尾嘉昭 / 石原里美 井浦新",
@@ -2983,7 +2983,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 81059,
+				"count": 81072,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.5
@@ -3058,19 +3058,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "725959",
+				"primary_color_light": "72594c",
 				"_base_color": [
-					0,
-					0.2222222222222222,
+					0.05555555555555556,
+					0.3333333333333333,
 					0.03529411764705882
 				],
-				"secondary_color": "f9f4f4",
+				"secondary_color": "f9f6f4",
 				"_avg_color": [
-					0.04166666666666665,
-					0.24242424242424251,
-					0.12941176470588237
+					0.047619047619047616,
+					0.21875,
+					0.12549019607843137
 				],
-				"primary_color_dark": "4c3b3b"
+				"primary_color_dark": "4c3b33"
 			},
 			"type": "movie",
 			"has_linewatch": false,
@@ -3112,7 +3112,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 15793,
+				"count": 15794,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -3148,19 +3148,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "697260",
+				"primary_color_light": "697263",
 				"_base_color": [
-					0.24999999999999992,
-					0.15789473684210525,
+					0.2666666666666666,
+					0.13157894736842096,
 					0.14901960784313725
 				],
-				"secondary_color": "f7f9f4",
+				"secondary_color": "f6f9f4",
 				"_avg_color": [
-					0.10416666666666667,
+					0.11805555555555562,
 					0.28235294117647053,
 					0.3333333333333333
 				],
-				"primary_color_dark": "464c40"
+				"primary_color_dark": "464c42"
 			},
 			"type": "movie",
 			"has_linewatch": false,
@@ -3202,7 +3202,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 65887,
+				"count": 65914,
 				"max": 10,
 				"star_count": 3,
 				"value": 5.8
@@ -3359,19 +3359,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "a59693",
+				"primary_color_light": "a59694",
 				"_base_color": [
-					0.03086419753086424,
-					0.10975609756097568,
+					0.02564102564102555,
+					0.10569105691056907,
 					0.9647058823529412
 				],
 				"secondary_color": "f9f5f4",
 				"_avg_color": [
-					0.011904761904761862,
-					0.13397129186602863,
-					0.8196078431372549
+					0.006172839506172811,
+					0.12980769230769226,
+					0.8156862745098039
 				],
-				"primary_color_dark": "7f7471"
+				"primary_color_dark": "7f7472"
 			},
 			"type": "movie",
 			"has_linewatch": false,
@@ -3413,7 +3413,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 162898,
+				"count": 162905,
 				"max": 10,
 				"star_count": 2,
 				"value": 3.7
@@ -3568,7 +3568,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 46535,
+				"count": 46545,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.8
@@ -3676,7 +3676,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 565160,
+				"count": 565478,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -3693,7 +3693,7 @@
 				{
 					"kind": "movie",
 					"uri": "douban://douban.com/subject_collection/movie_top250",
-					"rank": 249,
+					"rank": 248,
 					"title": "豆瓣电影Top250"
 				}
 			],
@@ -3781,19 +3781,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "725750",
+				"primary_color_light": "72574f",
 				"_base_color": [
 					0.037037037037037035,
-					0.3,
-					0.11764705882352941
+					0.3103448275862069,
+					0.11372549019607843
 				],
 				"secondary_color": "f9f6f4",
 				"_avg_color": [
-					0.056338028169014086,
-					0.5634920634920635,
+					0.05787037037037037,
+					0.5714285714285714,
 					0.49411764705882355
 				],
-				"primary_color_dark": "4c3a35"
+				"primary_color_dark": "4c3a34"
 			},
 			"type": "movie",
 			"has_linewatch": false,
@@ -3835,7 +3835,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 227138,
+				"count": 227205,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -3898,19 +3898,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "4d4472",
+				"primary_color_light": "4b4472",
 				"_base_color": [
-					0.6984126984126985,
+					0.6904761904761906,
 					0.40384615384615385,
 					0.20392156862745098
 				],
 				"secondary_color": "f5f4f9",
 				"_avg_color": [
-					0.6184210526315789,
-					0.3114754098360656,
+					0.6153846153846154,
+					0.319672131147541,
 					0.47843137254901963
 				],
-				"primary_color_dark": "332d4c"
+				"primary_color_dark": "322d4c"
 			},
 			"type": "movie",
 			"has_linewatch": true,
@@ -3952,7 +3952,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 65792,
+				"count": 65813,
 				"max": 10,
 				"star_count": 3,
 				"value": 6.4
@@ -4031,19 +4031,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "725650",
+				"primary_color_light": "725850",
 				"_base_color": [
-					0.027777777777777773,
+					0.041666666666666664,
 					0.3,
 					0.1568627450980392
 				],
-				"secondary_color": "f9f5f4",
+				"secondary_color": "f9f6f4",
 				"_avg_color": [
 					0.03333333333333336,
 					0.27272727272727276,
 					0.21568627450980393
 				],
-				"primary_color_dark": "4c3935"
+				"primary_color_dark": "4c3b35"
 			},
 			"type": "movie",
 			"has_linewatch": false,
@@ -4085,7 +4085,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 12450,
+				"count": 12455,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -4171,7 +4171,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 48753,
+				"count": 48761,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.7
@@ -4251,11 +4251,11 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "495f72",
+				"primary_color_light": "4a6072",
 				"_base_color": [
-					0.5750000000000001,
-					0.3636363636363636,
-					0.21568627450980393
+					0.5740740740740741,
+					0.3529411764705882,
+					0.2
 				],
 				"secondary_color": "f4f7f9",
 				"_avg_color": [
@@ -4263,7 +4263,7 @@
 					0.16822429906542063,
 					0.4196078431372549
 				],
-				"primary_color_dark": "303f4c"
+				"primary_color_dark": "31404c"
 			},
 			"type": "movie",
 			"has_linewatch": true,
@@ -4305,7 +4305,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 94119,
+				"count": 94133,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -4418,7 +4418,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 188179,
+				"count": 188226,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.9
@@ -4546,7 +4546,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 193174,
+				"count": 193215,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -4692,7 +4692,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 142338,
+				"count": 142373,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -4827,7 +4827,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 221192,
+				"count": 221232,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -4933,15 +4933,15 @@
 				"is_dark": true,
 				"primary_color_light": "9d8fa5",
 				"_base_color": [
-					0.7698412698412699,
-					0.13125000000000006,
-					0.6274509803921569
+					0.7727272727272728,
+					0.1366459627329193,
+					0.6313725490196078
 				],
-				"secondary_color": "f7f4f9",
+				"secondary_color": "f8f4f9",
 				"_avg_color": [
-					0.8229166666666666,
-					0.12307692307692297,
-					0.5098039215686274
+					0.8125,
+					0.12213740458015257,
+					0.5137254901960784
 				],
 				"primary_color_dark": "796e7f"
 			},
@@ -4985,7 +4985,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 195663,
+				"count": 195726,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -5068,19 +5068,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "647272",
+				"primary_color_light": "607272",
 				"_base_color": [
 					0.5,
-					0.125,
+					0.15625,
 					0.12549019607843137
 				],
 				"secondary_color": "f4f9f9",
 				"_avg_color": [
 					0.5,
-					0.08333333333333323,
+					0.1111111111111111,
 					0.1411764705882353
 				],
-				"primary_color_dark": "424c4c"
+				"primary_color_dark": "404c4c"
 			},
 			"type": "movie",
 			"has_linewatch": false,
@@ -5122,7 +5122,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 308566,
+				"count": 308602,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -5147,7 +5147,7 @@
 			"vendor_icons": [
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
 				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
-				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png"
+				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
 			],
 			"year": "2017",
 			"card_subtitle": "2017 / 美国 / 科幻 恐怖 / 雷德利·斯科特 / 迈克尔·法斯宾德 凯瑟琳·沃特斯顿",
@@ -5273,7 +5273,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 117396,
+				"count": 117471,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7
@@ -5367,9 +5367,9 @@
 				"is_dark": true,
 				"primary_color_light": "a5764a",
 				"_base_color": [
-					0.08,
-					0.5524861878453039,
-					0.7098039215686275
+					0.08006535947712422,
+					0.5483870967741935,
+					0.7294117647058823
 				],
 				"secondary_color": "f9f7f4",
 				"_avg_color": [
@@ -5377,7 +5377,7 @@
 					0.47468354430379744,
 					0.6196078431372549
 				],
-				"primary_color_dark": "7f5a39"
+				"primary_color_dark": "7f5b39"
 			},
 			"type": "movie",
 			"has_linewatch": false,
@@ -5419,7 +5419,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 49999,
+				"count": 50018,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.6
@@ -5500,19 +5500,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "724e2e",
+				"primary_color_light": "72512c",
 				"_base_color": [
-					0.07894736842105264,
-					0.59375,
-					0.12549019607843137
+					0.08771929824561404,
+					0.6129032258064516,
+					0.12156862745098039
 				],
 				"secondary_color": "f9f7f4",
 				"_avg_color": [
-					0.07471264367816093,
-					0.5576923076923077,
+					0.07777777777777778,
+					0.5769230769230769,
 					0.20392156862745098
 				],
-				"primary_color_dark": "4c341f"
+				"primary_color_dark": "4c361d"
 			},
 			"type": "movie",
 			"has_linewatch": false,
@@ -5554,7 +5554,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 32720,
+				"count": 32728,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.6
@@ -5628,10 +5628,10 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "2d3d72",
+				"primary_color_light": "283d72",
 				"_base_color": [
-					0.6274509803921569,
-					0.6071428571428571,
+					0.6203703703703703,
+					0.6428571428571429,
 					0.10980392156862745
 				],
 				"secondary_color": "f4f6f9",
@@ -5640,7 +5640,7 @@
 					0.5111111111111112,
 					0.17647058823529413
 				],
-				"primary_color_dark": "1e284c"
+				"primary_color_dark": "1b284c"
 			},
 			"type": "movie",
 			"has_linewatch": false,
@@ -5682,7 +5682,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 795670,
+				"count": 795810,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -5705,9 +5705,9 @@
 			],
 			"is_show": false,
 			"vendor_icons": [
-				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
 				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
-				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png"
+				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
+				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png"
 			],
 			"year": "1994",
 			"card_subtitle": "1994 / 中国香港 / 剧情 喜剧 古装 / 王晶 / 周星驰 吴孟达",
@@ -5762,19 +5762,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "a58a81",
+				"primary_color_light": "a58980",
 				"_base_color": [
-					0.03921568627450972,
-					0.21794871794871798,
+					0.03809523809523807,
+					0.22435897435897445,
 					0.611764705882353
 				],
 				"secondary_color": "f9f6f4",
 				"_avg_color": [
-					0.06497175141242943,
-					0.3511904761904762,
-					0.6588235294117647
+					0.06557377049180331,
+					0.3609467455621302,
+					0.6627450980392157
 				],
-				"primary_color_dark": "7f6a63"
+				"primary_color_dark": "7f6962"
 			},
 			"type": "movie",
 			"has_linewatch": true,
@@ -5816,7 +5816,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 507449,
+				"count": 507559,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -5896,19 +5896,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "a5a38d",
+				"primary_color_light": "a4a594",
 				"_base_color": [
-					0.1515151515151514,
-					0.14410480349344976,
-					0.8980392156862745
+					0.17424242424242423,
+					0.1013824884792627,
+					0.8509803921568627
 				],
 				"secondary_color": "f9f9f4",
 				"_avg_color": [
-					0.15873015873015875,
-					0.10396039603960387,
+					0.15909090909090912,
+					0.10891089108910881,
 					0.792156862745098
 				],
-				"primary_color_dark": "7f7d6d"
+				"primary_color_dark": "7e7f72"
 			},
 			"type": "movie",
 			"has_linewatch": true,
@@ -5950,7 +5950,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1596074,
+				"count": 1596318,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -6093,7 +6093,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 593798,
+				"count": 593914,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -6152,11 +6152,11 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "a58a79",
+				"primary_color_light": "a58773",
 				"_base_color": [
-					0.06481481481481478,
-					0.26865671641791045,
-					0.2627450980392157
+					0.06666666666666665,
+					0.3030303030303031,
+					0.25882352941176473
 				],
 				"secondary_color": "f9f6f4",
 				"_avg_color": [
@@ -6164,7 +6164,7 @@
 					0.33582089552238814,
 					0.5254901960784314
 				],
-				"primary_color_dark": "7f6a5d"
+				"primary_color_dark": "7f6858"
 			},
 			"type": "movie",
 			"has_linewatch": true,
@@ -6206,7 +6206,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 612340,
+				"count": 612481,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -6230,8 +6230,8 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png",
-				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
+				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png",
+				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png"
 			],
 			"year": "2011",
 			"card_subtitle": "2011 / 日本 / 剧情 爱情 动画 奇幻 / 大森贵弘 / 佐仓绫音 内山昂辉",
@@ -6265,19 +6265,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "8ea574",
+				"primary_color_light": "8fa574",
 				"_base_color": [
 					0.2435897435897436,
-					0.29885057471264365,
-					0.6823529411764706
+					0.29545454545454547,
+					0.6901960784313725
 				],
 				"secondary_color": "f7f9f4",
 				"_avg_color": [
 					0.25,
-					0.275,
-					0.6274509803921569
+					0.27672955974842767,
+					0.6235294117647059
 				],
-				"primary_color_dark": "6d7f59"
+				"primary_color_dark": "6e7f59"
 			},
 			"type": "movie",
 			"has_linewatch": true,
@@ -6319,7 +6319,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1224758,
+				"count": 1224937,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -6344,7 +6344,7 @@
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png"
+				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png"
 			],
 			"year": "1993",
 			"card_subtitle": "1993 / 中国香港 / 喜剧 爱情 古装 / 李力持 / 周星驰 巩俐",
@@ -6414,19 +6414,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "a58792",
+				"primary_color_light": "a58694",
 				"_base_color": [
-					0.9393939393939393,
-					0.18333333333333326,
-					0.23529411764705882
+					0.9242424242424242,
+					0.18644067796610175,
+					0.23137254901960785
 				],
-				"secondary_color": "f9f4f6",
+				"secondary_color": "f9f4f7",
 				"_avg_color": [
 					0.06306306306306309,
 					0.2055555555555556,
 					0.7058823529411765
 				],
-				"primary_color_dark": "7f6870"
+				"primary_color_dark": "7f6772"
 			},
 			"type": "movie",
 			"has_linewatch": true,
@@ -6468,7 +6468,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 968693,
+				"count": 968857,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -6493,7 +6493,7 @@
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png"
+				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
 			],
 			"year": "2003",
 			"card_subtitle": "2003 / 美国 / 动作 奇幻 冒险 / 戈尔·维宾斯基 / 约翰尼·德普 杰弗里·拉什",
@@ -6527,11 +6527,11 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "725648",
+				"primary_color_light": "725647",
 				"_base_color": [
-					0.055555555555555546,
-					0.3658536585365854,
-					0.1607843137254902
+					0.05555555555555556,
+					0.375,
+					0.1568627450980392
 				],
 				"secondary_color": "f9f6f4",
 				"_avg_color": [
@@ -6539,7 +6539,7 @@
 					0.48148148148148145,
 					0.3176470588235294
 				],
-				"primary_color_dark": "4c3930"
+				"primary_color_dark": "4c392f"
 			},
 			"type": "movie",
 			"has_linewatch": true,
@@ -6581,7 +6581,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 775740,
+				"count": 775832,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -6679,19 +6679,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "a53528",
+				"primary_color_light": "a52e26",
 				"_base_color": [
-					0.016877637130801686,
-					0.7559808612440192,
-					0.8196078431372549
+					0.011037527593818985,
+					0.770408163265306,
+					0.7686274509803922
 				],
 				"secondary_color": "f9f5f4",
 				"_avg_color": [
-					0.023224043715846982,
-					0.6630434782608695,
-					0.7215686274509804
+					0.02168021680216803,
+					0.6612903225806451,
+					0.7294117647058823
 				],
-				"primary_color_dark": "7f281f"
+				"primary_color_dark": "7f231d"
 			},
 			"type": "movie",
 			"has_linewatch": true,
@@ -6733,7 +6733,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1112382,
+				"count": 1112667,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -6816,11 +6816,11 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "4d5672",
+				"primary_color_light": "505972",
 				"_base_color": [
-					0.6296296296296297,
-					0.32142857142857145,
-					0.10980392156862745
+					0.625,
+					0.2962962962962963,
+					0.10588235294117647
 				],
 				"secondary_color": "f4f6f9",
 				"_avg_color": [
@@ -6828,7 +6828,7 @@
 					0.07462686567164184,
 					0.2627450980392157
 				],
-				"primary_color_dark": "33394c"
+				"primary_color_dark": "353b4c"
 			},
 			"type": "movie",
 			"has_linewatch": true,
@@ -6870,7 +6870,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1584931,
+				"count": 1585149,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -6895,7 +6895,7 @@
 			"vendor_icons": [
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
 				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
-				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
+				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png"
 			],
 			"year": "2009",
 			"card_subtitle": "2009 / 美国 / 动作 科幻 冒险 / 詹姆斯·卡梅隆 / 萨姆·沃辛顿 佐伊·索尔达娜",
@@ -7094,7 +7094,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 683569,
+				"count": 683659,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -7117,9 +7117,9 @@
 			],
 			"is_show": false,
 			"vendor_icons": [
-				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
 				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
-				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png"
+				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
+				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
 			],
 			"year": "1965",
 			"card_subtitle": "1965 / 美国 / 剧情 爱情 歌舞 传记 / 罗伯特·怀斯 / 朱莉·安德鲁斯 克里斯托弗·普卢默",
@@ -7231,19 +7231,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "a5968c",
+				"primary_color_light": "a5968b",
 				"_base_color": [
-					0.06372549019607836,
-					0.15178571428571425,
-					0.8784313725490196
+					0.06666666666666672,
+					0.1555555555555555,
+					0.8823529411764706
 				],
 				"secondary_color": "f9f6f4",
 				"_avg_color": [
-					0.05660377358490565,
-					0.28342245989304804,
-					0.7333333333333333
+					0.05769230769230769,
+					0.2795698924731182,
+					0.7294117647058823
 				],
-				"primary_color_dark": "7f736c"
+				"primary_color_dark": "7f736b"
 			},
 			"type": "movie",
 			"has_linewatch": true,
@@ -7285,7 +7285,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 879922,
+				"count": 880157,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -7309,8 +7309,8 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png",
-				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png"
+				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png",
+				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png"
 			],
 			"year": "1989",
 			"card_subtitle": "1989 / 美国 / 剧情 / 彼得·威尔 / 罗宾·威廉姆斯 罗伯特·肖恩·莱纳德",
@@ -7402,19 +7402,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "a5443e",
+				"primary_color_light": "a56978",
 				"_base_color": [
-					0.009259259259259264,
-					0.6206896551724138,
-					0.11372549019607843
+					0.9583333333333334,
+					0.36363636363636365,
+					0.043137254901960784
 				],
-				"secondary_color": "f9f5f4",
+				"secondary_color": "f9f4f6",
 				"_avg_color": [
-					0.09108527131782947,
+					0.08914728682170542,
 					0.593103448275862,
 					0.5686274509803921
 				],
-				"primary_color_dark": "7f3430"
+				"primary_color_dark": "7f515c"
 			},
 			"type": "movie",
 			"has_linewatch": true,
@@ -7456,7 +7456,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 959432,
+				"count": 959597,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -7480,8 +7480,8 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png",
-				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png"
+				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png",
+				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
 			],
 			"year": "1994",
 			"card_subtitle": "1994 / 美国 / 动画 歌舞 冒险 / 罗杰·阿勒斯 罗伯·明可夫 / 乔纳森·泰勒·托马斯 马修·布罗德里克",
@@ -7527,19 +7527,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "2d74a5",
+				"primary_color_light": "2d75a5",
 				"_base_color": [
-					0.5678466076696166,
-					0.7243589743589743,
-					0.611764705882353
+					0.5666666666666668,
+					0.7232704402515724,
+					0.6235294117647059
 				],
 				"secondary_color": "f4f7f9",
 				"_avg_color": [
-					0.5616438356164384,
-					0.4294117647058823,
-					0.6666666666666666
+					0.5601851851851851,
+					0.4260355029585799,
+					0.6627450980392157
 				],
-				"primary_color_dark": "23597f"
+				"primary_color_dark": "235a7f"
 			},
 			"type": "movie",
 			"has_linewatch": true,
@@ -7584,7 +7584,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 508848,
+				"count": 508947,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -7607,9 +7607,9 @@
 			],
 			"is_show": false,
 			"vendor_icons": [
-				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
 				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
-				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
+				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
+				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png"
 			],
 			"year": "1961",
 			"card_subtitle": "1961 / 中国大陆 / 剧情 动画 奇幻 古装 / 万籁鸣 / 邱岳峰 富润生",
@@ -7654,9 +7654,9 @@
 				],
 				"secondary_color": "f9f7f4",
 				"_avg_color": [
-					0.08943089430894309,
-					0.8541666666666667,
-					0.5647058823529412
+					0.08953168044077135,
+					0.8521126760563381,
+					0.5568627450980392
 				],
 				"primary_color_dark": "7f4307"
 			},
@@ -7700,7 +7700,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1047172,
+				"count": 1047313,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -7725,7 +7725,7 @@
 			"vendor_icons": [
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
 				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
-				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png"
+				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png"
 			],
 			"year": "1953",
 			"card_subtitle": "1953 / 美国 / 剧情 喜剧 爱情 / 威廉·惠勒 / 奥黛丽·赫本 格利高里·派克",
@@ -7828,7 +7828,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 740398,
+				"count": 740541,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -7925,17 +7925,17 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "a59990",
+				"primary_color_light": "a59991",
 				"_base_color": [
 					0.07051282051282047,
-					0.1256038647342995,
-					0.8117647058823529
+					0.12499999999999997,
+					0.8156862745098039
 				],
 				"secondary_color": "f9f7f4",
 				"_avg_color": [
-					0.028985507246376736,
-					0.14110429447852746,
-					0.6392156862745098
+					0.036231884057971085,
+					0.14197530864197533,
+					0.6352941176470588
 				],
 				"primary_color_dark": "7f766f"
 			},
@@ -7979,7 +7979,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1363606,
+				"count": 1363802,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -8003,8 +8003,8 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
-				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png",
-				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png"
+				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png",
+				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
 			],
 			"year": "1995",
 			"card_subtitle": "1995 / 中国香港 中国大陆 / 喜剧 爱情 奇幻 古装 / 刘镇伟 / 周星驰 吴孟达",
@@ -8053,11 +8053,11 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "723520",
+				"primary_color_light": "72351f",
 				"_base_color": [
-					0.043624161073825496,
-					0.7198067632850242,
-					0.8117647058823529
+					0.043333333333333335,
+					0.7211538461538461,
+					0.8156862745098039
 				],
 				"secondary_color": "f9f6f4",
 				"_avg_color": [
@@ -8107,7 +8107,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1287946,
+				"count": 1288226,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -8131,8 +8131,8 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png",
-				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png"
+				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png",
+				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
 			],
 			"year": "2004",
 			"card_subtitle": "2004 / 日本 / 爱情 动画 奇幻 冒险 / 宫崎骏 / 倍赏千惠子 木村拓哉",
@@ -8235,7 +8235,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1497784,
+				"count": 1498065,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -8258,9 +8258,9 @@
 			],
 			"is_show": false,
 			"vendor_icons": [
-				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
 				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
-				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png"
+				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
+				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png"
 			],
 			"year": "2009",
 			"card_subtitle": "2009 / 美国 / 剧情 喜剧 动画 冒险 / 彼特·道格特 鲍勃·彼德森 / 爱德华·阿斯纳 克里斯托弗·普卢默",
@@ -8381,7 +8381,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1419241,
+				"count": 1419527,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -8404,9 +8404,9 @@
 			],
 			"is_show": false,
 			"vendor_icons": [
-				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
 				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
-				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
+				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
+				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png"
 			],
 			"year": "2001",
 			"card_subtitle": "2001 / 美国 英国 / 奇幻 冒险 / 克里斯·哥伦布 / 丹尼尔·雷德克里夫 艾玛·沃森",
@@ -8517,7 +8517,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1026535,
+				"count": 1026723,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -8540,8 +8540,8 @@
 			],
 			"is_show": false,
 			"vendor_icons": [
-				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
-				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png"
+				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
+				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png"
 			],
 			"year": "1987",
 			"card_subtitle": "1987 / 英国 意大利 中国大陆 法国 / 剧情 传记 历史 / 贝纳尔多·贝托鲁奇 / 尊龙 陈冲",
@@ -8653,19 +8653,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "a4a598",
+				"primary_color_light": "a5a598",
 				"_base_color": [
-					0.1862745098039215,
-					0.08173076923076922,
-					0.8156862745098039
+					0.16666666666666666,
+					0.08133971291866027,
+					0.8196078431372549
 				],
 				"secondary_color": "f9f9f4",
 				"_avg_color": [
-					0.11333333333333334,
-					0.29069767441860467,
-					0.6745098039215687
+					0.11564625850340142,
+					0.2865497076023391,
+					0.6705882352941176
 				],
-				"primary_color_dark": "7e7f75"
+				"primary_color_dark": "7f7f75"
 			},
 			"type": "movie",
 			"has_linewatch": true,
@@ -8707,7 +8707,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2047605,
+				"count": 2047891,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -8730,8 +8730,8 @@
 			],
 			"is_show": false,
 			"vendor_icons": [
-				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
 				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
+				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
 				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
 			],
 			"year": "2010",
@@ -8844,17 +8844,17 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "726552",
+				"primary_color_light": "726652",
 				"_base_color": [
 					0.10057471264367814,
-					0.2801932367149758,
-					0.8117647058823529
+					0.2788461538461538,
+					0.8156862745098039
 				],
 				"secondary_color": "f9f7f4",
 				"_avg_color": [
-					0.1130952380952381,
-					0.3294117647058823,
-					0.3333333333333333
+					0.11728395061728396,
+					0.3214285714285714,
+					0.32941176470588235
 				],
 				"primary_color_dark": "4c4437"
 			},
@@ -8898,7 +8898,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1408557,
+				"count": 1408800,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -8998,17 +8998,17 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "a59f7f",
+				"primary_color_light": "a59f7e",
 				"_base_color": [
-					0.1405228758169935,
-					0.2318181818181819,
-					0.8627450980392157
+					0.13782051282051286,
+					0.23423423423423428,
+					0.8705882352941177
 				],
 				"secondary_color": "f9f9f4",
 				"_avg_color": [
-					0.1423611111111111,
-					0.22966507177033493,
-					0.8196078431372549
+					0.14539007092198578,
+					0.2259615384615385,
+					0.8156862745098039
 				],
 				"primary_color_dark": "7f7a61"
 			},
@@ -9052,7 +9052,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1706229,
+				"count": 1706467,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -9075,9 +9075,9 @@
 			],
 			"is_show": false,
 			"vendor_icons": [
-				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
+				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
+				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png"
 			],
 			"year": "1995",
 			"card_subtitle": "1995 / 中国香港 中国大陆 / 喜剧 爱情 奇幻 古装 / 刘镇伟 / 周星驰 吴孟达",
@@ -9131,9 +9131,9 @@
 				],
 				"secondary_color": "f9f6f4",
 				"_avg_color": [
-					0.057017543859649134,
-					0.5135135135135136,
-					0.5803921568627451
+					0.05701754385964911,
+					0.5170068027210883,
+					0.5764705882352941
 				],
 				"primary_color_dark": "7f4933"
 			},
@@ -9177,7 +9177,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2313040,
+				"count": 2313499,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -9202,7 +9202,7 @@
 			"vendor_icons": [
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
 				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
-				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png"
+				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
 			],
 			"year": "2016",
 			"card_subtitle": "2016 / 美国 / 喜剧 动画 冒险 / 拜伦·霍华德 瑞奇·摩尔 杰拉德·布什 / 金妮弗·古德温 杰森·贝特曼",
@@ -9377,7 +9377,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1875606,
+				"count": 1875836,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -9533,7 +9533,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2013000,
+				"count": 2013390,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -9556,9 +9556,9 @@
 			],
 			"is_show": false,
 			"vendor_icons": [
-				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
 				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
-				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png"
+				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
+				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
 			],
 			"year": "1998",
 			"card_subtitle": "1998 / 美国 / 剧情 科幻 / 彼得·威尔 / 金·凯瑞 劳拉·琳妮",
@@ -9588,19 +9588,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "a55849",
+				"primary_color_light": "a5584a",
 				"_base_color": [
-					0.02724358974358974,
-					0.5591397849462365,
-					0.7294117647058823
+					0.026143790849673203,
+					0.5513513513513513,
+					0.7254901960784313
 				],
 				"secondary_color": "f9f5f4",
 				"_avg_color": [
-					0.9380952380952381,
+					0.9428571428571428,
 					0.24647887323943662,
 					0.5568627450980392
 				],
-				"primary_color_dark": "7f4338"
+				"primary_color_dark": "7f4439"
 			},
 			"type": "movie",
 			"has_linewatch": true,
@@ -9642,7 +9642,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2530755,
+				"count": 2531189,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -9721,19 +9721,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "72625b",
+				"primary_color_light": "726257",
 				"_base_color": [
-					0.05555555555555556,
-					0.20689655172413793,
+					0.07142857142857144,
+					0.2413793103448276,
 					0.11372549019607843
 				],
-				"secondary_color": "f9f6f4",
+				"secondary_color": "f9f7f4",
 				"_avg_color": [
 					0.05555555555555556,
 					0.4347826086956521,
 					0.27058823529411763
 				],
-				"primary_color_dark": "4c413c"
+				"primary_color_dark": "4c413a"
 			},
 			"type": "movie",
 			"has_linewatch": false,
@@ -9775,7 +9775,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2492145,
+				"count": 2492598,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -9948,19 +9948,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "a59890",
+				"primary_color_light": "726964",
 				"_base_color": [
-					0.06547619047619037,
-					0.12727272727272732,
-					0.8627450980392157
+					0.06547619047619054,
+					0.12669683257918557,
+					0.8666666666666667
 				],
 				"secondary_color": "f9f6f4",
 				"_avg_color": [
 					0.05882352941176464,
-					0.13281249999999997,
-					0.5019607843137255
+					0.1338582677165354,
+					0.4980392156862745
 				],
-				"primary_color_dark": "7f756f"
+				"primary_color_dark": "4c4642"
 			},
 			"type": "movie",
 			"has_linewatch": true,
@@ -10002,7 +10002,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1982906,
+				"count": 1983364,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -10025,9 +10025,9 @@
 			],
 			"is_show": false,
 			"vendor_icons": [
-				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
+				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
+				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png"
 			],
 			"year": "2017",
 			"card_subtitle": "2017 / 美国 / 喜剧 动画 音乐 奇幻 / 李·昂克里奇 阿德里安·莫利纳 / 安东尼·冈萨雷斯 盖尔·加西亚·贝纳尔",
@@ -10169,7 +10169,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 92108,
+				"count": 92125,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.7
@@ -10290,10 +10290,10 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "721d23",
+				"primary_color_light": "721e25",
 				"_base_color": [
-					0.9884259259259259,
-					0.7422680412371134,
+					0.9870892018779343,
+					0.731958762886598,
 					0.7607843137254902
 				],
 				"secondary_color": "f9f4f5",
@@ -10302,7 +10302,7 @@
 					0.7,
 					0.11764705882352941
 				],
-				"primary_color_dark": "4c1317"
+				"primary_color_dark": "4c1418"
 			},
 			"type": "movie",
 			"has_linewatch": true,
@@ -10344,7 +10344,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 30620,
+				"count": 30627,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -10395,11 +10395,11 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "9aa5a2",
+				"primary_color_light": "9aa5a1",
 				"_base_color": [
-					0.4523809523809523,
-					0.06572769953051646,
-					0.8352941176470589
+					0.4404761904761904,
+					0.06542056074766359,
+					0.8392156862745098
 				],
 				"secondary_color": "f4f9f8",
 				"_avg_color": [
@@ -10407,7 +10407,7 @@
 					0.0634146341463415,
 					0.803921568627451
 				],
-				"primary_color_dark": "777f7d"
+				"primary_color_dark": "777f7c"
 			},
 			"type": "movie",
 			"has_linewatch": true,
@@ -10449,7 +10449,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1548952,
+				"count": 1549152,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -10526,19 +10526,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "55a58b",
+				"primary_color_light": "51a58d",
 				"_base_color": [
-					0.4444444444444444,
-					0.4838709677419355,
-					0.24313725490196078
+					0.4523809523809524,
+					0.5090909090909091,
+					0.21568627450980393
 				],
 				"secondary_color": "f4f9f8",
 				"_avg_color": [
-					0.4166666666666667,
-					0.22900763358778622,
+					0.41954022988505746,
+					0.2213740458015266,
 					0.5137254901960784
 				],
-				"primary_color_dark": "417f6a"
+				"primary_color_dark": "3e7f6c"
 			},
 			"type": "movie",
 			"has_linewatch": false,
@@ -10580,7 +10580,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 230786,
+				"count": 230796,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -10635,10 +10635,10 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "a5a499",
+				"primary_color_light": "a5a59a",
 				"_base_color": [
-					0.1458333333333334,
-					0.07111111111111111,
+					0.15555555555555559,
+					0.06666666666666668,
 					0.8823529411764706
 				],
 				"secondary_color": "f9f9f4",
@@ -10647,7 +10647,7 @@
 					0.0964467005076143,
 					0.7725490196078432
 				],
-				"primary_color_dark": "7f7e76"
+				"primary_color_dark": "7f7e77"
 			},
 			"type": "movie",
 			"has_linewatch": false,
@@ -10689,7 +10689,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 33265,
+				"count": 33278,
 				"max": 10,
 				"star_count": 3,
 				"value": 6.2
@@ -10784,9 +10784,9 @@
 				],
 				"secondary_color": "f9f4f9",
 				"_avg_color": [
-					0.8763440860215054,
-					0.28181818181818186,
-					0.43137254901960786
+					0.8777777777777778,
+					0.2752293577981651,
+					0.42745098039215684
 				],
 				"primary_color_dark": "49294c"
 			},
@@ -10830,7 +10830,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 118790,
+				"count": 118832,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -10904,8 +10904,8 @@
 				"primary_color_light": "a5a2a0",
 				"_base_color": [
 					0.06249999999999978,
-					0.03361344537815126,
-					0.9333333333333333
+					0.03375527426160337,
+					0.9294117647058824
 				],
 				"secondary_color": "f9f6f4",
 				"_avg_color": [
@@ -10955,7 +10955,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 65155,
+				"count": 65161,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -11003,8 +11003,8 @@
 				],
 				"secondary_color": "f9f8f4",
 				"_avg_color": [
-					0.13636363636363638,
-					0.25581395348837216,
+					0.1388888888888889,
+					0.2790697674418605,
 					0.16862745098039217
 				],
 				"primary_color_dark": "4c4430"
@@ -11049,7 +11049,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 171744,
+				"count": 171773,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -11108,19 +11108,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "517267",
+				"primary_color_light": "517263",
 				"_base_color": [
-					0.4444444444444444,
+					0.4259259259259259,
 					0.2903225806451613,
 					0.12156862745098039
 				],
-				"secondary_color": "f4f9f8",
+				"secondary_color": "f4f9f7",
 				"_avg_color": [
-					0.11111111111111109,
-					0.24590163934426235,
-					0.23921568627450981
+					0.12222222222222222,
+					0.24999999999999994,
+					0.23529411764705882
 				],
-				"primary_color_dark": "364c45"
+				"primary_color_dark": "364c42"
 			},
 			"type": "tv",
 			"has_linewatch": false,
@@ -11162,7 +11162,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 69608,
+				"count": 69620,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.8
@@ -11241,10 +11241,10 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "99a5a1",
+				"primary_color_light": "9aa5a1",
 				"_base_color": [
-					0.4479166666666668,
-					0.07339449541284404,
+					0.44444444444444464,
+					0.0688073394495413,
 					0.8549019607843137
 				],
 				"secondary_color": "f4f9f8",
@@ -11295,7 +11295,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 45529,
+				"count": 45541,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -11398,19 +11398,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "72696b",
+				"primary_color_light": "72686b",
 				"_base_color": [
-					0.9509803921568626,
-					0.08457711442786069,
-					0.788235294117647
+					0.9537037037037036,
+					0.08910891089108908,
+					0.792156862745098
 				],
 				"secondary_color": "f9f4f6",
 				"_avg_color": [
 					0.9607843137254902,
-					0.14285714285714282,
-					0.4666666666666667
+					0.14406779661016958,
+					0.4627450980392157
 				],
-				"primary_color_dark": "4c4647"
+				"primary_color_dark": "4c4547"
 			},
 			"type": "movie",
 			"has_linewatch": false,
@@ -11452,7 +11452,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 18404,
+				"count": 18415,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -11543,11 +11543,11 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "585872",
+				"primary_color_light": "5f5f72",
 				"_base_color": [
 					0.6666666666666666,
-					0.23076923076923078,
-					0.050980392156862744
+					0.16666666666666666,
+					0.047058823529411764
 				],
 				"secondary_color": "f4f4f9",
 				"_avg_color": [
@@ -11555,7 +11555,7 @@
 					0.23529411764705882,
 					0.13333333333333333
 				],
-				"primary_color_dark": "3a3a4c"
+				"primary_color_dark": "3f3f4c"
 			},
 			"type": "movie",
 			"has_linewatch": false,
@@ -11600,7 +11600,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 19301,
+				"count": 19304,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.6
@@ -11664,9 +11664,9 @@
 				],
 				"secondary_color": "f9f7f4",
 				"_avg_color": [
-					0.05303030303030307,
-					0.20183486238532103,
-					0.42745098039215684
+					0.04761904761904758,
+					0.19444444444444442,
+					0.4235294117647059
 				],
 				"primary_color_dark": "4c4743"
 			},
@@ -11710,7 +11710,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 23829,
+				"count": 23831,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.2
@@ -11881,7 +11881,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 74475,
+				"count": 74490,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.2
@@ -11932,19 +11932,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "724f4d",
+				"primary_color_light": "72524d",
 				"_base_color": [
-					0.011111111111111108,
+					0.022222222222222254,
 					0.32608695652173914,
 					0.1803921568627451
 				],
 				"secondary_color": "f9f5f4",
 				"_avg_color": [
-					0.05092592592592591,
-					0.3870967741935483,
-					0.36470588235294116
+					0.05405405405405402,
+					0.39361702127659576,
+					0.3686274509803922
 				],
-				"primary_color_dark": "4c3533"
+				"primary_color_dark": "4c3633"
 			},
 			"type": "movie",
 			"has_linewatch": true,
@@ -11986,7 +11986,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 94960,
+				"count": 94987,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.1
@@ -12052,19 +12052,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "a5454a",
+				"primary_color_light": "a5444a",
 				"_base_color": [
-					0.9901960784313726,
-					0.5828571428571429,
-					0.6862745098039216
+					0.9900990099009901,
+					0.5872093023255814,
+					0.6745098039215687
 				],
 				"secondary_color": "f9f4f5",
 				"_avg_color": [
-					0.012820512820512794,
-					0.4715025906735751,
-					0.7568627450980392
+					0.012962962962962935,
+					0.46874999999999994,
+					0.7529411764705882
 				],
-				"primary_color_dark": "7f3539"
+				"primary_color_dark": "7f3439"
 			},
 			"type": "movie",
 			"has_linewatch": false,
@@ -12106,7 +12106,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 74780,
+				"count": 74790,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.2
@@ -12157,17 +12157,17 @@
 				"is_dark": true,
 				"primary_color_light": "a59d95",
 				"_base_color": [
-					0.08333333333333333,
-					0.10091743119266046,
+					0.07936507936507937,
+					0.09633027522935772,
 					0.8549019607843137
 				],
 				"secondary_color": "f9f7f4",
 				"_avg_color": [
-					0.06060606060606066,
-					0.12941176470588223,
+					0.055555555555555636,
+					0.12352941176470578,
 					0.6666666666666666
 				],
-				"primary_color_dark": "7f7972"
+				"primary_color_dark": "7f7973"
 			},
 			"type": "movie",
 			"has_linewatch": false,
@@ -12209,7 +12209,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 21445,
+				"count": 21452,
 				"max": 10,
 				"star_count": 3,
 				"value": 6.3
@@ -12225,9 +12225,9 @@
 			"honor_infos": [],
 			"is_show": false,
 			"vendor_icons": [
-				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png",
 				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png",
-				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png"
+				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png",
+				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
 			],
 			"year": "2004",
 			"card_subtitle": "2004 / 美国 日本 德国 / 悬疑 恐怖 / 清水崇 / 莎拉·米歇尔·盖拉 比尔·普尔曼",
@@ -12257,19 +12257,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "6f6672",
+				"primary_color_light": "467269",
 				"_base_color": [
-					0.792,
-					0.108,
-					0.145
+					0.4666666666666666,
+					0.38461538461538464,
+					0.050980392156862744
 				],
-				"secondary_color": "f8f4f9",
+				"secondary_color": "f4f9f8",
 				"_avg_color": [
 					0.4583333333333333,
 					0.32,
 					0.09803921568627451
 				],
-				"primary_color_dark": "4a444c"
+				"primary_color_dark": "2f4c46"
 			},
 			"type": "movie",
 			"has_linewatch": true,
@@ -12311,7 +12311,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 110027,
+				"count": 110040,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.9
@@ -12379,19 +12379,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "707250",
+				"primary_color_light": "727251",
 				"_base_color": [
-					0.17948717948717952,
-					0.3023255813953489,
-					0.16862745098039217
+					0.16666666666666666,
+					0.2857142857142857,
+					0.16470588235294117
 				],
 				"secondary_color": "f9f9f4",
 				"_avg_color": [
-					0.12222222222222223,
-					0.31914893617021284,
+					0.12365591397849462,
+					0.3297872340425532,
 					0.3686274509803922
 				],
-				"primary_color_dark": "4a4c35"
+				"primary_color_dark": "4c4c36"
 			},
 			"type": "movie",
 			"has_linewatch": false,
@@ -12433,7 +12433,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 154231,
+				"count": 154252,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -12498,19 +12498,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "567072",
+				"primary_color_light": "557272",
 				"_base_color": [
-					0.5151515151515151,
-					0.24999999999999992,
-					0.17254901960784313
+					0.5,
+					0.25581395348837216,
+					0.16862745098039217
 				],
 				"secondary_color": "f4f9f9",
 				"_avg_color": [
 					0.5,
-					0.06944444444444439,
-					0.2823529411764706
+					0.05633802816901408,
+					0.2784313725490196
 				],
-				"primary_color_dark": "394a4c"
+				"primary_color_dark": "384c4c"
 			},
 			"type": "movie",
 			"has_linewatch": false,
@@ -12552,7 +12552,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 46253,
+				"count": 46259,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.9
@@ -12576,8 +12576,8 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png",
-				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
+				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png",
+				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png"
 			],
 			"year": "2013",
 			"card_subtitle": "2013 / 西班牙 加拿大 / 恐怖 / 安德斯·穆斯切蒂 / 杰西卡·查斯坦 尼古拉·科斯特-瓦尔道",
@@ -12609,19 +12609,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "72675e",
+				"primary_color_light": "726860",
 				"_base_color": [
-					0.07843137254901955,
-					0.17989417989418,
-					0.7411764705882353
+					0.0752688172043011,
+					0.1631578947368421,
+					0.7450980392156863
 				],
 				"secondary_color": "f9f7f4",
 				"_avg_color": [
 					0,
-					0.11764705882352941,
-					0.26666666666666666
+					0.10447761194029856,
+					0.2627450980392157
 				],
-				"primary_color_dark": "4c453e"
+				"primary_color_dark": "4c4540"
 			},
 			"type": "movie",
 			"has_linewatch": true,
@@ -12663,7 +12663,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 349860,
+				"count": 349929,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -12686,9 +12686,9 @@
 			],
 			"is_show": false,
 			"vendor_icons": [
-				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png"
+				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
+				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
 			],
 			"year": "2013",
 			"card_subtitle": "2013 / 美国 英国 马耳他 / 动作 科幻 恐怖 / 马克·福斯特 / 布拉德·皮特 米瑞·伊诺丝",
@@ -12818,7 +12818,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 278844,
+				"count": 278891,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -12891,11 +12891,11 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "724c38",
+				"primary_color_light": "724836",
 				"_base_color": [
-					0.058052434456928835,
-					0.5114942528735632,
-					0.6823529411764706
+					0.050561797752809,
+					0.5235294117647059,
+					0.6666666666666666
 				],
 				"secondary_color": "f9f6f4",
 				"_avg_color": [
@@ -12903,7 +12903,7 @@
 					0.43956043956043955,
 					0.3568627450980392
 				],
-				"primary_color_dark": "4c3225"
+				"primary_color_dark": "4c3024"
 			},
 			"type": "movie",
 			"has_linewatch": true,
@@ -12945,7 +12945,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 417528,
+				"count": 417610,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -13001,19 +13001,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "72332e",
+				"primary_color_light": "72342f",
 				"_base_color": [
-					0.012722646310432573,
-					0.5981735159817352,
+					0.011718750000000019,
+					0.5844748858447489,
 					0.8588235294117647
 				],
 				"secondary_color": "f9f5f4",
 				"_avg_color": [
-					0.002283105022831041,
-					0.6403508771929823,
+					0.004504504504504514,
+					0.6491228070175439,
 					0.4470588235294118
 				],
-				"primary_color_dark": "4c221e"
+				"primary_color_dark": "4c221f"
 			},
 			"type": "movie",
 			"has_linewatch": true,
@@ -13055,7 +13055,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 319844,
+				"count": 319922,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -13080,7 +13080,7 @@
 			"vendor_icons": [
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
 				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
-				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png"
+				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png"
 			],
 			"year": "1979",
 			"card_subtitle": "1979 / 英国 美国 / 科幻 惊悚 恐怖 / 雷德利·斯科特 / 西格妮·韦弗 汤姆·斯凯里特",
@@ -13177,7 +13177,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 65015,
+				"count": 65029,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -13258,19 +13258,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "724e48",
+				"primary_color_light": "725047",
 				"_base_color": [
-					0.023809523809523836,
-					0.368421052631579,
-					0.2235294117647059
+					0.033333333333333326,
+					0.3773584905660377,
+					0.20784313725490197
 				],
 				"secondary_color": "f9f5f4",
 				"_avg_color": [
-					0.049019607843137226,
-					0.3655913978494623,
+					0.047619047619047616,
+					0.3763440860215054,
 					0.36470588235294116
 				],
-				"primary_color_dark": "4c3430"
+				"primary_color_dark": "4c352f"
 			},
 			"type": "movie",
 			"has_linewatch": true,
@@ -13312,7 +13312,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 180123,
+				"count": 180150,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -13370,9 +13370,9 @@
 				"is_dark": true,
 				"primary_color_light": "676b72",
 				"_base_color": [
-					0.6052631578947367,
-					0.09452736318407955,
-					0.788235294117647
+					0.6083333333333333,
+					0.09900990099009895,
+					0.792156862745098
 				],
 				"secondary_color": "f4f6f9",
 				"_avg_color": [
@@ -13380,7 +13380,7 @@
 					0.23684210526315788,
 					0.2980392156862745
 				],
-				"primary_color_dark": "45474c"
+				"primary_color_dark": "44474c"
 			},
 			"type": "movie",
 			"has_linewatch": true,
@@ -13422,7 +13422,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 26989,
+				"count": 27006,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.1
@@ -13492,11 +13492,11 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "723f37",
+				"primary_color_light": "724138",
 				"_base_color": [
-					0.024691358024691357,
-					0.5192307692307693,
-					0.20392156862745098
+					0.025641025641025644,
+					0.5098039215686275,
+					0.2
 				],
 				"secondary_color": "f9f5f4",
 				"_avg_color": [
@@ -13504,7 +13504,7 @@
 					0.34883720930232565,
 					0.33725490196078434
 				],
-				"primary_color_dark": "4c2a24"
+				"primary_color_dark": "4c2b25"
 			},
 			"type": "movie",
 			"has_linewatch": false,
@@ -13546,7 +13546,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 9542,
+				"count": 9543,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.1
@@ -13595,19 +13595,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "726e57",
+				"primary_color_light": "726d56",
 				"_base_color": [
 					0.1388888888888889,
-					0.23529411764705882,
-					0.2
+					0.25,
+					0.18823529411764706
 				],
 				"secondary_color": "f9f9f4",
 				"_avg_color": [
-					0.11403508771929831,
+					0.1228070175438597,
 					0.22619047619047622,
 					0.32941176470588235
 				],
-				"primary_color_dark": "4c493a"
+				"primary_color_dark": "4c4939"
 			},
 			"type": "movie",
 			"has_linewatch": false,
@@ -13649,7 +13649,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 48718,
+				"count": 48732,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.1
@@ -13723,9 +13723,9 @@
 				],
 				"secondary_color": "f9f4f4",
 				"_avg_color": [
-					0.9166666666666666,
-					0.13793103448275862,
-					0.11372549019607843
+					0.8888888888888888,
+					0.10714285714285714,
+					0.10980392156862745
 				],
 				"primary_color_dark": "4c4c4c"
 			},
@@ -13769,7 +13769,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 18230,
+				"count": 18233,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.9
@@ -13866,10 +13866,10 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "726472",
+				"primary_color_light": "726072",
 				"_base_color": [
 					0.8333333333333334,
-					0.125,
+					0.15625,
 					0.12549019607843137
 				],
 				"secondary_color": "f9f4f9",
@@ -13878,7 +13878,7 @@
 					0.2272727272727273,
 					0.25882352941176473
 				],
-				"primary_color_dark": "4c424c"
+				"primary_color_dark": "4c404c"
 			},
 			"type": "movie",
 			"has_linewatch": false,
@@ -13920,7 +13920,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 8368,
+				"count": 8370,
 				"max": 10,
 				"star_count": 3,
 				"value": 6
@@ -13970,11 +13970,11 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "725b66",
+				"primary_color_light": "725a66",
 				"_base_color": [
 					0.9166666666666666,
-					0.20689655172413793,
-					0.11372549019607843
+					0.21428571428571427,
+					0.10980392156862745
 				],
 				"secondary_color": "f9f4f7",
 				"_avg_color": [
@@ -14039,7 +14039,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 16392,
+				"count": 16397,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.1
@@ -14086,14 +14086,14 @@
 				"primary_color_light": "720d0d",
 				"_base_color": [
 					0,
-					0.8791208791208791,
-					0.7137254901960784
+					0.8797814207650273,
+					0.7176470588235294
 				],
 				"secondary_color": "f9f4f4",
 				"_avg_color": [
 					0,
-					0.8070175438596492,
-					0.4470588235294118
+					0.8086956521739131,
+					0.45098039215686275
 				],
 				"primary_color_dark": "4c0909"
 			},
@@ -14155,7 +14155,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 18569,
+				"count": 18579,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.7
@@ -14205,19 +14205,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "726a51",
+				"primary_color_light": "726952",
 				"_base_color": [
-					0.125,
-					0.2857142857142857,
-					0.10980392156862745
+					0.11904761904761905,
+					0.28,
+					0.09803921568627451
 				],
 				"secondary_color": "f9f8f4",
 				"_avg_color": [
-					0.0888888888888889,
-					0.23437499999999994,
-					0.25098039215686274
+					0.08974358974358976,
+					0.2063492063492064,
+					0.24705882352941178
 				],
-				"primary_color_dark": "4c4736"
+				"primary_color_dark": "4c4637"
 			},
 			"type": "movie",
 			"has_linewatch": false,
@@ -14286,7 +14286,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 38214,
+				"count": 38220,
 				"max": 10,
 				"star_count": 3,
 				"value": 5.8
@@ -14348,19 +14348,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "4286a5",
+				"primary_color_light": "4586a5",
 				"_base_color": [
-					0.5518518518518518,
-					0.6,
-					0.29411764705882354
+					0.554263565891473,
+					0.581081081081081,
+					0.2901960784313726
 				],
 				"secondary_color": "f4f8f9",
 				"_avg_color": [
-					0.07142857142857147,
-					0.17834394904458606,
+					0.07471264367816095,
+					0.1847133757961784,
 					0.615686274509804
 				],
-				"primary_color_dark": "33677f"
+				"primary_color_dark": "35677f"
 			},
 			"type": "movie",
 			"has_linewatch": false,
@@ -14402,7 +14402,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 5487,
+				"count": 5489,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7
@@ -14441,19 +14441,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "a59376",
+				"primary_color_light": "a59277",
 				"_base_color": [
-					0.1016260162601626,
-					0.2847222222222222,
-					0.5647058823529412
+					0.09629629629629631,
+					0.27607361963190175,
+					0.6392156862745098
 				],
 				"secondary_color": "f9f7f4",
 				"_avg_color": [
-					0.05701754385964919,
-					0.25850340136054417,
-					0.5764705882352941
+					0.05982905982905982,
+					0.26712328767123283,
+					0.5725490196078431
 				],
-				"primary_color_dark": "7f715b"
+				"primary_color_dark": "7f705c"
 			},
 			"type": "movie",
 			"has_linewatch": false,
@@ -14495,7 +14495,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 137531,
+				"count": 137550,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -14588,8 +14588,8 @@
 				"secondary_color": "f4f9f9",
 				"_avg_color": [
 					0.4666666666666668,
-					0.06849315068493146,
-					0.28627450980392155
+					0.06944444444444439,
+					0.2823529411764706
 				],
 				"primary_color_dark": "474c4c"
 			},
@@ -14636,7 +14636,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 19047,
+				"count": 19051,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -14659,8 +14659,8 @@
 			],
 			"is_show": false,
 			"vendor_icons": [
-				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
 				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
+				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
 				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png"
 			],
 			"year": "2014",
@@ -14700,19 +14700,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "725d56",
+				"primary_color_light": "726354",
 				"_base_color": [
-					0.041666666666666664,
-					0.25,
-					0.06274509803921569
+					0.08333333333333333,
+					0.26666666666666666,
+					0.058823529411764705
 				],
-				"secondary_color": "f9f6f4",
+				"secondary_color": "f9f7f4",
 				"_avg_color": [
 					0.07692307692307691,
 					0.2888888888888889,
 					0.17647058823529413
 				],
-				"primary_color_dark": "4c3e39"
+				"primary_color_dark": "4c4238"
 			},
 			"type": "movie",
 			"has_linewatch": true,
@@ -14754,7 +14754,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 85963,
+				"count": 85966,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -14807,19 +14807,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "724c4c",
+				"primary_color_light": "724141",
 				"_base_color": [
 					0,
-					0.3333333333333333,
-					0.023529411764705882
+					0.42857142857142855,
+					0.027450980392156862
 				],
 				"secondary_color": "f9f4f4",
 				"_avg_color": [
-					0.008771929824561412,
-					0.6551724137931034,
-					0.11372549019607843
+					0.009259259259259264,
+					0.6428571428571429,
+					0.10980392156862745
 				],
-				"primary_color_dark": "4c3333"
+				"primary_color_dark": "4c2b2b"
 			},
 			"type": "movie",
 			"has_linewatch": true,
@@ -14861,7 +14861,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 115467,
+				"count": 115479,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.2
@@ -14930,19 +14930,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "2b4f72",
+				"primary_color_light": "724d35",
 				"_base_color": [
-					0.5833333333333334,
-					0.6206896551724138,
-					0.11372549019607843
+					0.06515151515151513,
+					0.5339805825242718,
+					0.807843137254902
 				],
-				"secondary_color": "f4f7f9",
+				"secondary_color": "f9f6f4",
 				"_avg_color": [
 					0,
-					0.05999999999999993,
-					0.19607843137254902
+					0.058823529411764774,
+					0.2
 				],
-				"primary_color_dark": "1d344c"
+				"primary_color_dark": "4c3323"
 			},
 			"type": "movie",
 			"has_linewatch": false,
@@ -14984,7 +14984,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 442989,
+				"count": 443064,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -15007,9 +15007,9 @@
 			],
 			"is_show": false,
 			"vendor_icons": [
-				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
 				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
-				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png"
+				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
+				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png"
 			],
 			"year": "2017",
 			"card_subtitle": "2017 / 美国 / 悬疑 惊悚 恐怖 / 乔丹·皮尔 / 丹尼尔·卡卢亚 艾莉森·威廉姆斯",
@@ -15073,19 +15073,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "5d6c72",
+				"primary_color_light": "5d6972",
 				"_base_color": [
-					0.5476190476190476,
+					0.5714285714285715,
 					0.18918918918918926,
 					0.1450980392156863
 				],
-				"secondary_color": "f4f8f9",
+				"secondary_color": "f4f7f9",
 				"_avg_color": [
-					0.5555555555555555,
-					0.16901408450704225,
-					0.2784313725490196
+					0.5694444444444443,
+					0.16666666666666666,
+					0.2823529411764706
 				],
-				"primary_color_dark": "3e484c"
+				"primary_color_dark": "3e464c"
 			},
 			"type": "movie",
 			"has_linewatch": true,
@@ -15127,7 +15127,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 291574,
+				"count": 291620,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7
@@ -15150,8 +15150,8 @@
 			],
 			"is_show": false,
 			"vendor_icons": [
-				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
 				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
+				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
 				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png"
 			],
 			"year": "2017",
@@ -15234,10 +15234,10 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "724c32",
+				"primary_color_light": "724c3f",
 				"_base_color": [
-					0.06666666666666667,
-					0.5555555555555556,
+					0.041666666666666664,
+					0.4444444444444444,
 					0.03529411764705882
 				],
 				"secondary_color": "f9f6f4",
@@ -15246,7 +15246,7 @@
 					0.6976744186046512,
 					0.16862745098039217
 				],
-				"primary_color_dark": "4c3322"
+				"primary_color_dark": "4c332a"
 			},
 			"type": "movie",
 			"has_linewatch": true,
@@ -15288,7 +15288,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 50184,
+				"count": 50227,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -15446,9 +15446,9 @@
 				],
 				"secondary_color": "f9f4f4",
 				"_avg_color": [
-					0.013888888888888931,
-					0.16216216216216225,
-					0.2901960784313726
+					0.02777777777777779,
+					0.16438356164383552,
+					0.28627450980392155
 				],
 				"primary_color_dark": "4c3e3e"
 			},
@@ -15492,7 +15492,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 36570,
+				"count": 36585,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7
@@ -15565,11 +15565,11 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "5b76a5",
+				"primary_color_light": "5c75a5",
 				"_base_color": [
-					0.6060606060606061,
-					0.44594594594594594,
-					0.2901960784313726
+					0.609375,
+					0.4444444444444444,
+					0.2823529411764706
 				],
 				"secondary_color": "f4f6f9",
 				"_avg_color": [
@@ -15577,7 +15577,7 @@
 					0.054054054054054015,
 					0.7254901960784313
 				],
-				"primary_color_dark": "465b7f"
+				"primary_color_dark": "465a7f"
 			},
 			"type": "movie",
 			"has_linewatch": false,
@@ -15619,7 +15619,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1439454,
+				"count": 1439710,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -15711,9 +15711,9 @@
 				],
 				"secondary_color": "f4f6f9",
 				"_avg_color": [
-					0.6055555555555556,
-					0.2884615384615384,
-					0.40784313725490196
+					0.6,
+					0.29126213592233013,
+					0.403921568627451
 				],
 				"primary_color_dark": "1b284c"
 			},
@@ -15757,7 +15757,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 143745,
+				"count": 143822,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -15774,8 +15774,8 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
-				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png",
-				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png"
+				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png",
+				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png"
 			],
 			"year": "2000",
 			"card_subtitle": "2000 / 美国 / 科幻 悬疑 犯罪 / 格里高利·霍布里特 / 丹尼斯·奎德 吉姆·卡维泽",
@@ -15884,7 +15884,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 740116,
+				"count": 740350,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.6
@@ -16038,7 +16038,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 508362,
+				"count": 508454,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -16145,19 +16145,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "724a2f",
+				"primary_color_light": "724b31",
 				"_base_color": [
-					0.06613756613756615,
-					0.5833333333333333,
+					0.06639566395663958,
+					0.5694444444444444,
 					0.8470588235294118
 				],
 				"secondary_color": "f9f6f4",
 				"_avg_color": [
-					0.06089743589743588,
+					0.05769230769230769,
 					0.5977011494252873,
 					0.3411764705882353
 				],
-				"primary_color_dark": "4c311f"
+				"primary_color_dark": "4c3220"
 			},
 			"type": "movie",
 			"has_linewatch": true,
@@ -16199,7 +16199,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 25467,
+				"count": 25470,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.6
@@ -16215,9 +16215,9 @@
 			"honor_infos": [],
 			"is_show": false,
 			"vendor_icons": [
-				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png"
+				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
+				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png"
 			],
 			"year": "2013",
 			"card_subtitle": "2013 / 中国大陆 / 爱情 悬疑 惊悚 / 邱处机 / 张榕容 任泉",
@@ -16253,9 +16253,9 @@
 				"is_dark": true,
 				"primary_color_light": "a5a39f",
 				"_base_color": [
-					0.1041666666666669,
-					0.03864734299516908,
-					0.8117647058823529
+					0.1041666666666663,
+					0.03902439024390244,
+					0.803921568627451
 				],
 				"secondary_color": "f9f8f4",
 				"_avg_color": [
@@ -16305,7 +16305,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 81580,
+				"count": 81598,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.8
@@ -16380,8 +16380,8 @@
 				"secondary_color": "f9f4f6",
 				"_avg_color": [
 					0.9473684210526315,
-					0.09793814432989685,
-					0.7607843137254902
+					0.09844559585492223,
+					0.7568627450980392
 				],
 				"primary_color_dark": "7f3353"
 			},
@@ -16425,7 +16425,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 177722,
+				"count": 177765,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -16488,14 +16488,14 @@
 				"primary_color_light": "726250",
 				"_base_color": [
 					0.0859375,
-					0.29767441860465116,
-					0.8431372549019608
+					0.29906542056074764,
+					0.8392156862745098
 				],
 				"secondary_color": "f9f7f4",
 				"_avg_color": [
-					0.07638888888888891,
-					0.4,
-					0.47058823529411764
+					0.07482993197278914,
+					0.4049586776859504,
+					0.4745098039215686
 				],
 				"primary_color_dark": "4c4135"
 			},
@@ -16539,7 +16539,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 199861,
+				"count": 199894,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -16637,8 +16637,8 @@
 				],
 				"secondary_color": "f4f6f9",
 				"_avg_color": [
-					0.6000000000000002,
-					0.10714285714285726,
+					0.6041666666666669,
+					0.11428571428571438,
 					0.5490196078431373
 				],
 				"primary_color_dark": "66707f"
@@ -16683,7 +16683,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 30222,
+				"count": 30238,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -16836,7 +16836,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 225258,
+				"count": 225290,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -16993,7 +16993,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 217099,
+				"count": 217123,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -17083,11 +17083,11 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "a57b21",
+				"primary_color_light": "a57c22",
 				"_base_color": [
-					0.11373873873873874,
-					0.7956989247311828,
-					0.7294117647058823
+					0.1141552511415525,
+					0.7891891891891891,
+					0.7254901960784313
 				],
 				"secondary_color": "f9f8f4",
 				"_avg_color": [
@@ -17137,7 +17137,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 357428,
+				"count": 357503,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -17160,9 +17160,9 @@
 			],
 			"is_show": false,
 			"vendor_icons": [
-				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
+				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
+				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png"
 			],
 			"year": "1960",
 			"card_subtitle": "1960 / 美国 / 悬疑 惊悚 恐怖 / 阿尔弗雷德·希区柯克 / 安东尼·博金斯 维拉·迈尔斯",
@@ -17271,19 +17271,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "726d32",
+				"primary_color_light": "726d33",
 				"_base_color": [
-					0.1537467700258398,
-					0.5584415584415584,
-					0.9058823529411765
+					0.15234375000000003,
+					0.5470085470085471,
+					0.9176470588235294
 				],
 				"secondary_color": "f9f9f4",
 				"_avg_color": [
-					0.2727272727272727,
-					0.27499999999999997,
-					0.47058823529411764
+					0.2760416666666667,
+					0.2644628099173554,
+					0.4745098039215686
 				],
-				"primary_color_dark": "4c4921"
+				"primary_color_dark": "4c4822"
 			},
 			"type": "movie",
 			"has_linewatch": true,
@@ -17325,7 +17325,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 729778,
+				"count": 729904,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -17401,19 +17401,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "4c5872",
+				"primary_color_light": "495872",
 				"_base_color": [
-					0.6153846153846154,
-					0.33333333333333337,
+					0.6071428571428572,
+					0.35897435897435903,
 					0.15294117647058825
 				],
 				"secondary_color": "f4f6f9",
 				"_avg_color": [
-					0.5925925925925926,
-					0.2535211267605634,
+					0.607843137254902,
+					0.2394366197183099,
 					0.2784313725490196
 				],
-				"primary_color_dark": "323a4c"
+				"primary_color_dark": "313a4c"
 			},
 			"type": "movie",
 			"has_linewatch": false,
@@ -17455,7 +17455,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 774821,
+				"count": 774936,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -17516,15 +17516,15 @@
 				"is_dark": true,
 				"primary_color_light": "726d63",
 				"_base_color": [
-					0.10416666666666659,
-					0.13114754098360654,
-					0.23921568627450981
+					0.10416666666666674,
+					0.13333333333333333,
+					0.23529411764705882
 				],
 				"secondary_color": "f9f8f4",
 				"_avg_color": [
-					0.08333333333333344,
-					0.1,
-					0.47058823529411764
+					0.09722222222222228,
+					0.10084033613445378,
+					0.4666666666666667
 				],
 				"primary_color_dark": "4c4842"
 			},
@@ -17568,7 +17568,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1034303,
+				"count": 1034426,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -17651,19 +17651,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "6c726f",
+				"primary_color_light": "6c7271",
 				"_base_color": [
-					0.41666666666666635,
-					0.05633802816901408,
-					0.2784313725490196
+					0.45833333333333287,
+					0.057142857142857134,
+					0.27450980392156865
 				],
-				"secondary_color": "f4f9f7",
+				"secondary_color": "f4f9f8",
 				"_avg_color": [
 					0.16666666666666666,
-					0.029411764705882387,
+					0.0392156862745098,
 					0.4
 				],
-				"primary_color_dark": "484c4a"
+				"primary_color_dark": "484c4b"
 			},
 			"type": "movie",
 			"has_linewatch": false,
@@ -17705,7 +17705,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 418580,
+				"count": 418676,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -17799,9 +17799,9 @@
 				],
 				"secondary_color": "f4f9f4",
 				"_avg_color": [
-					0.27777777777777773,
-					0.019480519480519414,
-					0.6039215686274509
+					0.22222222222222224,
+					0.019607843137254832,
+					0.6
 				],
 				"primary_color_dark": "7e7f7e"
 			},
@@ -17845,7 +17845,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 141021,
+				"count": 141049,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -17955,7 +17955,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 370249,
+				"count": 370340,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -18015,19 +18015,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "726260",
+				"primary_color_light": "726460",
 				"_base_color": [
-					0.01851851851851845,
-					0.1551724137931034,
-					0.22745098039215686
+					0.037037037037037014,
+					0.1578947368421053,
+					0.2235294117647059
 				],
-				"secondary_color": "f9f5f4",
+				"secondary_color": "f9f6f4",
 				"_avg_color": [
 					0.038461538461538346,
 					0.1494252873563218,
 					0.3411764705882353
 				],
-				"primary_color_dark": "4c4140"
+				"primary_color_dark": "4c4340"
 			},
 			"type": "tv",
 			"has_linewatch": true,
@@ -18161,7 +18161,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 174712,
+				"count": 174731,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -18226,8 +18226,8 @@
 				],
 				"secondary_color": "f4f8f9",
 				"_avg_color": [
-					0.5,
-					0.03636363636363636,
+					0.44444444444444436,
+					0.054545454545454605,
 					0.21568627450980393
 				],
 				"primary_color_dark": "37484c"
@@ -18272,7 +18272,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 332131,
+				"count": 332202,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -18295,8 +18295,8 @@
 			],
 			"is_show": false,
 			"vendor_icons": [
-				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
 				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
+				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
 				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png"
 			],
 			"year": "2001",
@@ -18346,19 +18346,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "726969",
+				"primary_color_light": "726569",
 				"_base_color": [
-					0,
-					0.08,
-					0.09803921568627451
+					0.9444444444444444,
+					0.11538461538461539,
+					0.10196078431372549
 				],
-				"secondary_color": "f9f4f4",
+				"secondary_color": "f9f4f6",
 				"_avg_color": [
 					0.05952380952380948,
 					0.2641509433962264,
 					0.20784313725490197
 				],
-				"primary_color_dark": "4c4646"
+				"primary_color_dark": "4c4346"
 			},
 			"type": "movie",
 			"has_linewatch": true,
@@ -18400,7 +18400,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 34959,
+				"count": 34971,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.2
@@ -18451,19 +18451,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "72202b",
+				"primary_color_light": "72282d",
 				"_base_color": [
-					0.9777777777777777,
-					0.7142857142857143,
-					0.08235294117647059
+					0.9871794871794872,
+					0.65,
+					0.0784313725490196
 				],
 				"secondary_color": "f9f4f5",
 				"_avg_color": [
-					0.9767441860465116,
-					0.671875,
-					0.25098039215686274
+					0.9772727272727273,
+					0.676923076923077,
+					0.2549019607843137
 				],
-				"primary_color_dark": "4c151d"
+				"primary_color_dark": "4c1a1e"
 			},
 			"type": "movie",
 			"has_linewatch": false,
@@ -18508,7 +18508,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 53708,
+				"count": 53716,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.6
@@ -18574,19 +18574,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "726a5f",
+				"primary_color_light": "726a61",
 				"_base_color": [
-					0.09523809523809519,
-					0.17073170731707324,
-					0.1607843137254902
+					0.08333333333333344,
+					0.15,
+					0.1568627450980392
 				],
 				"secondary_color": "f9f7f4",
 				"_avg_color": [
-					0.1320754716981132,
-					0.4774774774774775,
+					0.13271604938271606,
+					0.48648648648648646,
 					0.43529411764705883
 				],
-				"primary_color_dark": "4c463f"
+				"primary_color_dark": "4c4641"
 			},
 			"type": "movie",
 			"has_linewatch": false,
@@ -18628,7 +18628,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 22039,
+				"count": 22043,
 				"max": 10,
 				"star_count": 3,
 				"value": 6.4
@@ -18683,8 +18683,8 @@
 				],
 				"secondary_color": "f9f4f4",
 				"_avg_color": [
-					0.008771929824561412,
-					0.6551724137931034,
+					0.004504504504504496,
+					0.6379310344827586,
 					0.22745098039215686
 				],
 				"primary_color_dark": "4c1212"
@@ -18729,7 +18729,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 63132,
+				"count": 63135,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -18812,7 +18812,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1324099,
+				"count": 1324333,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -18829,7 +18829,7 @@
 				{
 					"kind": "movie",
 					"uri": "douban://douban.com/subject_collection/movie_top250",
-					"rank": 66,
+					"rank": 67,
 					"title": "豆瓣电影Top250"
 				}
 			],
@@ -18927,8 +18927,8 @@
 				"secondary_color": "f5f4f9",
 				"_avg_color": [
 					0.722222222222222,
-					0.03973509933774839,
-					0.592156862745098
+					0.04000000000000004,
+					0.5882352941176471
 				],
 				"primary_color_dark": "57537f"
 			},
@@ -18972,7 +18972,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 82800,
+				"count": 82814,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -19038,9 +19038,9 @@
 				],
 				"secondary_color": "f4f9f9",
 				"_avg_color": [
-					0.5833333333333334,
-					0.2745098039215686,
-					0.2
+					0.576923076923077,
+					0.25999999999999995,
+					0.19607843137254902
 				],
 				"primary_color_dark": "3b4c4c"
 			},
@@ -19084,7 +19084,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 128622,
+				"count": 128654,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -19145,19 +19145,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "721318",
+				"primary_color_light": "721818",
 				"_base_color": [
-					0.9912280701754386,
-					0.8260869565217391,
+					0,
+					0.782608695652174,
 					0.09019607843137255
 				],
-				"secondary_color": "f9f4f5",
+				"secondary_color": "f9f4f4",
 				"_avg_color": [
-					0.007092198581560276,
-					0.9215686274509804,
-					0.2
+					0.007246376811594198,
+					0.92,
+					0.19607843137254902
 				],
-				"primary_color_dark": "4c0d10"
+				"primary_color_dark": "4c1010"
 			},
 			"type": "movie",
 			"has_linewatch": false,
@@ -19199,7 +19199,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 176838,
+				"count": 176905,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -19271,9 +19271,9 @@
 				],
 				"secondary_color": "f9f4f5",
 				"_avg_color": [
-					0.9947916666666667,
-					0.2857142857142857,
-					0.4392156862745098
+					0,
+					0.2792792792792793,
+					0.43529411764705883
 				],
 				"primary_color_dark": "4c3537"
 			},
@@ -19317,7 +19317,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 204607,
+				"count": 204636,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -19437,19 +19437,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "475672",
+				"primary_color_light": "455972",
 				"_base_color": [
-					0.6111111111111112,
-					0.375,
-					0.09411764705882353
+					0.5925925925925926,
+					0.391304347826087,
+					0.09019607843137255
 				],
-				"secondary_color": "f4f6f9",
+				"secondary_color": "f4f7f9",
 				"_avg_color": [
 					0.5980392156862745,
 					0.2615384615384615,
 					0.2549019607843137
 				],
-				"primary_color_dark": "2f394c"
+				"primary_color_dark": "2e3b4c"
 			},
 			"type": "movie",
 			"has_linewatch": false,
@@ -19491,7 +19491,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 115322,
+				"count": 115328,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -19582,11 +19582,11 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "a5a09a",
+				"primary_color_light": "a59f9a",
 				"_base_color": [
 					0.08333333333333333,
-					0.06779661016949153,
-					0.23137254901960785
+					0.07017543859649122,
+					0.2235294117647059
 				],
 				"secondary_color": "f9f7f4",
 				"_avg_color": [
@@ -19636,7 +19636,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 122782,
+				"count": 122794,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -19718,19 +19718,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "a5a59e",
+				"primary_color_light": "a5a59f",
 				"_base_color": [
 					0.16666666666666666,
-					0.04390243902439023,
+					0.03902439024390244,
 					0.803921568627451
 				],
 				"secondary_color": "f9f9f4",
 				"_avg_color": [
-					0.14102564102564108,
-					0.0760233918128654,
-					0.6705882352941176
+					0.15277777777777782,
+					0.07058823529411756,
+					0.6666666666666666
 				],
-				"primary_color_dark": "7f7f79"
+				"primary_color_dark": "7f7f7a"
 			},
 			"type": "movie",
 			"has_linewatch": false,
@@ -19772,7 +19772,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 119354,
+				"count": 119362,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -19854,19 +19854,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "a59183",
+				"primary_color_light": "a5917f",
 				"_base_color": [
-					0.06944444444444449,
-					0.20689655172413793,
-					0.22745098039215686
+					0.07692307692307691,
+					0.22807017543859653,
+					0.2235294117647059
 				],
-				"secondary_color": "f9f6f4",
+				"secondary_color": "f9f7f4",
 				"_avg_color": [
 					0.08333333333333333,
-					0.08839779005524862,
-					0.7098039215686275
+					0.08888888888888888,
+					0.7058823529411765
 				],
-				"primary_color_dark": "7f7065"
+				"primary_color_dark": "7f6f62"
 			},
 			"type": "movie",
 			"has_linewatch": false,
@@ -19908,7 +19908,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 279200,
+				"count": 279248,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -20098,7 +20098,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 136752,
+				"count": 136769,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -20180,19 +20180,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "9da5a0",
+				"primary_color_light": "9da59d",
 				"_base_color": [
-					0.3888888888888888,
-					0.05172413793103442,
-					0.22745098039215686
+					0.3333333333333333,
+					0.05263157894736848,
+					0.2235294117647059
 				],
-				"secondary_color": "f4f9f6",
+				"secondary_color": "f4f9f4",
 				"_avg_color": [
 					0.5,
 					0.009900990099009866,
 					0.792156862745098
 				],
-				"primary_color_dark": "787f7b"
+				"primary_color_dark": "787f78"
 			},
 			"type": "movie",
 			"has_linewatch": false,
@@ -20234,7 +20234,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 196900,
+				"count": 196928,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -20322,19 +20322,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "a5a59f",
+				"primary_color_light": "a5a5a1",
 				"_base_color": [
-					0.14814814814814822,
-					0.03703703703703702,
-					0.9529411764705882
+					0.16666666666666666,
+					0.02845528455284554,
+					0.9647058823529412
 				],
 				"secondary_color": "f9f9f4",
 				"_avg_color": [
-					0.11904761904761857,
-					0.030701754385964924,
-					0.8941176470588236
+					0.14285714285714288,
+					0.030837004405286236,
+					0.8901960784313725
 				],
-				"primary_color_dark": "7f7e7a"
+				"primary_color_dark": "7f7f7b"
 			},
 			"type": "movie",
 			"has_linewatch": false,
@@ -20376,7 +20376,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 388092,
+				"count": 388215,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -20491,7 +20491,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 196900,
+				"count": 196928,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -20579,19 +20579,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "a5a59f",
+				"primary_color_light": "a5a5a1",
 				"_base_color": [
-					0.14814814814814822,
-					0.03703703703703702,
-					0.9529411764705882
+					0.16666666666666666,
+					0.02845528455284554,
+					0.9647058823529412
 				],
 				"secondary_color": "f9f9f4",
 				"_avg_color": [
-					0.11904761904761857,
-					0.030701754385964924,
-					0.8941176470588236
+					0.14285714285714288,
+					0.030837004405286236,
+					0.8901960784313725
 				],
-				"primary_color_dark": "7f7e7a"
+				"primary_color_dark": "7f7f7b"
 			},
 			"type": "movie",
 			"has_linewatch": false,
@@ -20633,7 +20633,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 388092,
+				"count": 388215,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -20748,7 +20748,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 250938,
+				"count": 250973,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -20824,19 +20824,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "a5874f",
+				"primary_color_light": "a5834d",
 				"_base_color": [
-					0.10897435897435899,
-					0.52,
-					0.19607843137254902
+					0.10256410256410257,
+					0.5306122448979592,
+					0.19215686274509805
 				],
-				"secondary_color": "f9f8f4",
+				"secondary_color": "f9f7f4",
 				"_avg_color": [
 					0.11666666666666664,
 					0.11627906976744193,
 					0.6745098039215687
 				],
-				"primary_color_dark": "7f683d"
+				"primary_color_dark": "7f653b"
 			},
 			"type": "movie",
 			"has_linewatch": false,
@@ -20878,7 +20878,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 224211,
+				"count": 224242,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -20994,7 +20994,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 227561,
+				"count": 227599,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -21105,19 +21105,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "726d67",
+				"primary_color_light": "72726c",
 				"_base_color": [
-					0.08333333333333333,
-					0.1,
-					0.0784313725490196
+					0.16666666666666666,
+					0.05263157894736842,
+					0.07450980392156863
 				],
-				"secondary_color": "f9f7f4",
+				"secondary_color": "f9f9f4",
 				"_avg_color": [
-					0.07575757575757573,
-					0.31428571428571433,
-					0.13725490196078433
+					0.08333333333333333,
+					0.29411764705882354,
+					0.13333333333333333
 				],
-				"primary_color_dark": "4c4844"
+				"primary_color_dark": "4c4c48"
 			},
 			"type": "movie",
 			"has_linewatch": false,
@@ -21159,7 +21159,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 200567,
+				"count": 200604,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -21312,7 +21312,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 50936,
+				"count": 50944,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.9
@@ -21373,19 +21373,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "726c68",
+				"primary_color_light": "726d69",
 				"_base_color": [
-					0.0686274509803922,
-					0.08762886597938142,
-					0.7607843137254902
+					0.07777777777777779,
+					0.07894736842105264,
+					0.7450980392156863
 				],
-				"secondary_color": "f9f6f4",
+				"secondary_color": "f9f7f4",
 				"_avg_color": [
-					0.02380952380952391,
+					0.04761904761904764,
 					0.10144927536231879,
 					0.27058823529411763
 				],
-				"primary_color_dark": "4c4845"
+				"primary_color_dark": "4c4946"
 			},
 			"type": "movie",
 			"has_linewatch": false,
@@ -21422,7 +21422,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 667622,
+				"count": 667707,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -21445,8 +21445,8 @@
 			],
 			"is_show": false,
 			"vendor_icons": [
-				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
+				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
 				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png"
 			],
 			"year": "2009",
@@ -21514,17 +21514,17 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "726861",
+				"primary_color_light": "726862",
 				"_base_color": [
-					0.07070707070707061,
-					0.14932126696832576,
-					0.8666666666666667
+					0.06770833333333325,
+					0.14414414414414414,
+					0.8705882352941177
 				],
-				"secondary_color": "f9f7f4",
+				"secondary_color": "f9f6f4",
 				"_avg_color": [
-					0.04761904761904769,
-					0.19266055045871558,
-					0.42745098039215684
+					0.0555555555555556,
+					0.19444444444444442,
+					0.4235294117647059
 				],
 				"primary_color_dark": "4c4541"
 			},
@@ -21566,7 +21566,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 630003,
+				"count": 630153,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -21699,7 +21699,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 236476,
+				"count": 236496,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -21760,19 +21760,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "722d22",
+				"primary_color_light": "723024",
 				"_base_color": [
-					0.02380952380952382,
-					0.7,
-					0.0784313725490196
+					0.025641025641025644,
+					0.6842105263157895,
+					0.07450980392156863
 				],
 				"secondary_color": "f9f5f4",
 				"_avg_color": [
-					0.049242424242424254,
-					0.48888888888888893,
-					0.35294117647058826
+					0.05038759689922482,
+					0.4831460674157303,
+					0.34901960784313724
 				],
-				"primary_color_dark": "4c1e16"
+				"primary_color_dark": "4c2018"
 			},
 			"type": "movie",
 			"has_linewatch": true,
@@ -21809,7 +21809,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 992761,
+				"count": 992929,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -21926,7 +21926,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 308149,
+				"count": 308202,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -21990,19 +21990,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "726964",
+				"primary_color_light": "726965",
 				"_base_color": [
-					0.05999999999999998,
-					0.12499999999999999,
-					0.7843137254901961
+					0.05555555555555556,
+					0.11940298507462686,
+					0.788235294117647
 				],
 				"secondary_color": "f9f6f4",
 				"_avg_color": [
-					0,
-					0.02666666666666676,
+					0.0555555555555553,
+					0.04000000000000004,
 					0.29411764705882354
 				],
-				"primary_color_dark": "4c4642"
+				"primary_color_dark": "4c4643"
 			},
 			"type": "movie",
 			"has_linewatch": false,
@@ -22039,7 +22039,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 164787,
+				"count": 164811,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -22115,11 +22115,11 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "724434",
+				"primary_color_light": "724639",
 				"_base_color": [
-					0.041666666666666664,
-					0.5405405405405406,
-					0.1450980392156863
+					0.037037037037037035,
+					0.5,
+					0.1411764705882353
 				],
 				"secondary_color": "f9f6f4",
 				"_avg_color": [
@@ -22127,7 +22127,7 @@
 					0.569620253164557,
 					0.30980392156862746
 				],
-				"primary_color_dark": "4c2d23"
+				"primary_color_dark": "4c2e26"
 			},
 			"type": "movie",
 			"has_linewatch": false,
@@ -22164,7 +22164,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 127031,
+				"count": 127060,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -22182,7 +22182,7 @@
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png"
+				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
 			],
 			"year": "1999",
 			"card_subtitle": "1999 / 美国 德国 / 科幻 悬疑 惊悚 / 约瑟夫·鲁斯纳克 / 克雷格·比尔克 阿明·缪勒-斯塔尔",
@@ -22285,19 +22285,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "6b7265",
+				"primary_color_light": "687265",
 				"_base_color": [
-					0.2666666666666668,
+					0.2999999999999999,
 					0.11111111111111117,
 					0.17647058823529413
 				],
-				"secondary_color": "f6f9f4",
+				"secondary_color": "f5f9f4",
 				"_avg_color": [
-					0.21212121212121207,
-					0.18333333333333326,
+					0.20833333333333326,
+					0.2,
 					0.23529411764705882
 				],
-				"primary_color_dark": "474c44"
+				"primary_color_dark": "454c44"
 			},
 			"type": "movie",
 			"has_linewatch": true,
@@ -22334,7 +22334,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1352285,
+				"count": 1352471,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -22421,9 +22421,9 @@
 				],
 				"secondary_color": "f4f7f9",
 				"_avg_color": [
-					0.5833333333333331,
-					0.11965811965811961,
-					0.4588235294117647
+					0.5714285714285713,
+					0.12068965517241373,
+					0.4549019607843137
 				],
 				"primary_color_dark": "3f464c"
 			},
@@ -22462,7 +22462,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 848645,
+				"count": 848780,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -22574,11 +22574,11 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "a5a0a0",
+				"primary_color_light": "a59f9f",
 				"_base_color": [
 					0,
-					0.03333333333333333,
-					0.11764705882352941
+					0.03571428571428571,
+					0.10980392156862745
 				],
 				"secondary_color": "f9f4f4",
 				"_avg_color": [
@@ -22586,7 +22586,7 @@
 					0.011834319526627177,
 					0.6627450980392157
 				],
-				"primary_color_dark": "7f7b7b"
+				"primary_color_dark": "7f7a7a"
 			},
 			"type": "movie",
 			"has_linewatch": true,
@@ -22623,7 +22623,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 295161,
+				"count": 295194,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -22689,17 +22689,17 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "726964",
+				"primary_color_light": "726963",
 				"_base_color": [
-					0.06666666666666661,
-					0.12820512820512828,
-					0.15294117647058825
+					0.06666666666666671,
+					0.13157894736842096,
+					0.14901960784313725
 				],
 				"secondary_color": "f9f6f4",
 				"_avg_color": [
-					0.02083333333333326,
-					0.06896551724137931,
-					0.4549019607843137
+					0.04166666666666652,
+					0.06956521739130435,
+					0.45098039215686275
 				],
 				"primary_color_dark": "4c4642"
 			},
@@ -22738,7 +22738,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 948932,
+				"count": 949163,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -22761,8 +22761,8 @@
 			],
 			"is_show": false,
 			"vendor_icons": [
-				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
 				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
+				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
 				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
 			],
 			"year": "2003",
@@ -22842,19 +22842,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "7d91a5",
+				"primary_color_light": "7c91a5",
 				"_base_color": [
 					0.5833333333333334,
-					0.24,
-					0.09803921568627451
+					0.25,
+					0.09411764705882353
 				],
 				"secondary_color": "f4f7f9",
 				"_avg_color": [
-					0.9666666666666669,
-					0.024154589371980728,
-					0.8117647058823529
+					0.944444444444444,
+					0.02884615384615388,
+					0.8156862745098039
 				],
-				"primary_color_dark": "60707f"
+				"primary_color_dark": "5f6f7f"
 			},
 			"type": "movie",
 			"has_linewatch": true,
@@ -22891,7 +22891,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 973447,
+				"count": 973655,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -23006,7 +23006,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 570210,
+				"count": 570357,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -23030,8 +23030,8 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png",
-				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png"
+				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png",
+				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png"
 			],
 			"year": "2006",
 			"card_subtitle": "2006 / 日本 / 科幻 动画 悬疑 惊悚 / 今敏 / 林原惠美 江守彻",
@@ -23150,7 +23150,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1015370,
+				"count": 1015536,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -23223,19 +23223,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "a5a1a5",
+				"primary_color_light": "a5a1a4",
 				"_base_color": [
-					0.8333333333333334,
-					0.0231481481481482,
-					0.8470588235294118
+					0.8666666666666667,
+					0.023041474654377798,
+					0.8509803921568627
 				],
-				"secondary_color": "f9f4f9",
+				"secondary_color": "f9f4f8",
 				"_avg_color": [
-					0.9375000000000002,
-					0.059259259259259255,
-					0.5294117647058824
+					0.9285714285714288,
+					0.05223880597014928,
+					0.5254901960784314
 				],
-				"primary_color_dark": "7f7c7f"
+				"primary_color_dark": "7f7c7e"
 			},
 			"type": "movie",
 			"has_linewatch": true,
@@ -23272,7 +23272,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 837206,
+				"count": 837366,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -23377,7 +23377,7 @@
 				],
 				"secondary_color": "f9f7f4",
 				"_avg_color": [
-					0.07575757575757576,
+					0.08333333333333331,
 					0.30985915492957744,
 					0.2784313725490196
 				],
@@ -23418,7 +23418,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 338942,
+				"count": 339013,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -23502,19 +23502,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "6f7272",
+				"primary_color_light": "6e7272",
 				"_base_color": [
-					0.4761904761904762,
-					0.03196347031963459,
-					0.8588235294117647
+					0.47916666666666613,
+					0.03636363636363636,
+					0.8627450980392157
 				],
 				"secondary_color": "f4f9f9",
 				"_avg_color": [
-					0.5138888888888888,
-					0.09917355371900827,
-					0.4745098039215686
+					0.5151515151515151,
+					0.0916666666666667,
+					0.47058823529411764
 				],
-				"primary_color_dark": "4a4c4c"
+				"primary_color_dark": "494c4c"
 			},
 			"type": "movie",
 			"has_linewatch": true,
@@ -23551,7 +23551,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 323196,
+				"count": 323224,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -23647,11 +23647,11 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "a5a49d",
+				"primary_color_light": "a5a49e",
 				"_base_color": [
-					0.15000000000000005,
-					0.049751243781094495,
-					0.788235294117647
+					0.14814814814814822,
+					0.04390243902439023,
+					0.803921568627451
 				],
 				"secondary_color": "f9f9f4",
 				"_avg_color": [
@@ -23696,7 +23696,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 15683,
+				"count": 15685,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -23744,19 +23744,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "a55549",
+				"primary_color_light": "a55448",
 				"_base_color": [
-					0.021604938271604923,
-					0.5538461538461538,
-					0.7647058823529411
+					0.02102102102102101,
+					0.5634517766497462,
+					0.7725490196078432
 				],
 				"secondary_color": "f9f5f4",
 				"_avg_color": [
-					0.02150537634408602,
-					0.4492753623188406,
-					0.5411764705882353
+					0.021164021164021163,
+					0.4532374100719424,
+					0.5450980392156862
 				],
-				"primary_color_dark": "7f4238"
+				"primary_color_dark": "7f4037"
 			},
 			"type": "movie",
 			"has_linewatch": false,
@@ -23793,7 +23793,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 227150,
+				"count": 227177,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -24001,10 +24001,10 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "72645f",
+				"primary_color_light": "72635e",
 				"_base_color": [
-					0.03921568627450981,
-					0.16425120772946855,
+					0.037037037037037014,
+					0.17391304347826095,
 					0.8117647058823529
 				],
 				"secondary_color": "f9f6f4",
@@ -24050,7 +24050,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 332612,
+				"count": 332667,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -24074,8 +24074,8 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png",
-				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
+				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png",
+				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png"
 			],
 			"year": "2007",
 			"card_subtitle": "2007 / 美国 / 悬疑 恐怖 / 温子仁 / 唐尼·沃尔伯格 安贝·瓦莱塔",
@@ -24117,19 +24117,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "72372e",
+				"primary_color_light": "72554b",
 				"_base_color": [
-					0.020833333333333332,
-					0.5925925925925926,
-					0.10588235294117647
+					0.04285714285714284,
+					0.3431372549019608,
+					0.8
 				],
-				"secondary_color": "f9f5f4",
+				"secondary_color": "f9f6f4",
 				"_avg_color": [
 					0.027777777777777752,
 					0.4225352112676056,
 					0.2784313725490196
 				],
-				"primary_color_dark": "4c241f"
+				"primary_color_dark": "4c3932"
 			},
 			"type": "movie",
 			"has_linewatch": true,
@@ -24166,7 +24166,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 388172,
+				"count": 388243,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -24296,7 +24296,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 231986,
+				"count": 232004,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -24383,11 +24383,11 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "1c3972",
+				"primary_color_light": "1d3672",
 				"_base_color": [
-					0.6111111111111112,
-					0.75,
-					0.09411764705882353
+					0.6176470588235294,
+					0.7391304347826086,
+					0.09019607843137255
 				],
 				"secondary_color": "f4f6f9",
 				"_avg_color": [
@@ -24395,7 +24395,7 @@
 					0.6363636363636364,
 					0.17254901960784313
 				],
-				"primary_color_dark": "13264c"
+				"primary_color_dark": "13244c"
 			},
 			"type": "movie",
 			"has_linewatch": true,
@@ -24437,7 +24437,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 401490,
+				"count": 401565,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -24523,19 +24523,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "a57b57",
+				"primary_color_light": "a57852",
 				"_base_color": [
-					0.07738095238095237,
-					0.4745762711864407,
-					0.23137254901960785
+					0.07471264367816093,
+					0.5,
+					0.22745098039215686
 				],
 				"secondary_color": "f9f7f4",
 				"_avg_color": [
-					0.07638888888888883,
-					0.1437125748502994,
-					0.6549019607843137
+					0.08333333333333325,
+					0.14457831325301204,
+					0.6509803921568628
 				],
-				"primary_color_dark": "7f5f42"
+				"primary_color_dark": "7f5c3f"
 			},
 			"type": "movie",
 			"has_linewatch": true,
@@ -24577,7 +24577,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 633216,
+				"count": 633374,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -24693,7 +24693,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 614613,
+				"count": 614721,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -24829,7 +24829,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 140677,
+				"count": 140699,
 				"max": 10,
 				"star_count": 3,
 				"value": 5.5
@@ -24962,11 +24962,11 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "724a3a",
+				"primary_color_light": "724c3c",
 				"_base_color": [
-					0.04804804804804804,
-					0.4911504424778761,
-					0.8862745098039215
+					0.049844236760124616,
+					0.4713656387665198,
+					0.8901960784313725
 				],
 				"secondary_color": "f9f6f4",
 				"_avg_color": [
@@ -24974,7 +24974,7 @@
 					0.424,
 					0.49019607843137253
 				],
-				"primary_color_dark": "4c3126"
+				"primary_color_dark": "4c3328"
 			},
 			"type": "movie",
 			"has_linewatch": true,
@@ -25016,7 +25016,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 620275,
+				"count": 620386,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -25033,15 +25033,15 @@
 				{
 					"kind": "movie",
 					"uri": "douban://douban.com/subject_collection/movie_top250",
-					"rank": 207,
+					"rank": 208,
 					"title": "豆瓣电影Top250"
 				}
 			],
 			"is_show": false,
 			"vendor_icons": [
-				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png"
+				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
+				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png"
 			],
 			"year": "2015",
 			"card_subtitle": "2015 / 澳大利亚 美国 / 动作 科幻 冒险 / 乔治·米勒 / 汤姆·哈迪 查理兹·塞隆",
@@ -25102,19 +25102,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "725737",
+				"primary_color_light": "725f2b",
 				"_base_color": [
-					0.08888888888888889,
-					0.5172413793103449,
-					0.11372549019607843
+					0.12254901960784315,
+					0.6210045662100455,
+					0.8588235294117647
 				],
-				"secondary_color": "f9f7f4",
+				"secondary_color": "f9f8f4",
 				"_avg_color": [
 					0.130718954248366,
 					0.5368421052631579,
 					0.37254901960784315
 				],
-				"primary_color_dark": "4c3a24"
+				"primary_color_dark": "4c3f1c"
 			},
 			"type": "movie",
 			"has_linewatch": true,
@@ -25156,7 +25156,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 533488,
+				"count": 533572,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -25249,9 +25249,9 @@
 				],
 				"secondary_color": "f4f9f9",
 				"_avg_color": [
-					0.23333333333333361,
-					0.05050505050505047,
-					0.38823529411764707
+					0.2500000000000003,
+					0.04081632653061224,
+					0.3843137254901961
 				],
 				"primary_color_dark": "3f4c4c"
 			},
@@ -25295,7 +25295,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1145538,
+				"count": 1145758,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -25320,7 +25320,7 @@
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png"
+				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
 			],
 			"year": "2020",
 			"card_subtitle": "2020 / 美国 / 动画 音乐 奇幻 / 彼特·道格特 凯普·鲍尔斯 / 杰米·福克斯 蒂娜·菲",
@@ -25408,19 +25408,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "213d72",
+				"primary_color_light": "243e72",
 				"_base_color": [
-					0.6097560975609756,
-					0.7068965517241379,
-					0.22745098039215686
+					0.6111111111111112,
+					0.6842105263157895,
+					0.2235294117647059
 				],
 				"secondary_color": "f4f6f9",
 				"_avg_color": [
-					0.587719298245614,
+					0.5906432748538011,
 					0.47107438016528924,
 					0.4745098039215686
 				],
-				"primary_color_dark": "16284c"
+				"primary_color_dark": "18294c"
 			},
 			"type": "movie",
 			"has_linewatch": true,
@@ -25465,7 +25465,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4855,
+				"count": 4857,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -25508,19 +25508,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "72654b",
+				"primary_color_light": "726249",
 				"_base_color": [
-					0.11111111111111112,
-					0.34615384615384615,
-					0.10196078431372549
+					0.09999999999999999,
+					0.35714285714285715,
+					0.10980392156862745
 				],
-				"secondary_color": "f9f8f4",
+				"secondary_color": "f9f7f4",
 				"_avg_color": [
 					0.12365591397849462,
 					0.3924050632911393,
 					0.30980392156862746
 				],
-				"primary_color_dark": "4c4332"
+				"primary_color_dark": "4c4131"
 			},
 			"type": "movie",
 			"has_linewatch": false,
@@ -25562,7 +25562,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 227156,
+				"count": 227175,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.1
@@ -25586,8 +25586,8 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
-				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png",
-				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png"
+				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png",
+				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
 			],
 			"year": "2020",
 			"card_subtitle": "2020 / 加拿大 澳大利亚 美国 / 科幻 惊悚 恐怖 / 雷·沃纳尔 / 伊丽莎白·莫斯 奥利弗·杰克逊-科恩",
@@ -25657,11 +25657,11 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "214272",
+				"primary_color_light": "214172",
 				"_base_color": [
-					0.5992063492063492,
-					0.7118644067796611,
-					0.23137254901960785
+					0.6016260162601625,
+					0.7068965517241379,
+					0.22745098039215686
 				],
 				"secondary_color": "f4f6f9",
 				"_avg_color": [
@@ -25669,7 +25669,7 @@
 					0.6268656716417911,
 					0.2627450980392157
 				],
-				"primary_color_dark": "162c4c"
+				"primary_color_dark": "162b4c"
 			},
 			"type": "movie",
 			"has_linewatch": true,
@@ -25711,7 +25711,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 89160,
+				"count": 89194,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.6
@@ -25779,9 +25779,9 @@
 				],
 				"secondary_color": "f9f4f6",
 				"_avg_color": [
-					0.9807692307692308,
-					0.29545454545454547,
-					0.34509803921568627
+					0.9876543209876543,
+					0.3033707865168539,
+					0.34901960784313724
 				],
 				"primary_color_dark": "4c343a"
 			},
@@ -25849,7 +25849,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 83242,
+				"count": 83271,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -25979,17 +25979,17 @@
 				"is_dark": true,
 				"primary_color_light": "726964",
 				"_base_color": [
-					0.05555555555555556,
-					0.12698412698412698,
+					0.050724637681159444,
+					0.1216931216931217,
 					0.7411764705882353
 				],
 				"secondary_color": "f9f6f4",
 				"_avg_color": [
-					0.9791666666666666,
-					0.12903225806451613,
+					0,
+					0.1209677419354839,
 					0.48627450980392156
 				],
-				"primary_color_dark": "4c4642"
+				"primary_color_dark": "4c4643"
 			},
 			"type": "tv",
 			"has_linewatch": true,
@@ -26073,7 +26073,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 89069,
+				"count": 89091,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -26127,19 +26127,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "72655d",
+				"primary_color_light": "72675f",
 				"_base_color": [
-					0.06018518518518512,
-					0.18749999999999992,
-					0.7529411764705882
+					0.06770833333333325,
+					0.16842105263157894,
+					0.7450980392156863
 				],
 				"secondary_color": "f9f6f4",
 				"_avg_color": [
-					0.7272727272727272,
-					0.1195652173913044,
-					0.3607843137254902
+					0.7222222222222222,
+					0.12903225806451613,
+					0.36470588235294116
 				],
-				"primary_color_dark": "4c433e"
+				"primary_color_dark": "4c443f"
 			},
 			"type": "tv",
 			"has_linewatch": false,
@@ -26229,7 +26229,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 10454,
+				"count": 10455,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -26336,7 +26336,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 102561,
+				"count": 102591,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -26413,10 +26413,10 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "725351",
+				"primary_color_light": "725452",
 				"_base_color": [
-					0.007936507936507983,
-					0.2903225806451613,
+					0.008196721311475383,
+					0.2811059907834101,
 					0.8509803921568627
 				],
 				"secondary_color": "f9f5f4",
@@ -26425,7 +26425,7 @@
 					0.21052631578947367,
 					0.37254901960784315
 				],
-				"primary_color_dark": "4c3736"
+				"primary_color_dark": "4c3836"
 			},
 			"type": "tv",
 			"has_linewatch": true,
@@ -26509,7 +26509,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 79903,
+				"count": 79909,
 				"max": 10,
 				"star_count": 3,
 				"value": 5.8
@@ -26653,7 +26653,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 14493,
+				"count": 14498,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -26720,9 +26720,9 @@
 				],
 				"secondary_color": "f8f4f9",
 				"_avg_color": [
-					0.861111111111111,
-					0.06741573033707858,
-					0.34901960784313724
+					0.8333333333333334,
+					0.06666666666666674,
+					0.35294117647058826
 				],
 				"primary_color_dark": "4a474c"
 			},
@@ -26761,7 +26761,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 26535,
+				"count": 26536,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -26850,9 +26850,9 @@
 				],
 				"secondary_color": "f9f9f4",
 				"_avg_color": [
-					0.10000000000000002,
-					0.3846153846153847,
-					0.3058823529411765
+					0.09677419354838712,
+					0.3924050632911393,
+					0.30980392156862746
 				],
 				"primary_color_dark": "4c4a39"
 			},
@@ -26896,7 +26896,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 251446,
+				"count": 251515,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -26921,7 +26921,7 @@
 			"vendor_icons": [
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
 				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
-				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
+				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png"
 			],
 			"year": "2016",
 			"card_subtitle": "2016 / 日本 / 剧情 悬疑 / 三宅喜重 国本雅广 / 伊藤英明 木村佳乃",
@@ -27032,7 +27032,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 889762,
+				"count": 889829,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -27055,9 +27055,9 @@
 			],
 			"is_show": false,
 			"vendor_icons": [
-				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
 				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
-				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png"
+				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
+				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png"
 			],
 			"year": "2019",
 			"card_subtitle": "2019 / 美国 / 剧情 喜剧 悬疑 犯罪 / 莱恩·约翰逊 / 丹尼尔·克雷格 安娜·德·阿玛斯",
@@ -27139,15 +27139,15 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "724824",
+				"primary_color_light": "724825",
 				"_base_color": [
-					0.07598039215686275,
-					0.68,
-					0.7843137254901961
+					0.07598039215686274,
+					0.6732673267326732,
+					0.792156862745098
 				],
 				"secondary_color": "f9f7f4",
 				"_avg_color": [
-					0.05974842767295596,
+					0.05660377358490567,
 					0.6973684210526315,
 					0.2980392156862745
 				],
@@ -27193,7 +27193,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 212835,
+				"count": 212874,
 				"max": 10,
 				"star_count": 3,
 				"value": 6.3
@@ -27249,19 +27249,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "616672",
+				"primary_color_light": "636672",
 				"_base_color": [
-					0.6190476190476191,
-					0.14893617021276603,
-					0.1843137254901961
+					0.6388888888888888,
+					0.13043478260869565,
+					0.1803921568627451
 				],
-				"secondary_color": "f4f6f9",
+				"secondary_color": "f4f5f9",
 				"_avg_color": [
 					0.6666666666666666,
 					0.06896551724137939,
 					0.3411764705882353
 				],
-				"primary_color_dark": "41444c"
+				"primary_color_dark": "42444c"
 			},
 			"type": "movie",
 			"has_linewatch": false,
@@ -27303,7 +27303,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 212835,
+				"count": 212874,
 				"max": 10,
 				"star_count": 3,
 				"value": 6.3
@@ -27359,19 +27359,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "616672",
+				"primary_color_light": "636672",
 				"_base_color": [
-					0.6190476190476191,
-					0.14893617021276603,
-					0.1843137254901961
+					0.6388888888888888,
+					0.13043478260869565,
+					0.1803921568627451
 				],
-				"secondary_color": "f4f6f9",
+				"secondary_color": "f4f5f9",
 				"_avg_color": [
 					0.6666666666666666,
 					0.06896551724137939,
 					0.3411764705882353
 				],
-				"primary_color_dark": "41444c"
+				"primary_color_dark": "42444c"
 			},
 			"type": "movie",
 			"has_linewatch": false,
@@ -27413,7 +27413,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1103843,
+				"count": 1103995,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -27529,19 +27529,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "724833",
+				"primary_color_light": "72604b",
 				"_base_color": [
-					0.05555555555555556,
-					0.5526315789473685,
-					0.14901960784313725
+					0.0900900900900901,
+					0.3410138248847926,
+					0.8509803921568627
 				],
-				"secondary_color": "f9f6f4",
+				"secondary_color": "f9f7f4",
 				"_avg_color": [
-					0.07407407407407406,
-					0.4235294117647058,
-					0.3333333333333333
+					0.07407407407407408,
+					0.4186046511627907,
+					0.33725490196078434
 				],
-				"primary_color_dark": "4c3022"
+				"primary_color_dark": "4c4032"
 			},
 			"type": "movie",
 			"has_linewatch": true,
@@ -27583,7 +27583,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 30675,
+				"count": 30680,
 				"max": 10,
 				"star_count": 3,
 				"value": 6.3
@@ -27644,19 +27644,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "326472",
+				"primary_color_light": "326b72",
 				"_base_color": [
-					0.5370370370370371,
+					0.5185185185185185,
 					0.5625,
 					0.06274509803921569
 				],
-				"secondary_color": "f4f8f9",
+				"secondary_color": "f4f9f9",
 				"_avg_color": [
 					0.5370370370370371,
 					0.5,
 					0.07058823529411765
 				],
-				"primary_color_dark": "21424c"
+				"primary_color_dark": "21474c"
 			},
 			"type": "movie",
 			"has_linewatch": false,
@@ -27698,7 +27698,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2077547,
+				"count": 2077690,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -27760,10 +27760,10 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "a51a0e",
+				"primary_color_light": "a51a10",
 				"_base_color": [
-					0.013274336283185842,
-					0.9112903225806451,
+					0.011904761904761899,
+					0.9032258064516129,
 					0.48627450980392156
 				],
 				"secondary_color": "f9f5f4",
@@ -27772,7 +27772,7 @@
 					0.8551724137931035,
 					0.5686274509803921
 				],
-				"primary_color_dark": "7f140b"
+				"primary_color_dark": "7f140c"
 			},
 			"type": "movie",
 			"has_linewatch": true,
@@ -27814,7 +27814,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 24875,
+				"count": 24878,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -27942,7 +27942,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 745135,
+				"count": 745235,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -28023,15 +28023,15 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "a5a0a4",
+				"primary_color_light": "a5a1a4",
 				"_base_color": [
-					0.8809523809523807,
-					0.03225806451612905,
+					0.8888888888888886,
+					0.02764976958525349,
 					0.8509803921568627
 				],
 				"secondary_color": "f9f4f8",
 				"_avg_color": [
-					0.9285714285714288,
+					0.9523809523809526,
 					0.04430379746835445,
 					0.6196078431372549
 				],
@@ -28077,7 +28077,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 522770,
+				"count": 522905,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -28087,8 +28087,8 @@
 				"2015-05-14(戛纳电影节)"
 			],
 			"pic": {
-				"large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2603364117.jpg",
-				"normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2603364117.jpg"
+				"large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2242546753.jpg",
+				"normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2242546753.jpg"
 			},
 			"honor_infos": [
 				{
@@ -28156,19 +28156,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "8ea5a3",
+				"primary_color_light": "1d5572",
 				"_base_color": [
-					0.4833333333333334,
-					0.14084507042253522,
-					0.2784313725490196
+					0.5579710144927535,
+					0.7419354838709677,
+					0.12156862745098039
 				],
-				"secondary_color": "f4f9f9",
+				"secondary_color": "f4f8f9",
 				"_avg_color": [
-					0.5,
-					0.023952095808383318,
-					0.6549019607843137
+					0.5530303030303031,
+					0.39999999999999997,
+					0.21568627450980393
 				],
-				"primary_color_dark": "6d7f7d"
+				"primary_color_dark": "13384c"
 			},
 			"type": "movie",
 			"has_linewatch": true,
@@ -28205,7 +28205,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 566040,
+				"count": 566091,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -28228,9 +28228,9 @@
 			],
 			"is_show": false,
 			"vendor_icons": [
-				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
 				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
-				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
+				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
+				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png"
 			],
 			"year": "2018",
 			"card_subtitle": "2018 / 美国 俄罗斯 / 剧情 悬疑 惊悚 犯罪 / 阿尼什·查甘蒂 / 约翰·赵 米切尔·拉",
@@ -28318,15 +28318,15 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "204072",
+				"primary_color_light": "203f72",
 				"_base_color": [
-					0.6016260162601625,
-					0.7192982456140351,
-					0.2235294117647059
+					0.6041666666666666,
+					0.7142857142857143,
+					0.2196078431372549
 				],
 				"secondary_color": "f4f6f9",
 				"_avg_color": [
-					0.5925925925925926,
+					0.5956790123456791,
 					0.46956521739130436,
 					0.45098039215686275
 				],
@@ -28367,7 +28367,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 651490,
+				"count": 651712,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -28390,8 +28390,8 @@
 			],
 			"is_show": false,
 			"vendor_icons": [
-				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
 				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
+				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
 				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png"
 			],
 			"year": "2013",
@@ -28553,7 +28553,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 922019,
+				"count": 922154,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -28576,9 +28576,9 @@
 			],
 			"is_show": false,
 			"vendor_icons": [
-				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
 				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
-				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png"
+				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
+				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
 			],
 			"year": "2017",
 			"card_subtitle": "2017 / 英国 美国 / 剧情 犯罪 / 马丁·麦克唐纳 / 弗兰西斯·麦克多蒙德 伍迪·哈里森",
@@ -28696,7 +28696,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1074838,
+				"count": 1075006,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -28719,9 +28719,9 @@
 			],
 			"is_show": false,
 			"vendor_icons": [
-				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png"
+				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
+				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png"
 			],
 			"year": "2014",
 			"card_subtitle": "2014 / 美国 / 剧情 悬疑 惊悚 犯罪 / 大卫·芬奇 / 本·阿弗莱克 裴淳华",
@@ -28787,9 +28787,9 @@
 				],
 				"secondary_color": "f4f8f9",
 				"_avg_color": [
-					0.5555555555555554,
-					0.15107913669064738,
-					0.5450980392156862
+					0.5499999999999998,
+					0.14492753623188395,
+					0.5411764705882353
 				],
 				"primary_color_dark": "717c7f"
 			},
@@ -28828,7 +28828,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 273070,
+				"count": 273105,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -28898,19 +28898,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "606b72",
+				"primary_color_light": "606972",
 				"_base_color": [
-					0.5666666666666668,
+					0.5833333333333334,
 					0.16129032258064516,
 					0.24313725490196078
 				],
 				"secondary_color": "f4f7f9",
 				"_avg_color": [
-					0.4444444444444447,
-					0.032608695652173954,
+					0.4583333333333335,
+					0.043478260869565216,
 					0.3607843137254902
 				],
-				"primary_color_dark": "40474c"
+				"primary_color_dark": "40464c"
 			},
 			"type": "movie",
 			"has_linewatch": true,
@@ -28947,7 +28947,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 519581,
+				"count": 519680,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -28970,8 +28970,8 @@
 			],
 			"is_show": false,
 			"vendor_icons": [
-				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
 				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
+				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
 				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png"
 			],
 			"year": "2014",
@@ -29093,7 +29093,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 406661,
+				"count": 406717,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -29165,11 +29165,11 @@
 				"is_dark": true,
 				"primary_color_light": "6f7072",
 				"_base_color": [
-					0.6333333333333333,
-					0.024752475247524667,
-					0.792156862745098
+					0.6111111111111112,
+					0.029556650246305317,
+					0.796078431372549
 				],
-				"secondary_color": "f4f5f9",
+				"secondary_color": "f4f6f9",
 				"_avg_color": [
 					0.5972222222222222,
 					0.2608695652173913,
@@ -29217,7 +29217,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 687553,
+				"count": 687743,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -29334,7 +29334,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 27017,
+				"count": 27029,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -29491,19 +29491,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "726449",
+				"primary_color_light": "726447",
 				"_base_color": [
-					0.11111111111111109,
-					0.3636363636363637,
-					0.12941176470588237
+					0.11111111111111112,
+					0.375,
+					0.12549019607843137
 				],
 				"secondary_color": "f9f8f4",
 				"_avg_color": [
-					0.1140350877192982,
-					0.23170731707317074,
+					0.10833333333333332,
+					0.24390243902439032,
 					0.3215686274509804
 				],
-				"primary_color_dark": "4c4330"
+				"primary_color_dark": "4c422f"
 			},
 			"type": "movie",
 			"has_linewatch": false,
@@ -29545,7 +29545,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 175787,
+				"count": 175791,
 				"max": 10,
 				"star_count": 2.5,
 				"value": 4.8
@@ -29563,7 +29563,7 @@
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png"
+				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png"
 			],
 			"year": "2018",
 			"card_subtitle": "2018 / 中国台湾 / 爱情 / 林孝谦 / 陈意涵 刘以豪",
@@ -29607,19 +29607,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "505572",
+				"primary_color_light": "525572",
 				"_base_color": [
-					0.6458333333333334,
-					0.2962962962962963,
+					0.6555555555555556,
+					0.27777777777777773,
 					0.21176470588235294
 				],
 				"secondary_color": "f4f5f9",
 				"_avg_color": [
-					0.6875,
-					0.1081081081081081,
+					0.7037037037037038,
+					0.12162162162162175,
 					0.2901960784313726
 				],
-				"primary_color_dark": "35384c"
+				"primary_color_dark": "37384c"
 			},
 			"type": "movie",
 			"has_linewatch": true,
@@ -29663,7 +29663,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 722930,
+				"count": 723066,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -29687,8 +29687,8 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png",
-				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png"
+				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png",
+				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
 			],
 			"year": "2011",
 			"card_subtitle": "2011 / 美国 / 剧情 / 托尼·凯耶 / 阿德里安·布罗迪 马西娅·盖伊·哈登",
@@ -29780,19 +29780,19 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "72706b",
+				"primary_color_light": "726e69",
 				"_base_color": [
-					0.11111111111111098,
-					0.061224489795918435,
+					0.08333333333333333,
+					0.08163265306122448,
 					0.19215686274509805
 				],
-				"secondary_color": "f9f8f4",
+				"secondary_color": "f9f7f4",
 				"_avg_color": [
 					0.06249999999999978,
 					0.08163265306122448,
 					0.3843137254901961
 				],
-				"primary_color_dark": "4c4a47"
+				"primary_color_dark": "4c4946"
 			},
 			"type": "movie",
 			"has_linewatch": true,
@@ -29834,7 +29834,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 693336,
+				"count": 693482,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -29858,8 +29858,8 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png",
-				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png"
+				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png",
+				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
 			],
 			"year": "2014",
 			"card_subtitle": "2014 / 美国 / 剧情 音乐 / 达米恩·查泽雷 / 迈尔斯·特勒 J·K·西蒙斯",
@@ -29997,7 +29997,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2346371,
+				"count": 2346688,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -30096,15 +30096,15 @@
 				"is_dark": true,
 				"primary_color_light": "a55a2b",
 				"_base_color": [
-					0.06349206349206349,
-					0.736842105263158,
-					0.4470588235294118
+					0.06378600823045268,
+					0.7363636363636364,
+					0.43137254901960786
 				],
 				"secondary_color": "f9f6f4",
 				"_avg_color": [
-					0.061111111111111095,
-					0.6716417910447762,
-					0.5254901960784314
+					0.06296296296296294,
+					0.6766917293233082,
+					0.5215686274509804
 				],
 				"primary_color_dark": "7f4521"
 			},
@@ -30148,7 +30148,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 68793,
+				"count": 68806,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -30240,17 +30240,17 @@
 			],
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "707266",
+				"primary_color_light": "6f7266",
 				"_base_color": [
-					0.1984126984126985,
-					0.10659898477157365,
-					0.7725490196078432
+					0.20634920634920642,
+					0.1060606060606061,
+					0.7764705882352941
 				],
 				"secondary_color": "f8f9f4",
 				"_avg_color": [
-					0.5238095238095238,
-					0.2857142857142857,
-					0.3843137254901961
+					0.5246913580246914,
+					0.2783505154639174,
+					0.3803921568627451
 				],
 				"primary_color_dark": "4a4c44"
 			},
