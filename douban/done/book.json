@@ -65,7 +65,7 @@
 				"2021-2"
 			],
 			"rating": {
-				"count": 32283,
+				"count": 32320,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -156,7 +156,7 @@
 				"2023-2"
 			],
 			"rating": {
-				"count": 4180,
+				"count": 4190,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -389,7 +389,7 @@
 			"honor_infos": [
 				{
 					"kind": "book",
-					"rank": 119,
+					"rank": 117,
 					"title": "豆瓣图书Top250",
 					"uri": "douban://douban.com/subject_collection/book_top250"
 				}
@@ -415,7 +415,7 @@
 				"2014-2"
 			],
 			"rating": {
-				"count": 44608,
+				"count": 44622,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -592,7 +592,7 @@
 				"2025-2"
 			],
 			"rating": {
-				"count": 3961,
+				"count": 3970,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -675,10 +675,10 @@
 			],
 			"pubdate": [],
 			"rating": {
-				"count": 200,
+				"count": 201,
 				"max": 10,
-				"star_count": 4.5,
-				"value": 8.5
+				"star_count": 4,
+				"value": 8.4
 			},
 			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/35615125",
 			"subtype": "book",
@@ -759,7 +759,7 @@
 				"2011-5-16"
 			],
 			"rating": {
-				"count": 3508,
+				"count": 3511,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -841,7 +841,7 @@
 				"2005"
 			],
 			"rating": {
-				"count": 736,
+				"count": 737,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -925,7 +925,7 @@
 				"2018-1"
 			],
 			"rating": {
-				"count": 9492,
+				"count": 9495,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -1016,7 +1016,7 @@
 				"2017-1"
 			],
 			"rating": {
-				"count": 177711,
+				"count": 177837,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -1060,7 +1060,7 @@
 				"Daisy"
 			],
 			"book_subtitle": "",
-			"buy_more_uri": "",
+			"buy_more_uri": "douban://douban.com/book/37244516/vendors_douban",
 			"card_subtitle": "Daisy / 2025 / 湖南文艺出版社",
 			"color_scheme": {
 				"_base_color": [
@@ -1086,7 +1086,7 @@
 			"intro": "内容简介\n小红书超人气漫画家Daisy的首部爱情漫画，“猫未未”重磅新作！\nDaisy首次完整绘制自己与瑞典老公老D相遇、相识、结缘、相知、结婚、生子的全过程。从迪拜初见，到马耳他旅居，从瑞典生产，到中国定居，Daisy借生动有趣的漫画，把时间定格，捕捉自己爱情生活的点滴细节，浪漫温馨且富有哲思，让每一个朴实无华的日子，都拥有了特别值得被记录的瞬间。\n编辑推荐\n1.人气IP“猫未未”重磅新作！火爆小红书、公众号、抖音等社交媒体，全网阅读量超2亿，点赞量超千万的爱情故事！真实的爱情比偶像剧还要更戳人！\n2.呼吁最高的爱情主题，收录点击率最高的《我的天才爱人》全集，新增网上未发布四篇作品以及大幅场景图！\n3.已获第21届中国动漫金龙奖·IP综合奖潜力奖。\n4.全彩印刷，流畅跨页插图。\n5.随书附赠作者亲绘大场景海报！",
 			"is_released": true,
 			"is_show": false,
-			"min_sale_price": null,
+			"min_sale_price": "¥29.9",
 			"null_rating_reason": "",
 			"other_versions_count": 0,
 			"pages": [
@@ -1103,10 +1103,10 @@
 				"2025-2"
 			],
 			"rating": {
-				"count": 1298,
+				"count": 1301,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 8.5
+				"value": 8.6
 			},
 			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/37244516",
 			"subtype": "book",
@@ -1194,7 +1194,7 @@
 				"2019-10-1"
 			],
 			"rating": {
-				"count": 33043,
+				"count": 33056,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -1286,7 +1286,7 @@
 				"2018-10"
 			],
 			"rating": {
-				"count": 3556,
+				"count": 3557,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -1373,7 +1373,7 @@
 				"2012-9-1"
 			],
 			"rating": {
-				"count": 26609,
+				"count": 26616,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -1464,7 +1464,7 @@
 				"2005-6"
 			],
 			"rating": {
-				"count": 96315,
+				"count": 96332,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -1550,7 +1550,7 @@
 				"2008-11"
 			],
 			"rating": {
-				"count": 64801,
+				"count": 64807,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -1812,7 +1812,7 @@
 				"2008-9"
 			],
 			"rating": {
-				"count": 552229,
+				"count": 552290,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -1903,7 +1903,7 @@
 				"2012-8"
 			],
 			"rating": {
-				"count": 6114,
+				"count": 6115,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -2085,7 +2085,7 @@
 				"2012-1-1"
 			],
 			"rating": {
-				"count": 15146,
+				"count": 15153,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -2345,7 +2345,7 @@
 				"2013-1-1"
 			],
 			"rating": {
-				"count": 530271,
+				"count": 530396,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -2436,7 +2436,7 @@
 				"2011-12-1"
 			],
 			"rating": {
-				"count": 60132,
+				"count": 60138,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -2603,10 +2603,10 @@
 				"2024-11"
 			],
 			"rating": {
-				"count": 176,
+				"count": 177,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 9
+				"value": 8.9
 			},
 			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/37119755",
 			"subtype": "book",
@@ -2694,7 +2694,7 @@
 				"2024-4"
 			],
 			"rating": {
-				"count": 11728,
+				"count": 11750,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -2788,10 +2788,10 @@
 				"2023-11-30"
 			],
 			"rating": {
-				"count": 4702,
+				"count": 4716,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.3
+				"value": 8.2
 			},
 			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/36501250",
 			"subtype": "book",
@@ -3313,7 +3313,7 @@
 				"2020-7"
 			],
 			"rating": {
-				"count": 149549,
+				"count": 149659,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -3614,7 +3614,7 @@
 				"[日] 乙一"
 			],
 			"book_subtitle": "",
-			"buy_more_uri": "douban://douban.com/book/2297697/vendors_douban",
+			"buy_more_uri": "",
 			"card_subtitle": "[日] 乙一 / 2007 / 当代世界出版社",
 			"color_scheme": {
 				"_base_color": [
@@ -3647,7 +3647,7 @@
 			"intro": "每天早上都有一张我女朋友尸体的照片放到我的收件箱里，照片显示着女朋友的尸体正在一天天地生蛆、腐化。她是在我们去过动物园之后失踪的。所有人都认为她只是失踪了，只有我知道她被杀了。我辞了职，拿着她生前的照片四处寻找凶手的线索，一副心力憔悴的模样。然而苦心寻找的背后隐藏的却是我不愿面对的真相，是我亲手杀了她……",
 			"is_released": true,
 			"is_show": false,
-			"min_sale_price": "¥9.6",
+			"min_sale_price": null,
 			"null_rating_reason": "",
 			"other_versions_count": 13,
 			"pages": [
@@ -3664,7 +3664,7 @@
 				"2007-10"
 			],
 			"rating": {
-				"count": 53701,
+				"count": 53707,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -3750,7 +3750,7 @@
 				"2024-11-20"
 			],
 			"rating": {
-				"count": 4241,
+				"count": 4249,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -3844,7 +3844,7 @@
 				"2006-5"
 			],
 			"rating": {
-				"count": 825903,
+				"count": 825966,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -3938,7 +3938,7 @@
 				"2006-8"
 			],
 			"rating": {
-				"count": 224550,
+				"count": 224590,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -4031,7 +4031,7 @@
 				"2014-11"
 			],
 			"rating": {
-				"count": 214609,
+				"count": 214646,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -4125,7 +4125,7 @@
 				"2002-5"
 			],
 			"rating": {
-				"count": 130761,
+				"count": 130806,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -4218,7 +4218,7 @@
 				"2007-3"
 			],
 			"rating": {
-				"count": 180693,
+				"count": 180732,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -4311,7 +4311,7 @@
 				"2002-5"
 			],
 			"rating": {
-				"count": 130761,
+				"count": 130806,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -4404,7 +4404,7 @@
 				"2007-3"
 			],
 			"rating": {
-				"count": 180693,
+				"count": 180732,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -4497,7 +4497,7 @@
 				"2012-1"
 			],
 			"rating": {
-				"count": 215597,
+				"count": 215661,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -4590,7 +4590,7 @@
 				"2010-4-1"
 			],
 			"rating": {
-				"count": 311199,
+				"count": 311237,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -4657,7 +4657,7 @@
 			"honor_infos": [
 				{
 					"kind": "book",
-					"rank": 158,
+					"rank": 157,
 					"title": "豆瓣图书Top250",
 					"uri": "douban://douban.com/subject_collection/book_top250"
 				}
@@ -4683,7 +4683,7 @@
 				"2019-10"
 			],
 			"rating": {
-				"count": 224560,
+				"count": 224631,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -4769,7 +4769,7 @@
 				"2023-10-2"
 			],
 			"rating": {
-				"count": 3704,
+				"count": 3706,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -4862,7 +4862,7 @@
 				"2023-11-1"
 			],
 			"rating": {
-				"count": 3399,
+				"count": 3403,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -5018,7 +5018,7 @@
 			"honor_infos": [
 				{
 					"kind": "book",
-					"rank": 206,
+					"rank": 205,
 					"title": "豆瓣图书Top250",
 					"uri": "douban://douban.com/subject_collection/book_top250"
 				}
@@ -5044,7 +5044,7 @@
 				"2016-11"
 			],
 			"rating": {
-				"count": 34700,
+				"count": 34716,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -5131,7 +5131,7 @@
 				"2021-9-1"
 			],
 			"rating": {
-				"count": 4949,
+				"count": 4950,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -5398,7 +5398,7 @@
 				"2018-1"
 			],
 			"rating": {
-				"count": 13462,
+				"count": 13469,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -5571,7 +5571,7 @@
 				"2019-7"
 			],
 			"rating": {
-				"count": 15395,
+				"count": 15398,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
