@@ -65,7 +65,7 @@
 				"2021-2"
 			],
 			"rating": {
-				"count": 32547,
+				"count": 32601,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -156,7 +156,7 @@
 				"2023-2"
 			],
 			"rating": {
-				"count": 4238,
+				"count": 4247,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -389,7 +389,7 @@
 			"honor_infos": [
 				{
 					"kind": "book",
-					"rank": 118,
+					"rank": 119,
 					"title": "豆瓣图书Top250",
 					"uri": "douban://douban.com/subject_collection/book_top250"
 				}
@@ -415,7 +415,7 @@
 				"2014-2"
 			],
 			"rating": {
-				"count": 44677,
+				"count": 44687,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -501,10 +501,10 @@
 				"2019-10-1"
 			],
 			"rating": {
-				"count": 1295,
+				"count": 1296,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 9.1
+				"value": 9
 			},
 			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/34437693",
 			"subtype": "book",
@@ -592,7 +592,7 @@
 				"2025-2"
 			],
 			"rating": {
-				"count": 4048,
+				"count": 4059,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -759,7 +759,7 @@
 				"2011-5-16"
 			],
 			"rating": {
-				"count": 3527,
+				"count": 3529,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -925,7 +925,7 @@
 				"2018-1"
 			],
 			"rating": {
-				"count": 9512,
+				"count": 9514,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -990,7 +990,7 @@
 			"honor_infos": [
 				{
 					"kind": "book",
-					"rank": 31,
+					"rank": 32,
 					"title": "豆瓣图书Top250",
 					"uri": "douban://douban.com/subject_collection/book_top250"
 				}
@@ -999,7 +999,7 @@
 			"intro": "《悉达多》并非是佛陀的故事，它讲述了一个人的一生，千万寻常人亦会经历的一生。\n意气风发的少年郎，常认为自己是被命运选中的人。抛下过去，随了跌跌撞撞的步伐，找寻心中的声音，追逐名利，经历友情，品尝爱情。不同的是，悉达多一生追求的是生命的圆融统一，看似宏大，确是每个人无法回 避的问题。\n黑塞的语言是充满诗性的，正如本书副题“一首印度的诗”，因不得而知的原因，此副题在前人所出版本中都被回避了。为了尽可能表现黑塞的诗意，我们选择从德文直译，尽管我们的译文不能完全实现这种诗意，但其诗的本性与精神显而易见。\n本书地位在前人的版本中已被反复强调——亨利·米勒的最爱；影响了包括电台司令在内的许多名人雅士；在六十年代美国掀起过阅读黑塞的热潮，大学生们人手一册等等。\n但如书中成为摆渡人的悉达多所述，智慧无法分享，它可以被发现，被体验。\n所以倘若你碰巧遇到了这本小书，请细细品味其中的文字。\n愿你在读了悉达多的故事后，也能有所感悟，并开始体验属于自己的人生。",
 			"is_released": true,
 			"is_show": false,
-			"min_sale_price": "¥14.6",
+			"min_sale_price": "¥10.4",
 			"null_rating_reason": "",
 			"other_versions_count": 91,
 			"pages": [
@@ -1016,7 +1016,7 @@
 				"2017-1"
 			],
 			"rating": {
-				"count": 178727,
+				"count": 178861,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -1103,7 +1103,7 @@
 				"2025-2"
 			],
 			"rating": {
-				"count": 1312,
+				"count": 1315,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -1194,7 +1194,7 @@
 				"2019-10-1"
 			],
 			"rating": {
-				"count": 33116,
+				"count": 33136,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -1286,10 +1286,10 @@
 				"2018-10"
 			],
 			"rating": {
-				"count": 3562,
+				"count": 3563,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.2
+				"value": 8.1
 			},
 			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/30235060",
 			"subtype": "book",
@@ -1373,7 +1373,7 @@
 				"2012-9-1"
 			],
 			"rating": {
-				"count": 26638,
+				"count": 26645,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -1438,7 +1438,7 @@
 			"honor_infos": [
 				{
 					"kind": "book",
-					"rank": 179,
+					"rank": 180,
 					"title": "豆瓣图书Top250",
 					"uri": "douban://douban.com/subject_collection/book_top250"
 				}
@@ -1464,7 +1464,7 @@
 				"2005-6"
 			],
 			"rating": {
-				"count": 96443,
+				"count": 96476,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -1550,7 +1550,7 @@
 				"2008-11"
 			],
 			"rating": {
-				"count": 64817,
+				"count": 64820,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -1786,7 +1786,7 @@
 			"honor_infos": [
 				{
 					"kind": "book",
-					"rank": 68,
+					"rank": 66,
 					"title": "豆瓣图书Top250",
 					"uri": "douban://douban.com/subject_collection/book_top250"
 				}
@@ -1812,7 +1812,7 @@
 				"2008-9"
 			],
 			"rating": {
-				"count": 552734,
+				"count": 552842,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2085,7 +2085,7 @@
 				"2012-1-1"
 			],
 			"rating": {
-				"count": 15179,
+				"count": 15183,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -2171,7 +2171,7 @@
 				"2007-10"
 			],
 			"rating": {
-				"count": 12743,
+				"count": 12745,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -2257,7 +2257,7 @@
 				"2009-6"
 			],
 			"rating": {
-				"count": 20990,
+				"count": 20992,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -2345,7 +2345,7 @@
 				"2013-1-1"
 			],
 			"rating": {
-				"count": 531157,
+				"count": 531304,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -2436,7 +2436,7 @@
 				"2011-12-1"
 			],
 			"rating": {
-				"count": 60215,
+				"count": 60225,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -2677,7 +2677,7 @@
 			"intro": "《我看见的世界》既是李飞飞的个人史，也是一部波澜壮阔、跌宕起伏的人工智能发展史。\n在这本书里，李飞飞回忆了自己从底层移民成长到顶尖科学家的经历。她度过了困顿艰辛的青少年时代，但对科学的热爱不断激励着她持续追寻人生的“北极星”，并最终走进科学的殿堂。\n当李飞飞和家人努力适应在美国的生活时，恰逢现代人工智能开始不断取得突破。她不断开启新的科学征程，并确立了自己在计算机视觉领域的科学使命，取得了非凡的成就。在这本书里，她详细记录了这些重大时刻的关键细节。同时，李飞飞也对未来人工智能的发展方向提出了自己的判断和警醒，核心就是“以人为本”，让人工智能真正推动人类的发展，而不是成为威胁。\n这本书既是对重大科学突破幕后的精彩窥探，也是一位女性用好奇心和勇气突破人生困境的故事。它不仅证明了即使是最技术性的学术研究也需要激情，更加表明永不停歇的好奇心可以激发无尽的科技创新。",
 			"is_released": true,
 			"is_show": false,
-			"min_sale_price": "¥56.95",
+			"min_sale_price": "¥47.6",
 			"null_rating_reason": "",
 			"other_versions_count": 3,
 			"pages": [
@@ -2694,10 +2694,10 @@
 				"2024-4"
 			],
 			"rating": {
-				"count": 11856,
+				"count": 11882,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 8.8
+				"value": 8.9
 			},
 			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/36672955",
 			"subtype": "book",
@@ -2788,7 +2788,7 @@
 				"2023-11-30"
 			],
 			"rating": {
-				"count": 4794,
+				"count": 4805,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -2879,7 +2879,7 @@
 				"2020-10"
 			],
 			"rating": {
-				"count": 2613,
+				"count": 2615,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -3048,7 +3048,7 @@
 				"2021-9"
 			],
 			"rating": {
-				"count": 1862,
+				"count": 1863,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -3222,7 +3222,7 @@
 				"2014-2"
 			],
 			"rating": {
-				"count": 1638,
+				"count": 1640,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -3287,7 +3287,7 @@
 			"honor_infos": [
 				{
 					"kind": "book",
-					"rank": 84,
+					"rank": 86,
 					"title": "豆瓣图书Top250",
 					"uri": "douban://douban.com/subject_collection/book_top250"
 				}
@@ -3313,7 +3313,7 @@
 				"2020-7"
 			],
 			"rating": {
-				"count": 150302,
+				"count": 150405,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -3664,7 +3664,7 @@
 				"2007-10"
 			],
 			"rating": {
-				"count": 53764,
+				"count": 53772,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -3750,7 +3750,7 @@
 				"2024-11-20"
 			],
 			"rating": {
-				"count": 4285,
+				"count": 4290,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -3818,7 +3818,7 @@
 			"honor_infos": [
 				{
 					"kind": "book",
-					"rank": 58,
+					"rank": 57,
 					"title": "豆瓣图书Top250",
 					"uri": "douban://douban.com/subject_collection/book_top250"
 				}
@@ -3827,7 +3827,7 @@
 			"intro": "12岁的阿富汗富家少爷阿米尔与仆人哈桑情同手足。然而，在一场风筝比赛后，发生了一件悲惨不堪的事，阿米尔为自己的懦弱感到自责和痛苦，逼走了哈桑，不久，自己也跟随父亲逃往美国。\n成年后的阿米尔始终无法原谅自己当年对哈桑的背叛。为了赎罪，阿米尔再度踏上暌违二十多年的故乡，希望能为不幸的好友尽最后一点心力，却发现一个惊天谎言，儿时的噩梦再度重演，阿米尔该如何抉择？\n故事如此残忍而又美丽，作者以温暖细腻的笔法勾勒人性的本质与救赎，读来令人荡气回肠。",
 			"is_released": true,
 			"is_show": false,
-			"min_sale_price": "¥20.59",
+			"min_sale_price": "¥19.72",
 			"null_rating_reason": "",
 			"other_versions_count": 21,
 			"pages": [
@@ -3844,7 +3844,7 @@
 				"2006-5"
 			],
 			"rating": {
-				"count": 826328,
+				"count": 826394,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -3912,7 +3912,7 @@
 			"honor_infos": [
 				{
 					"kind": "book",
-					"rank": 54,
+					"rank": 53,
 					"title": "豆瓣图书Top250",
 					"uri": "douban://douban.com/subject_collection/book_top250"
 				}
@@ -3938,7 +3938,7 @@
 				"2006-8"
 			],
 			"rating": {
-				"count": 224784,
+				"count": 224809,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -4031,7 +4031,7 @@
 				"2014-11"
 			],
 			"rating": {
-				"count": 214843,
+				"count": 214884,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -4125,7 +4125,7 @@
 				"2002-5"
 			],
 			"rating": {
-				"count": 131074,
+				"count": 131135,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -4218,7 +4218,7 @@
 				"2007-3"
 			],
 			"rating": {
-				"count": 181002,
+				"count": 181059,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -4311,7 +4311,7 @@
 				"2002-5"
 			],
 			"rating": {
-				"count": 131074,
+				"count": 131135,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -4404,7 +4404,7 @@
 				"2007-3"
 			],
 			"rating": {
-				"count": 181002,
+				"count": 181059,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -4497,7 +4497,7 @@
 				"2012-1"
 			],
 			"rating": {
-				"count": 216018,
+				"count": 216092,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -4590,7 +4590,7 @@
 				"2010-4-1"
 			],
 			"rating": {
-				"count": 311591,
+				"count": 311649,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -4657,7 +4657,7 @@
 			"honor_infos": [
 				{
 					"kind": "book",
-					"rank": 157,
+					"rank": 155,
 					"title": "豆瓣图书Top250",
 					"uri": "douban://douban.com/subject_collection/book_top250"
 				}
@@ -4683,7 +4683,7 @@
 				"2019-10"
 			],
 			"rating": {
-				"count": 225091,
+				"count": 225189,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -4769,7 +4769,7 @@
 				"2023-10-2"
 			],
 			"rating": {
-				"count": 3721,
+				"count": 3723,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -4862,7 +4862,7 @@
 				"2023-11-1"
 			],
 			"rating": {
-				"count": 3417,
+				"count": 3419,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -5018,7 +5018,7 @@
 			"honor_infos": [
 				{
 					"kind": "book",
-					"rank": 202,
+					"rank": 204,
 					"title": "豆瓣图书Top250",
 					"uri": "douban://douban.com/subject_collection/book_top250"
 				}
@@ -5044,7 +5044,7 @@
 				"2016-11"
 			],
 			"rating": {
-				"count": 34802,
+				"count": 34819,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -5114,7 +5114,7 @@
 			"intro": "家人得了癌症，我该怎么办？\n如何选择合适的医院和医生？\n如何跟医生有效沟通？\n要不要告诉家人他得癌症了？\n癌症病人饮食有哪些禁忌？\n工薪阶层该如何有效应对癌症带来的经济压力？\n什么时候该放弃治疗？\n临终关怀该怎么做？\n本书是一名临床经验丰富的肿瘤科主治医生为癌症病人家属写的书，作者通过一个个生动真实的故事，以幽默诙谐而不乏温情的叙述，解答了癌症病人及家属广泛关注的困惑和问题：如何正确就医？如何与医生交流？如何决定合理的治疗方案，少走冤枉路、少花冤枉钱？如何正确看待癌症？怎样调整生活方式和心态？掌握哪些护理技巧可以帮助患者减轻痛苦、早日康复？如果大限来临，应该做些什么准备？……\n作者不仅分享了科学、系统的医学指导意见，便于病患和家属查询、借鉴，也揭示了很多“只有医生知道”的行业内幕和医学从业者的酸甜苦辣，富有亲和力和实用性，增进了医患之间的沟通和理解。",
 			"is_released": true,
 			"is_show": false,
-			"min_sale_price": "¥29.68",
+			"min_sale_price": "¥29.8",
 			"null_rating_reason": "",
 			"other_versions_count": 0,
 			"pages": [
@@ -5131,7 +5131,7 @@
 				"2021-9-1"
 			],
 			"rating": {
-				"count": 4959,
+				"count": 4960,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -5398,7 +5398,7 @@
 				"2018-1"
 			],
 			"rating": {
-				"count": 13490,
+				"count": 13491,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -5571,7 +5571,7 @@
 				"2019-7"
 			],
 			"rating": {
-				"count": 15423,
+				"count": 15427,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
