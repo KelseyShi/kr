@@ -2,6 +2,90 @@
 	{
 		"charts": [],
 		"comment": "",
+		"create_time": "2026-07-22 08:41:05",
+		"id": 4895627566,
+		"is_editable": false,
+		"is_private": false,
+		"platforms": [],
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 5,
+			"value": 5
+		},
+		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/36975962 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36975962/interest/4895627566",
+		"status": "done",
+		"subject": {
+			"article_intros": [],
+			"author": [
+				"群星观测"
+			],
+			"book_subtitle": "我是外星人",
+			"buy_more_uri": "douban://douban.com/book/36975962/vendors_douban",
+			"card_subtitle": "群星观测 / 2024 / 湖南文艺出版社",
+			"color_scheme": {
+				"_base_color": [
+					0.5639269406392694,
+					0.6790697674418604,
+					0.8431372549019608
+				],
+				"_avg_color": [
+					0.2177419354838709,
+					0.2767857142857143,
+					0.8784313725490196
+				],
+				"primary_color_light": "357aa5",
+				"primary_color_dark": "285e7f",
+				"secondary_color": "f4f7f9",
+				"is_dark": true
+			},
+			"controversy_reason": "",
+			"cover_url": "https://dou.img.lithub.cc/book/36975962.jpg",
+			"has_ebook": false,
+			"honor_infos": [],
+			"id": "36975962",
+			"intro": "☆ 刘慈欣、天瑞说符等科幻大拿高赞推荐！\n☆入选中国国家版本馆，作品被国家收藏！\n☆被读者誉为“天才作家的神作”“想象力不输《哈利·波特》”！全年龄版《瑞克和莫迪》、外星版《蝶形世界》，是一部极具成为中国少年科幻经典作品潜力的佳作！读者打出9.9分的高分作品！口碑炸裂 ！\n☆北大网络文学研究论坛撰文认证的优秀科幻小说，适合9-99岁全年龄段阅读。\n☆ 壮阔的太空旅行，奇妙的少年冒险，严密的逻辑推演，拍案叫绝的想象力。\n☆ 层层揭秘的悬疑快感，让人天灵盖都爽炸的连环伏笔\n极其严谨的故事架构、神乎其神的超绝脑洞、宏大而卓绝的世界观、让人捧腹大笑的故事线、无数让人拍案叫绝的神反转、令人震撼的逻辑闭环……未来、现在和过去同时存在！\n☆一本被读者评价为“每一分每一秒都能得到阅读乐趣的书”\n是一场疲惫成年人重返童年的奇妙梦境，从轻松明快的儿童文学到跨越时间空间的科幻佳作，读者可以跟随主角穿梭在千年前和万年后，畅游在银河系和下水道。\n☆让读者在哈哈大笑中开启对世界、对宇宙的好奇和探索\n作者伏笔连环，以科幻文学为载体，讨论人类的渺小、生命的终极、灵魂的归属等哲学思考，通过主角鸡飞狗跳的日常趣事，让读者在哈哈大笑中开启对世界、对宇宙的好奇和探索。\n☆ 本书的广播剧、动漫番剧改编同步制作中！将以图书、有声剧、动画等多种形式呈现并影响、启迪读者！\n【内容简介】\n这是长篇科幻小说《寄生之子》系列的第一部。故事讲述了一个外星生物因意外降临到脑死亡的地球男孩颜真身上，它试着扮演颜真融入当地，没有引起任何人的怀疑，并且结识了两个外星同伴——一只叫“斑船长”的鸡，一位自称“猫先生”的猫。一人一鸡一猫一起解决了豆芽失控、校猫失踪、妹妹遭遇网络霸凌、同学及其家人被蒲泥怪融化等事件。故事天马行空，充满丰富的想象力，在一个个单元故事中，描绘着温馨的亲情、真挚的友情，温暖、治愈又打动人心。",
+			"is_released": true,
+			"is_show": false,
+			"min_sale_price": "¥23.4",
+			"null_rating_reason": "",
+			"other_versions_count": 0,
+			"pages": [
+				"296"
+			],
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/l/public/s34936226.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/m/public/s34936226.jpg"
+			},
+			"press": [
+				"湖南文艺出版社"
+			],
+			"pubdate": [
+				"2024-8"
+			],
+			"rating": {
+				"count": 215,
+				"max": 10,
+				"star_count": 4.5,
+				"value": 9.4
+			},
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/36975962",
+			"subtype": "book",
+			"title": "寄生之子 1",
+			"type": "book",
+			"uri": "douban://douban.com/book/36975962",
+			"url": "https://book.douban.com/subject/36975962/",
+			"vendor_icons": [],
+			"vendor_original_price": "",
+			"vendor_sale_price": ""
+		},
+		"tags": [],
+		"vote_count": 0
+	},
+	{
+		"charts": [],
+		"comment": "",
 		"create_time": "2026-06-14 16:14:54",
 		"id": 4865817539,
 		"is_editable": false,
@@ -66,7 +150,7 @@
 				"2021-4"
 			],
 			"rating": {
-				"count": 8131,
+				"count": 8132,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -150,7 +234,7 @@
 				"2021-2"
 			],
 			"rating": {
-				"count": 33779,
+				"count": 33813,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -241,7 +325,7 @@
 				"2023-2"
 			],
 			"rating": {
-				"count": 4455,
+				"count": 4464,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -500,7 +584,7 @@
 				"2014-2"
 			],
 			"rating": {
-				"count": 44981,
+				"count": 44991,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -586,7 +670,7 @@
 				"2019-10-1"
 			],
 			"rating": {
-				"count": 1303,
+				"count": 1305,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -677,7 +761,7 @@
 				"2025-2"
 			],
 			"rating": {
-				"count": 4387,
+				"count": 4396,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -844,10 +928,10 @@
 				"2011-5-16"
 			],
 			"rating": {
-				"count": 3576,
+				"count": 3577,
 				"max": 10,
 				"star_count": 4,
-				"value": 8
+				"value": 7.9
 			},
 			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/5960874",
 			"subtype": "book",
@@ -1010,7 +1094,7 @@
 				"2018-1"
 			],
 			"rating": {
-				"count": 9578,
+				"count": 9581,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -1084,7 +1168,7 @@
 			"intro": "《悉达多》并非是佛陀的故事，它讲述了一个人的一生，千万寻常人亦会经历的一生。\n意气风发的少年郎，常认为自己是被命运选中的人。抛下过去，随了跌跌撞撞的步伐，找寻心中的声音，追逐名利，经历友情，品尝爱情。不同的是，悉达多一生追求的是生命的圆融统一，看似宏大，确是每个人无法回 避的问题。\n黑塞的语言是充满诗性的，正如本书副题“一首印度的诗”，因不得而知的原因，此副题在前人所出版本中都被回避了。为了尽可能表现黑塞的诗意，我们选择从德文直译，尽管我们的译文不能完全实现这种诗意，但其诗的本性与精神显而易见。\n本书地位在前人的版本中已被反复强调——亨利·米勒的最爱；影响了包括电台司令在内的许多名人雅士；在六十年代美国掀起过阅读黑塞的热潮，大学生们人手一册等等。\n但如书中成为摆渡人的悉达多所述，智慧无法分享，它可以被发现，被体验。\n所以倘若你碰巧遇到了这本小书，请细细品味其中的文字。\n愿你在读了悉达多的故事后，也能有所感悟，并开始体验属于自己的人生。",
 			"is_released": true,
 			"is_show": false,
-			"min_sale_price": "¥10.1",
+			"min_sale_price": "¥14.9",
 			"null_rating_reason": "",
 			"other_versions_count": 94,
 			"pages": [
@@ -1101,7 +1185,7 @@
 				"2017-1"
 			],
 			"rating": {
-				"count": 182773,
+				"count": 182906,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -1188,7 +1272,7 @@
 				"2025-2"
 			],
 			"rating": {
-				"count": 1389,
+				"count": 1390,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -1279,7 +1363,7 @@
 				"2019-10-1"
 			],
 			"rating": {
-				"count": 33423,
+				"count": 33430,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -1371,7 +1455,7 @@
 				"2018-10"
 			],
 			"rating": {
-				"count": 3601,
+				"count": 3603,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -1441,7 +1525,7 @@
 			"intro": "1、本土科幻名家，均多次获得科幻最高奖“银河奖”，本土科幻的代表人物。 2、作家自选集，收录作者各个时期创作的代表作。 3、刘慈欣的《乡村教师》被改编成电影，下半年上映。 4、书中附有作者近照和亲笔题字签名（手写印刷），收录作者的创作年表和获奖情况等资料，制作精良，可作为科幻迷的收藏版本。",
 			"is_released": true,
 			"is_show": false,
-			"min_sale_price": "¥33.21",
+			"min_sale_price": "¥33.2",
 			"null_rating_reason": "",
 			"other_versions_count": 1,
 			"pages": [
@@ -1458,7 +1542,7 @@
 				"2012-9-1"
 			],
 			"rating": {
-				"count": 26775,
+				"count": 26780,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -1549,7 +1633,7 @@
 				"2005-6"
 			],
 			"rating": {
-				"count": 96994,
+				"count": 97009,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -1635,7 +1719,7 @@
 				"2008-11"
 			],
 			"rating": {
-				"count": 64873,
+				"count": 64876,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -1720,10 +1804,10 @@
 				"2020"
 			],
 			"rating": {
-				"count": 481,
+				"count": 483,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 8.7
+				"value": 8.6
 			},
 			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/35332001",
 			"subtype": "book",
@@ -1897,7 +1981,7 @@
 				"2008-9"
 			],
 			"rating": {
-				"count": 554952,
+				"count": 555028,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2170,7 +2254,7 @@
 				"2012-1-1"
 			],
 			"rating": {
-				"count": 15315,
+				"count": 15317,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -2430,7 +2514,7 @@
 				"2013-1-1"
 			],
 			"rating": {
-				"count": 534975,
+				"count": 535109,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -2521,7 +2605,7 @@
 				"2011-12-1"
 			],
 			"rating": {
-				"count": 60666,
+				"count": 60686,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -2779,7 +2863,7 @@
 				"2024-4"
 			],
 			"rating": {
-				"count": 12404,
+				"count": 12416,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -2873,7 +2957,7 @@
 				"2023-11-30"
 			],
 			"rating": {
-				"count": 5121,
+				"count": 5124,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -2964,7 +3048,7 @@
 				"2020-10"
 			],
 			"rating": {
-				"count": 2637,
+				"count": 2639,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -3116,7 +3200,7 @@
 			"intro": "如果你现在还在寻找有什么方法能帮你走这段路，泰勒想告诉你：“这本书是为了我、你和过世的人写的。”\n这本书是插画家泰勒?费德尔写给母亲的回忆录。泰勒刚上大学时，她深爱的母亲便被诊断出癌症未期。一年后，母亲去世了。母亲走后，泰勒一直与悲伤共处，在人前强颜欢笑。直到了十年后，泰勒才决定敞开心房，用文字和画笔描绘出失去挚爱亲人、却难以向他人倾诉的感受。书中有着泰勒从小到大与母亲相处的温暖回忆、母亲从患癌到去世过程中令人心碎的琐碎小事，以及出失挚爱的母亲后却难以言喻的悲伤感受和对母亲浓浓的思念之情。这本回忆录情感真挚坦率，又有小小的幽默，任何失去过亲人的读者都会感受到治愈。",
 			"is_released": true,
 			"is_show": false,
-			"min_sale_price": "¥48.5",
+			"min_sale_price": "¥54.5",
 			"null_rating_reason": "",
 			"other_versions_count": 2,
 			"pages": [
@@ -3133,7 +3217,7 @@
 				"2021-9"
 			],
 			"rating": {
-				"count": 1898,
+				"count": 1899,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -3307,7 +3391,7 @@
 				"2014-2"
 			],
 			"rating": {
-				"count": 1693,
+				"count": 1695,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -3398,7 +3482,7 @@
 				"2020-7"
 			],
 			"rating": {
-				"count": 153541,
+				"count": 153639,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -3749,7 +3833,7 @@
 				"2007-10"
 			],
 			"rating": {
-				"count": 54027,
+				"count": 54035,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -3835,7 +3919,7 @@
 				"2024-11-20"
 			],
 			"rating": {
-				"count": 4462,
+				"count": 4466,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -3912,7 +3996,7 @@
 			"intro": "12岁的阿富汗富家少爷阿米尔与仆人哈桑情同手足。然而，在一场风筝比赛后，发生了一件悲惨不堪的事，阿米尔为自己的懦弱感到自责和痛苦，逼走了哈桑，不久，自己也跟随父亲逃往美国。\n成年后的阿米尔始终无法原谅自己当年对哈桑的背叛。为了赎罪，阿米尔再度踏上暌违二十多年的故乡，希望能为不幸的好友尽最后一点心力，却发现一个惊天谎言，儿时的噩梦再度重演，阿米尔该如何抉择？\n故事如此残忍而又美丽，作者以温暖细腻的笔法勾勒人性的本质与救赎，读来令人荡气回肠。",
 			"is_released": true,
 			"is_show": false,
-			"min_sale_price": "¥16.0",
+			"min_sale_price": "¥15.5",
 			"null_rating_reason": "",
 			"other_versions_count": 21,
 			"pages": [
@@ -3929,7 +4013,7 @@
 				"2006-5"
 			],
 			"rating": {
-				"count": 828301,
+				"count": 828353,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -4023,7 +4107,7 @@
 				"2006-8"
 			],
 			"rating": {
-				"count": 225644,
+				"count": 225677,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -4116,7 +4200,7 @@
 				"2014-11"
 			],
 			"rating": {
-				"count": 215843,
+				"count": 215877,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -4140,87 +4224,87 @@
 	{
 		"charts": [],
 		"comment": "",
-		"create_time": "2025-01-21 17:42:27",
-		"id": 4420035376,
+		"create_time": "2025-01-21 17:42:55",
+		"id": 4420035703,
 		"is_editable": false,
 		"is_private": false,
 		"platforms": [],
 		"rating": {
 			"count": 1,
 			"max": 5,
-			"star_count": 5,
-			"value": 5
+			"star_count": 3,
+			"value": 3
 		},
-		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/1209899 来自@豆瓣App",
-		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/1209899/interest/4420035376",
+		"sharing_text": "我的评分：★★★ https://www.douban.com/doubanapp/dispatch/book/1858513 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/1858513/interest/4420035703",
 		"status": "done",
 		"subject": {
 			"article_intros": [],
 			"author": [
-				"史铁生"
+				"[英] 毛姆"
 			],
-			"book_subtitle": "史铁生代表作",
-			"buy_more_uri": "",
-			"card_subtitle": "史铁生 / 2002 / 春风文艺出版社",
+			"book_subtitle": "",
+			"buy_more_uri": "douban://douban.com/book/1858513/vendors_douban",
+			"card_subtitle": "[英] 毛姆 / 2006 / 上海译文出版社",
 			"color_scheme": {
 				"_base_color": [
-					0.1616161616161615,
-					0.15566037735849067,
-					0.8313725490196079
+					0.6612903225806451,
+					0.13478260869565217,
+					0.9019607843137255
 				],
 				"_avg_color": [
-					0.15625000000000003,
-					0.15920398009950248,
-					0.788235294117647
+					0.6614583333333334,
+					0.13973799126637554,
+					0.8980392156862745
 				],
-				"primary_color_light": "a5a48b",
-				"primary_color_dark": "7f7e6b",
-				"secondary_color": "f9f9f4",
+				"primary_color_light": "8f90a5",
+				"primary_color_dark": "6e6e7f",
+				"secondary_color": "f4f5f9",
 				"is_dark": true
 			},
 			"controversy_reason": "",
-			"cover_url": "https://dou.img.lithub.cc/book/1209899.jpg",
+			"cover_url": "https://dou.img.lithub.cc/book/1858513.jpg",
 			"has_ebook": true,
 			"honor_infos": [
 				{
 					"kind": "book",
-					"rank": 28,
+					"rank": 53,
 					"title": "豆瓣图书Top250",
 					"uri": "douban://douban.com/subject_collection/book_top250"
 				}
 			],
-			"id": "1209899",
-			"intro": "收有“午餐半小时”、“我的遥远的清平湾”、“命若琴弦”、“第一人称”、“两个故事”等15篇史铁生的代表作。",
+			"id": "1858513",
+			"intro": "一个英国证券交易所的经纪人，本已有牢靠的职业和地位、美满的家庭，但却迷恋上绘画，像“被魔鬼附了体”，突然弃家出走，到巴黎去追求绘画的理想。他的行径没有人能够理解。他在异国不仅肉体受着贫穷和饥饿煎熬，而且为了寻找表现手法，精神亦在忍受痛苦折磨。经过一番离奇的遭遇后，主人公最后离开文明世界，远遁到与世隔绝的塔希提岛上。他终于找到灵魂的宁静和适合自己艺术气质的氛围。他同一个土著女子同居，创作出一幅又一幅使后世震惊的杰作。在他染上麻风病双目失明之前，曾在自己住房四壁画了一幅表现伊甸园的伟大作品。但在逝世之前，他却命令土著女子在他死后把这幅画作付之一炬。通过这样一个一心追求艺术、不通人性世故的怪才，毛姆探索了艺术的产生与本质、个性与天才的关系、艺术家与社会的矛盾等等引人深思的问题。同时这本书也引发了人们对摆脱世俗束缚逃离世俗社会寻找心灵家园这一话题的思考，而关于南太平洋小岛的自然民风的描写也引人向往。\n《月亮和六便士》说问世后，以情节入胜、文字深刻在文坛轰动一时，人们争相传看。在小说中，毛姆用第一人称的叙述手法，借“我”之口，叙述整个故事，有人认为这篇小说的原型是法国印象派画家高更，这更增加了它的传奇色彩，受到了全世界读者的关注。",
 			"is_released": true,
 			"is_show": false,
-			"min_sale_price": "",
+			"min_sale_price": "¥12.94",
 			"null_rating_reason": "",
-			"other_versions_count": 15,
+			"other_versions_count": 118,
 			"pages": [
-				"399"
+				"275"
 			],
 			"pic": {
-				"large": "https://img1.doubanio.com/view/subject/l/public/s1151479.jpg",
-				"normal": "https://img1.doubanio.com/view/subject/m/public/s1151479.jpg"
+				"large": "https://img1.doubanio.com/view/subject/l/public/s2659208.jpg",
+				"normal": "https://img1.doubanio.com/view/subject/m/public/s2659208.jpg"
 			},
 			"press": [
-				"春风文艺出版社"
+				"上海译文出版社"
 			],
 			"pubdate": [
-				"2002-5"
+				"2006-8"
 			],
 			"rating": {
-				"count": 132532,
+				"count": 225677,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 9.2
+				"value": 9
 			},
-			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/1209899",
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/1858513",
 			"subtype": "book",
-			"title": "我与地坛",
+			"title": "月亮和六便士",
 			"type": "book",
-			"uri": "douban://douban.com/book/1209899",
-			"url": "https://book.douban.com/subject/1209899/",
+			"uri": "douban://douban.com/book/1858513",
+			"url": "https://book.douban.com/subject/1858513/",
 			"vendor_icons": [
 				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
@@ -4303,7 +4387,7 @@
 				"2014-11"
 			],
 			"rating": {
-				"count": 215843,
+				"count": 215877,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -4397,7 +4481,7 @@
 				"2002-5"
 			],
 			"rating": {
-				"count": 132532,
+				"count": 132568,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -4490,7 +4574,7 @@
 				"2007-3"
 			],
 			"rating": {
-				"count": 182461,
+				"count": 182497,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -4583,7 +4667,7 @@
 				"2012-1"
 			],
 			"rating": {
-				"count": 217898,
+				"count": 217963,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -4676,7 +4760,7 @@
 				"2010-4-1"
 			],
 			"rating": {
-				"count": 313261,
+				"count": 313321,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -4769,7 +4853,7 @@
 				"2019-10"
 			],
 			"rating": {
-				"count": 227433,
+				"count": 227511,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -4855,7 +4939,7 @@
 				"2023-10-2"
 			],
 			"rating": {
-				"count": 3816,
+				"count": 3817,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -4948,7 +5032,7 @@
 				"2023-11-1"
 			],
 			"rating": {
-				"count": 3506,
+				"count": 3507,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -5035,10 +5119,10 @@
 				"2017-9-30"
 			],
 			"rating": {
-				"count": 2225,
+				"count": 2226,
 				"max": 10,
-				"star_count": 4.5,
-				"value": 8.5
+				"star_count": 4,
+				"value": 8.4
 			},
 			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/27131873",
 			"subtype": "book",
@@ -5130,7 +5214,7 @@
 				"2016-11"
 			],
 			"rating": {
-				"count": 35267,
+				"count": 35283,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -5216,7 +5300,7 @@
 				"2021-9-1"
 			],
 			"rating": {
-				"count": 5007,
+				"count": 5008,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -5391,7 +5475,7 @@
 				"2018-4-11"
 			],
 			"rating": {
-				"count": 9132,
+				"count": 9133,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -5467,7 +5551,7 @@
 			"intro": "新锐小说家马特·海格以文学手法剖白自身心理困境\n再现一段克服绝望、走出抑郁的生命之旅\n...................\n※编辑推荐※\n☆畅销全球33个国家，英国报业巨头《星期日泰晤士报》非虚构类畅销书排行榜No.1，连续46周稳居英国图书畅销榜前10名，英国最大连 锁书店水石书店年度选书，入选《娱乐周刊》2016年必读书目。\n☆ BBC、《纽约时报》《卫报》《星期日泰晤士报》《电讯报》《观察家报》《赫芬顿邮报》等五十余家知名媒体争相报道，珍妮特•温特森、尼尔•盖曼、S·J·沃森、乔安妮·哈里斯等知名作家击节赞赏。\n☆作者马特·海格曾站在悬崖边企图自杀，离死亡只有一步之遥。在这本书中，他以惊人的准确度再现了与抑郁相伴的种种亲身感受。但这本书非关死亡，而是关于如何在失去一切之后绝地逆转，度过人生的艰难时期；如何在走出困境之后成为更好的自己，更用力地去爱，去生活，去感知生命。\n...................\n※内容简介※\n24岁时，作者马特·海格不幸被命运选中，成为抑郁症患者。本书讲述了这个并不比任何人坚强的年轻人，一点一滴克服精神上的极度痛苦，从绝望中活下来的故事。\n在《活下去的理由》中，马特一面以文学手法精确再现那些不被理解、无法言说又撕心裂肺的精神痛苦，代抑郁症患者发出那些不曾被世界听到的呼喊；一面又用举重若轻的笔调，讲述他在爱的陪伴下一次次击退黑暗的经历，向读者分享了一场绝望与希望并存、黑暗和温暖交织的生命之旅。\n著名演员乔安娜·林莉称这本书“甚至能救活几条人命”，亚马逊读者称“想把这本书拿给所有人看，因为它说出了自己无法表达的心声”。\n...................\n※ 媒体推荐※\n《活下去的理由》不是那种普遍意义上的自助书，它反映了个体生命对危机的应对方式，具有强烈的个人色彩和创造性。这本书能够带给人们希望，帮助人们更好地认识自己。\n——《卫报》（The Guardian）\n看着这个年轻的生命被抑郁症消耗，本该是个令人心碎的故事，但这本书却带来了出人意料的温柔抚慰。\n——《星期日邮报》（Sunday Mail）\n一个关于作者是怎样从抑郁和自杀阴影中回归的温暖故事，在绝望的时候，它能给你带来安慰。\n——《新政治家周刊》（New Statesman）\n这本书不仅对抑郁者有用，还能帮助抑郁者的父母、伴侣、朋友了解所爱之人正在经历什么。它是希望的灯塔。\n——stylist杂志\n这里没有心理呓语，只有海格非常真实、接地气，充满智慧的叙述。书中很多句子都能引发联想，让你想把他们摘抄下来。\n——《女性健康》（Women’s Health）\n...................\n※ 名人推荐※\n这是一本绝妙的书，那些为抑郁症所苦的人，身边有人受抑郁症折磨的人（差不多每个人都有），都应该读一读。\n——S·J·沃森（S·J·Watson），畅销小说《别相信任何人》作者\n把难以启齿的敏感话题从黑暗中解放出来，并照以光亮。\n——麦克·帕林（Michael Palin），英国喜剧演员\n我无法用言语表达这本书中蕴藏着多么大的救赎力量。阅读这本书的感觉，就像作者给了我一个温暖的拥抱，他仿佛在对我说：“我保证，一切都会好起来的。”\n——亚马逊读者\n终于有一本关于抑郁症的书真的有用了！有过类似经历的读者一定会不停地点头，同意作者所说的一切。这里没有心理学家们隔岸观火般的治疗方案，只是在讲述马特·海格与恐怖的黑狗相伴同行的真实经历。它让我流泪，也让我欢笑，我为马特走出抑郁的那些瞬间而欢欣雀跃。\n——goodreads读者",
 			"is_released": true,
 			"is_show": false,
-			"min_sale_price": "¥16.38",
+			"min_sale_price": "¥17.81",
 			"null_rating_reason": "",
 			"other_versions_count": 4,
 			"pages": [
@@ -5484,7 +5568,7 @@
 				"2018-1"
 			],
 			"rating": {
-				"count": 13556,
+				"count": 13559,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -5578,7 +5662,7 @@
 				"2017-10"
 			],
 			"rating": {
-				"count": 4238,
+				"count": 4239,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -5640,7 +5724,7 @@
 			"intro": "为什么“习惯改变命运”？因为个人40%~50%的行为取决于无意识的习惯。\n习惯形成需要4步：提示→渴求→反应→奖赏。提示触发渴求，渴求激发反应，而反应则提供满足渴求的奖赏，并最终与提示相关联。这4个步骤一起形成了一个神经反馈回路——提示、渴求、反应、奖赏；提示、渴求、反应、奖赏——并最终让你养成自然而然的习惯，由此构成完整的习惯循环。\n美国著名习惯研究专家、习惯学院创始人詹姆斯•克莱尔根据习惯形成的4个步骤，总结了相对应的培养习惯的4大定律：让它显而易见；让它有吸引力；让它简便易行；让它令人愉悦。本书通过这4大定律、56个具体案例，帮助你快速养成良好的习惯，同时利用这4大定律的反面，可以帮助你戒除不良的习惯。",
 			"is_released": true,
 			"is_show": false,
-			"min_sale_price": "¥28.0",
+			"min_sale_price": "¥24.1",
 			"null_rating_reason": "",
 			"other_versions_count": 5,
 			"pages": [
@@ -5657,7 +5741,7 @@
 				"2019-7"
 			],
 			"rating": {
-				"count": 15558,
+				"count": 15559,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
